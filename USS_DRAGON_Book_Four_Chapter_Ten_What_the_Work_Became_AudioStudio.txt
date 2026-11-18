@@ -1,0 +1,320 @@
+USS DRAGON
+BOOK FOUR — THE CREW THAT HELD THE LINE
+CHAPTER TEN OF TEN — WHAT THE WORK BECAME
+Audio Studio full-cast edition
+Historical details are based on Brian's reported life history; the USS Dragon, archive, and crew dialogue are fictional. Unverified details are not presented as independent documentation.
+
+[voice:NARRATOR]
+The USS Dragon entered its final archive chamber. There was no throne, no victory parade, and no enormous red button. Instead, a long table held the work the crew had traced across nine chapters: a classroom lesson, a recovery timeline, a manuscript, a card, a website, and a computer running a small local AI experiment.
+
+[voice:DRAGON TWIN ONE]
+I'm disappointed. The final chamber needs a button that says CONGRATULATIONS, YOU SURVIVED THE FILING SYSTEM.
+
+[voice:DRAGON TWIN TWO]
+You would press it before reading the warning.
+
+[voice:GREEN DRAGON]
+The warning would say DO NOT PRESS.
+
+[voice:DRAGON TWIN ONE]
+Then the button is practically begging.
+
+[voice:TIRZAH]
+I like this room. No monument. Just things somebody made.
+
+[voice:BRIAN]
+Or tried to make. We should keep that distinction.
+
+[voice:RAZACI]
+I have completed the archive cross-check. We have ten chapters' worth of investigation in this book, but the underlying life is larger than our selection. This is a conclusion to our current inquiry, not a claim that every historical record has been recovered.
+
+[voice:BRIAN]
+Good. Tell me what the crew learned.
+
+[voice:DRAGON TWIN TWO]
+That the computer work in Sacramento wasn't one single job. We separated the staffing assignment and automated machine updates from the distinct MCI–Packard Bell and NetDay '96 material.
+
+[voice:DRAGON TWIN ONE]
+And that when you automate something, you still have to check whether it worked. A lesson I learned after making a button do absolutely nothing for forty minutes.
+
+[voice:GREEN DRAGON]
+Forty-three minutes.
+
+[voice:DRAGON TWIN ONE]
+You are an unnecessarily accurate ship.
+
+[voice:TIRZAH]
+We also learned not to flatten the teaching history. Brian taught computer subjects before the motorcycle crash. His later degrees followed the injury and recovery. Both belong to the same life, but they aren't interchangeable.
+
+[voice:RAZACI]
+The reported timeline places computer teaching in Montana in 1998 and 1999, the collision on May 6, 1999, and a master's degree in psychology completed in 2006. Other educational and technical milestones have less precise dates in the material available to us.
+
+[voice:BRIAN]
+And the missing dates stay missing.
+
+[voice:GREEN DRAGON]
+Confirmed.
+
+[voice:TIRZAH]
+We looked at the difficult records too. Hospital treatment, rehabilitation, memory difficulties, seizures, later institutional encounters. We didn't use any of them as a shortcut to explaining the whole person.
+
+[voice:DRAGON TWIN TWO]
+And we didn't pretend that building something later means every difficulty went away.
+
+[voice:BRIAN]
+That's important. A person can still have problems and still do meaningful work.
+
+[voice:DRAGON TWIN ONE]
+I have problems every morning.
+
+[voice:GREEN DRAGON]
+Mostly caused by your own breakfast experiments.
+
+[voice:DRAGON TWIN ONE]
+A scientist must eat.
+
+[voice:RAZACI]
+The next section is called THE WORK ITSELF.
+
+[voice:NARRATOR]
+A book opened above the table. Its pages shifted into card art, then into a simple interactive lesson, then into a script prepared for different voices.
+
+[voice:TIRZAH]
+ECHO kept coming back in different forms. Stories, lessons, card games, artwork, tabletop mechanics, and reader websites.
+
+[voice:DRAGON TWIN TWO]
+Some versions have ninety cards. Some are smaller. Some are planned releases, not finished releases.
+
+[voice:BRIAN]
+Exactly. Don't call an idea a product just because the cover looks good.
+
+[voice:DRAGON TWIN ONE]
+I feel personally attacked.
+
+[voice:BRIAN]
+You should. Your first game had a START button and no game.
+
+[voice:DRAGON TWIN ONE]
+It had tremendous anticipation.
+
+[voice:TIRZAH]
+But the underlying pattern is real. You can tell a story, then turn a piece of it into an exercise, then turn the exercise into a card, then build a page where somebody can explore it.
+
+[voice:RAZACI]
+And you can preserve the steps so another person can continue the project. That is one reason the prompt archives and single-file HTML work matter.
+
+[voice:GREEN DRAGON]
+A practical design preference appears repeatedly: files that can be opened, moved, hosted, and understood without an elaborate system.
+
+[voice:DRAGON TWIN TWO]
+Except when the system is elaborate.
+
+[voice:BRIAN]
+Then the goal is to make it usable anyway.
+
+[voice:TIRZAH]
+There's another thread. The people who helped with the work.
+
+[voice:RAZACI]
+The archive records Lesley Stevenson's editing contributions and the involvement or interests of several family members in websites, music, trucking-related projects, and games. The exact scope of each contribution varies by project and should not be enlarged beyond the source.
+
+[voice:BRIAN]
+Right. We can honor somebody without writing them a made-up biography.
+
+[voice:DRAGON TWIN ONE]
+Could we at least write me a made-up biography?
+
+[voice:DRAGON TWIN TWO]
+You already do. Every time you describe your job.
+
+[voice:DRAGON TWIN ONE]
+My job is morale.
+
+[voice:GREEN DRAGON]
+Your job is currently to inspect the lesson station.
+
+[voice:DRAGON TWIN ONE]
+Morale through inspection.
+
+[voice:NARRATOR]
+The twin moved to a small screen. It displayed the interactive computer practice the crew had discussed in Chapter Seven.
+
+[voice:DRAGON TWIN ONE]
+It says CLICK TO OPEN A FOLDER. That's good. I can understand that.
+
+[voice:TIRZAH]
+What about the next step?
+
+[voice:DRAGON TWIN ONE]
+'Choose a file and save a copy.' Also good. But there's no explanation of where the copy goes.
+
+[voice:DRAGON TWIN TWO]
+Then we add that before we call it finished.
+
+[voice:BRIAN]
+Now you're both teaching. Not by giving a speech. By watching where somebody gets stuck.
+
+[voice:RAZACI]
+The project notes describe a learning page for Sylvia Quinn, intended to help a beginner practice clicking and using HTML features. The current exercise is our fictional demonstration, not a verified copy of that original page.
+
+[voice:TIRZAH]
+That's a good example of how a teaching idea can travel. From a classroom to a computer someone can practice with at home.
+
+[voice:BRIAN]
+And from a teacher to people who can teach themselves.
+
+[voice:DRAGON TWIN ONE]
+Which means, technically, I am now a professor.
+
+[voice:GREEN DRAGON]
+No.
+
+[voice:DRAGON TWIN ONE]
+Associate professor?
+
+[voice:GREEN DRAGON]
+No.
+
+[voice:DRAGON TWIN ONE]
+Assistant to the associate professor?
+
+[voice:DRAGON TWIN TWO]
+You can be the person who tests the instructions.
+
+[voice:DRAGON TWIN ONE]
+I accept my prestigious appointment.
+
+[voice:RAZACI]
+There is one unresolved issue in the archive. It is not a secret chamber or an enemy system. It is a question of how to preserve a life story without allowing one chapter to consume all the others.
+
+[voice:TIRZAH]
+Let's answer it with the evidence we've collected.
+
+[voice:BRIAN]
+All right. What's your proposal?
+
+[voice:DRAGON TWIN TWO]
+A timeline that shows the known sequence and leaves uncertain dates open.
+
+[voice:DRAGON TWIN ONE]
+A project index that separates finished work, drafts, prototypes, and ideas.
+
+[voice:GREEN DRAGON]
+Original files protected. Working copies labeled. No invented sources.
+
+[voice:RAZACI]
+A history record that distinguishes firsthand recollection, external documentation, interpretation, and fiction.
+
+[voice:TIRZAH]
+And room for people. Not just qualifications and projects. Family relationships, collaborators, students, and the ordinary days between big events.
+
+[voice:BRIAN]
+That sounds like a useful archive.
+
+[voice:TIRZAH]
+There's one more thing.
+
+[voice:BRIAN]
+What?
+
+[voice:TIRZAH]
+A way for the person to correct us. If a date is wrong, or a relationship is misdescribed, or a story gets too neat, the record should be able to change.
+
+[voice:RAZACI]
+[emphasis]Correction is part of preservation.[/emphasis]
+
+[voice:GREEN DRAGON]
+The crew's archive protocol is complete.
+
+[voice:NARRATOR]
+The scattered windows began to align. The Sacramento records sat beside the teaching notes. The recovery timeline connected to later education without swallowing it. The creative projects formed a branching map instead of a trophy shelf. A final space remained empty, marked FUTURE WORK.
+
+[voice:DRAGON TWIN ONE]
+We finished the archive and left an empty space?
+
+[voice:BRIAN]
+Of course we did.
+
+[voice:DRAGON TWIN ONE]
+Isn't that cheating?
+
+[voice:BRIAN]
+No. It means the person is still living and making things. A history shouldn't pretend the future already happened.
+
+[voice:DRAGON TWIN TWO]
+Then we really did finish what we came to do.
+
+[voice:RAZACI]
+Yes. The central problem of Book Four was not how to unlock a door. It was whether this crew could investigate complicated memories and creative work without losing chronology, context, or each other. The evidence board is complete for this inquiry.
+
+[voice:TIRZAH]
+And the crew?
+
+[voice:GREEN DRAGON]
+Still together.
+
+[voice:DRAGON TWIN ONE]
+Despite multiple attempts by the universe to separate me from lunch.
+
+[voice:DRAGON TWIN TWO]
+Mostly by you forgetting where you put it.
+
+[voice:BRIAN]
+I think that deserves a celebration.
+
+[voice:DRAGON TWIN ONE]
+Finally. The red button?
+
+[voice:GREEN DRAGON]
+I have prepared a safer alternative.
+
+[voice:NARRATOR]
+The ship's lights warmed. A small sign appeared over the galley entrance: ARCHIVE COMPLETE. FOOD THIS WAY.
+
+[voice:DRAGON TWIN ONE]
+[emphasis]THE GREATEST TECHNOLOGICAL ACHIEVEMENT IN HISTORY![/emphasis]
+
+[voice:TIRZAH]
+Come on. You can tell us about the next ridiculous invention over dinner.
+
+[voice:DRAGON TWIN TWO]
+I already have a title. 'The Automatic Sandwich That Refuses to Be Eaten.'
+
+[voice:GREEN DRAGON]
+I refuse to host that software.
+
+[voice:RAZACI]
+I will preserve the proposal under UNTESTED.
+
+[voice:BRIAN]
+And don't you dare call it finished.
+
+[voice:TIRZAH]
+Brian, before we go—are you satisfied with what we found?
+
+[voice:BRIAN]
+I'm satisfied that we didn't pretend to find more than we did. We kept the hard parts. We kept the work. We kept the people. And when something didn't fit, we didn't force it.
+
+[voice:TIRZAH]
+That's enough for tonight.
+
+[voice:BRIAN]
+For tonight. Tomorrow there'll be more to learn.
+
+[voice:GREEN DRAGON]
+Course set for the next journey. No destination selected until the crew agrees.
+
+[voice:DRAGON TWIN ONE]
+I vote for the galley.
+
+[voice:DRAGON TWIN TWO]
+For once, unanimous.
+
+[voice:RAZACI]
+[emphasis]Book Four archive closed. Original records preserved. Crew present.[/emphasis]
+
+[voice:NARRATOR]
+The USS Dragon moved on with its crew intact and its history unfinished in the best possible way: ready for the next true memory, the next correction, and the next thing worth building.
+
+END OF CHAPTER TEN
+END OF BOOK FOUR — THE CREW THAT HELD THE LINE

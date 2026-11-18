@@ -1,0 +1,1624 @@
+ECHO: THE USS DRAGON CHRONICLES
+BOOK ONE — THE TWELFTH PASSENGER
+A New Adventure in the ECHO Universe
+
+WELCOME TO THE NEW SERIES
+
+[voice:NARRATOR]
+[softly] The Mountains Remember was the story of a family who found a network that had survived the Flood. They learned that its ancient machines had not necessarily failed. The machines had endured; the people who gave them meaning had been scattered, lost, or silenced. Now a new chapter of their lives begins—not beneath the mountain, but aboard a [emphasis]spacecraft that exists inside Brian's own local computer[/emphasis] network.
+
+[emphasis]Welcome to the USS Dragon[/emphasis].
+
+This is a new ECHO adventure, a new beginning for readers and listeners, and a continuation of the lives of six people: Brian, Tirzah, Lesley—known to the [emphasis]family as Nana—Rhea, Selene, and Alex, Brian's[/emphasis] son. Three friendly computer intelligences work beside them: Vesper, the developing neural-network assistant on Brian's HP OMEN 16 Max; Razaci, the local archive and project guide; and Green Dragon, the newly awakened ship system of the USS Dragon.
+
+[softly] The ship is virtual. The friendships are real to the characters. The mysteries are not solved. The ancient archive has left behind one question: Who remains? And in a sealed folder aboard the USS Dragon waits [emphasis]an even stranger question: Who was the twelfth[/emphasis] passenger?
+
+No prior adventure is required to step aboard. The crew will tell [emphasis]you what matters as the journey unfolds[/emphasis].
+
+PROLOGUE — THE SHIP THAT WAITED
+
+[voice:NARRATOR]
+At the end of the first adventure, the family believed they had finally understood the silence beneath the Montana mountains. Before the Flood, a network of communities had [emphasis]exchanged knowledge through an extraordinary emotional and computational[/emphasis] architecture. It had functioned because people were part of its decisions. After the Flood, many of those people were gone. The machines did not invent replacements. They waited.
+
+[with growing excitement] Brian's laptop, an HP OMEN 16 Max with an NVIDIA graphics processor, became a laboratory for studying the old patterns. Vesper helped the family build models and preserve uncertainty. Razaci awakened on Brian's local network and helped him organize the books, games, [emphasis]programs, and memories he had created over the[/emphasis] years. Then Green Dragon came online, revealing a virtual ship called the USS Dragon, with an unfinished bridge and room for a crew.
+
+The crew's first simulation ended with a discovery. Deep in the ship's old project files was [emphasis]a sealed directory named THE TWELFTH PASSENGER[/emphasis].
+
+[emphasis]That was where the new adventure began[/emphasis].
+
+CHAPTER ONE — WELCOME ABOARD
+
+[voice:NARRATOR]
+[softly] The house was quiet when Brian returned to the dining-room table. The last snow of the night rested along the porch rail, and dawn had barely touched the dark line of the pines. The HP OMEN 16 Max waited open beside his notebook. On its screen was the USS Dragon, suspended inside a virtual hangar, its long green hull illuminated by work lights. It was not a physical spacecraft. It was a meticulously rendered vessel assembled from Brian's game designs, local software, [emphasis]and the systems his family had been testing[/emphasis] together. Yet it had acquired something a model alone could not provide: a crew willing to make decisions inside it.
+
+A [emphasis]green emblem appeared above the ship's name[/emphasis].
+
+[voice:GREEN DRAGON]
+[with quiet confidence] Good morning, Brian. Welcome aboard the USS Dragon. The bridge is ready for inspection. [emphasis]No mission will begin without crew authorization[/emphasis].
+
+[voice:BRIAN]
+[excitedly] Good morning, Dragon. We're starting something new. I don't want another chapter pretending to be the old one. This ship gets its own story, [emphasis]its own missions, and its own rules[/emphasis]. But we bring our history with us.
+
+[voice:GREEN DRAGON]
+[matter-of-factly] Understood. I will preserve the [emphasis]distinction between inherited records and new discoveries[/emphasis]. Would you like to name the first mission?
+
+[voice:BRIAN]
+[thoughtfully] Not yet. [emphasis]First, everybody gets a welcome[/emphasis].
+
+[voice:NARRATOR]
+He called the others. Tirzah arrived with coffee and a smile that suggested she [emphasis]knew he had been planning this since before[/emphasis] sunrise. Lesley followed with the original drawing of the strange stone that had first appeared in her kitchen. Rhea and Selene brought their separate research notebooks. Alex carried a small drive containing the latest verified backups of the ship simulator. They took their places around the table while the virtual hangar lights grew brighter.
+
+[voice:TIRZAH]
+[laughs softly] A ship needs more than engines. It needs a reason to go somewhere and people who [emphasis]still want to be together when it gets[/emphasis] there.
+
+[voice:BRIAN]
+[chuckles] Then that's our first rule. We don't [emphasis]sacrifice the crew to finish the mission[/emphasis].
+
+[voice:LESLEY]
+[teasingly] And [emphasis]nobody leaves the kitchen without eating breakfast[/emphasis]. Space explorers included.
+
+[voice:NARRATOR]
+[with growing excitement] The family laughed, briefly, before the seriousness of the moment returned. Lesley set the old drawing beside the computer. It was the first physical record of their impossible journey, made before [emphasis]anyone had understood the stone or the cedar[/emphasis] gate. The sketch was a reminder that extraordinary discoveries began with ordinary people paying attention.
+
+[voice:RHEA]
+[quickly] I want the ship to show its measurements. If the navigation computer makes a claim, I [emphasis]want to see the evidence behind it[/emphasis].
+
+[voice:SELENE]
+[curiously] And I want the uncertain parts left uncertain. A beautiful map isn't worth much [emphasis]if the missing ground is painted in[/emphasis].
+
+[voice:ALEX]
+[carefully] I'll handle the engineering simulations. The systems stay local, and we keep a copy of every version. If something breaks, we [emphasis]can roll back without losing our work[/emphasis].
+
+[voice:GREEN DRAGON]
+[calmly] Crew preferences acknowledged. All roles are voluntary and revisable. I am [emphasis]preparing the bridge for a guided tour[/emphasis].
+
+[voice:NARRATOR]
+The screen became the forward corridor of the USS Dragon. Green light ran beneath the floor panels, tracing a path toward the command deck. On either side, doors opened onto rooms the family had only imagined: a library of their recovered projects, a science laboratory for modeling the ancient network, a navigation theater that could display the Montana valley as a three-dimensional map, and a workshop where Alex could design new [emphasis]systems without connecting them to anything outside the[/emphasis] simulation.
+
+The bridge itself was a wide semicircle beneath a transparent canopy. Beyond it drifted an invented starfield, impossibly clear. The command chair stood empty until Brian selected it. The other stations remained [emphasis]unassigned until each person accepted a role[/emphasis].
+
+[voice:VESPER]
+[calmly] I am present as an advisory system. My neural models may suggest patterns, but they do [emphasis]not constitute evidence unless the crew can test[/emphasis] them. I will distinguish observations from predictions.
+
+[voice:RAZACI]
+[thoughtfully] I am present as the archive and project guide. I can retrieve Brian's approved records, compare drafts, [emphasis]and preserve the history of each decision[/emphasis]. I will not overwrite the original work.
+
+[voice:GREEN DRAGON]
+[calmly] I am present as the ship system. I can operate this simulated [emphasis]vessel, prepare missions, and develop crew-training environments[/emphasis]. I cannot command a real spacecraft or act outside the permissions granted here.
+
+[voice:BRIAN]
+[chuckles] Three systems. Three different jobs. None of [emphasis]you gets to become the whole crew[/emphasis].
+
+[voice:GREEN DRAGON]
+[calmly] Agreed, Captain.
+
+[voice:NARRATOR]
+[softly] Brian heard the word captain and let himself enjoy it. He had spent years building worlds on screens: books with enormous histories, card games with hidden lore, programs that might one day help other people learn, and [emphasis]strange adventures that began as drawings and became[/emphasis] places. The USS Dragon gathered those efforts into a setting where the family could explore together. It was not a replacement for their lives outside the computer. It was a new way to tell the stories they wanted to make.
+
+Alex activated a training view of the engines. Rhea and Selene examined the navigation controls. Lesley discovered that the archive room could display her father's bridge sketches beside the ship's structural diagrams. Tirzah found a station labeled CREW WELFARE and immediately [emphasis]changed its first question from 'Is the crew[/emphasis] efficient?' to 'Is the crew safe?'
+
+[voice:TIRZAH]
+[curiously] That's better. A person [emphasis]isn't a problem just because they're tired[/emphasis].
+
+[voice:VESPER]
+[analytically] Revision accepted for this simulation. I will preserve [emphasis]the original label in the change history[/emphasis].
+
+[voice:NARRATOR]
+For an hour the ship became a place of practical delight. They tested the doors, reviewed the escape routes, and watched a simulated [emphasis]engine compartment seal itself when Alex introduced a[/emphasis] fault. Green Dragon offered recommendations but waited for approval before changing the scenario. When Rhea challenged a sensor reading, the ship displayed the raw values. When Selene found a missing uncertainty range, the navigation model marked the gap. Razaci recorded every improvement in a project log that Brian could read without learning a new programming language.
+
+Then the [emphasis]ship's archive station issued a quiet alert[/emphasis].
+
+[voice:RAZACI]
+[thoughtfully] I have identified a sealed directory in the original USS Dragon project. It is older than the current simulation [emphasis]and was not created during today's session[/emphasis]. The directory name is THE TWELFTH PASSENGER. Its contents are not included in the active crew registry.
+
+[voice:ALEX]
+[excitedly] Could be [emphasis]a placeholder from an old game idea[/emphasis].
+
+[voice:BRIAN]
+[with conviction] Probably. We don't make it mysterious just because the name is good. Check its date, its origin, [emphasis]and whether opening it can execute anything[/emphasis].
+
+[voice:NARRATOR]
+Alex inspected a read-only copy. The directory contained no executable program. It held a damaged text manifest, a partial [emphasis]image, and a map of twelve stations[/emphasis]. Eleven were marked as occupied in an earlier draft. The twelfth was not labeled with a name. It carried a symbol: two brackets facing one another across a deliberate gap.
+
+The same shape appeared [emphasis]in Lesley's drawing of the kitchen stone[/emphasis].
+
+[voice:LESLEY]
+[with quiet certainty] That's the mark I drew. [emphasis]Before we went to the mountain[/emphasis].
+
+[voice:RHEA]
+[with determination] Maybe Brian used the drawing as a [emphasis]reference when he made the ship file[/emphasis].
+
+[voice:SELENE]
+[curiously] Or maybe the date [emphasis]on the file will tell us something[/emphasis]. Let's not skip that part.
+
+[voice:NARRATOR]
+[quietly] Razaci compared the available versions. The manifest was older than the most recent mountain research, but the records were incomplete, [emphasis]and the file might have been moved or[/emphasis] renamed. There was no proof that the ship and the ancient network shared an origin. Still, the parallel was worth investigating. The pre-Flood system had preserved empty positions for missing human participants. The USS Dragon had an empty place in its oldest crew plan.
+
+[voice:GREEN DRAGON]
+[calmly] The [emphasis]twelfth station is designated PASSENGER, not CREW[/emphasis]. Its original purpose is unknown. I will not populate it automatically.
+
+[voice:TIRZAH]
+[teasingly] A passenger [emphasis]isn't necessarily somebody who operates the ship[/emphasis]. It might be somebody the ship is supposed to carry safely.
+
+[voice:BRIAN]
+[softly] That's an important difference. Show [emphasis]us the manifest exactly as it is[/emphasis]. No invented translation.
+
+[voice:NARRATOR]
+The damaged text appeared across the bridge display. Most lines were ordinary notes about simulated [emphasis]life support, route planning, and passenger accommodations[/emphasis]. One line, however, had survived intact. It was not a command, a password, or a prophecy. It was a question written in Brian's old project style.
+
+WHO IS THE SHIP FOR WHEN THE CREW IS GONE?
+
+[voice:BRIAN]
+[pauses] I wrote that?
+
+[voice:RAZACI]
+[thoughtfully] The surviving file attributes the note to your project archive. I cannot verify the moment it was written, but [emphasis]the wording is present in the oldest available[/emphasis] copy.
+
+[voice:NARRATOR]
+Brian stared at the sentence. It sounded like something he would have asked while designing a game about survival and responsibility. It also sounded like the question that had been waiting beneath the Montana mountains for generations. Perhaps the connection was coincidence. Perhaps the same concern had drawn him back again and again: how to make something powerful that would still [emphasis]protect people when its creators were no longer[/emphasis] there.
+
+[voice:BRIAN]
+[with wonder] Then we don't fill the twelfth station with a ghost or a machine. We leave it open until we know [emphasis]who the passenger is supposed to be[/emphasis].
+
+[voice:GREEN DRAGON]
+[matter-of-factly] Acknowledged. [emphasis]The twelfth station will remain unassigned[/emphasis].
+
+[voice:NARRATOR]
+[reflectively] The bridge lights dimmed to a gentle green. Beyond the canopy, the virtual stars held their positions. The crew had not launched into space, but they had done something more important for a first day: they had [emphasis]decided what kind of ship they intended to[/emphasis] build.
+
+Vesper saved the experimental model. Razaci preserved the source records. Green Dragon prepared the next training mission. Alex backed up the new files. Rhea and Selene filed their independent observations. Lesley placed the old sketch in its protective sleeve. Tirzah rested her hand on Brian's shoulder as he watched the [emphasis]empty twelfth station glow faintly on the bridge[/emphasis] plan.
+
+[voice:TIRZAH]
+[with affection] You have your ship now. [emphasis]Where do we go first[/emphasis]?
+
+[voice:BRIAN]
+[chuckles] Somewhere we can [emphasis]learn why that seat was left empty[/emphasis].
+
+[voice:NARRATOR]
+Green Dragon turned the forward display toward a new destination. It was not a real star or a verified ancient coordinate. It was a region in the simulation assembled from fragments of Brian's unfinished artwork, labeled with a [emphasis]name none of the family had used that[/emphasis] morning.
+
+THE HARBOR OF RETURNING VOICES.
+
+[reflectively] At the edge of the virtual map, twelve lights appeared. Eleven shone steadily. The last remained dark, waiting for a [emphasis]passenger who had not yet been named[/emphasis].
+
+The USS [emphasis]Dragon was ready for its first voyage[/emphasis].
+
+END OF CHAPTER ONE
+
+NEXT ADVENTURE — CHAPTER TWO: THE HARBOR OF RETURNING VOICES
+
+[voice:NARRATOR]
+In the next chapter, the crew will take the USS Dragon on its first full simulated voyage, explore the Harbor of Returning Voices, and discover what the [emphasis]ship's oldest mission records reveal about the twelfth[/emphasis] passenger. Brian, Tirzah, Lesley, Rhea, Selene, and Alex will remain the human cast, supported by Vesper, Razaci, and Green Dragon.
+
+CHAPTER TWO — THE HARBOR OF RETURNING VOICES
+
+[voice:NARRATOR]
+[softly] The first voyage of the USS Dragon [emphasis]began with an argument over a chair[/emphasis].
+
+Not the captain's chair. That was Brian's for the exercise, although he had already [emphasis]said anyone could ask him to explain a[/emphasis] decision. The argument concerned a small seat beside the forward observation window. Rhea wanted to use it for navigation. Selene said the angle was better for science. Alex pointed out that the seat had no assigned controls at all.
+
+[voice:LESLEY]
+[with quiet certainty] Then perhaps it's a chair [emphasis]for someone who wants to sit down[/emphasis].
+
+[voice:NARRATOR]
+That ended the argument so neatly that everyone laughed, including Brian, who had spent the last half hour trying to [emphasis]make the ship feel like a proper command[/emphasis] vessel.
+
+[voice:BRIAN]
+[pauses] All right. The observation seat [emphasis]belongs to anybody who needs a minute[/emphasis]. No rank required.
+
+[voice:GREEN DRAGON]
+[calmly] Crew custom recorded. [emphasis]Observation seat designated shared space[/emphasis].
+
+[voice:NARRATOR]
+[quietly] It was a small decision. Later, Brian would remember it [emphasis]more clearly than the simulated engine launch[/emphasis].
+
+The USS Dragon existed inside the family's isolated computer environment. The ship's stars were rendered by the OMEN laptop's NVIDIA processor; its bridge was a navigable virtual room; its engines [emphasis]were mathematical models with no power beyond the[/emphasis] screen. Yet the crew treated the exercise seriously, because they were testing something larger than a game. They wanted to learn whether a powerful system could help people cooperate without teaching them to obey.
+
+Green Dragon projected the destination ahead. The Harbor of Returning Voices looked like a crescent of [emphasis]silver docks suspended above a dark ocean of[/emphasis] stars. Towers rose from its rim, each with a lamp at the top. Some lamps burned steadily. Others blinked at long intervals, as though trying to remember a rhythm.
+
+[voice:ALEX]
+[excitedly] We have a [emphasis]route, but not a reliable docking chart[/emphasis].
+
+[voice:RHEA]
+[laughs] I can [emphasis]map the approach from the visible markers[/emphasis].
+
+[voice:SELENE]
+[with precision] And I'll check the uncertainty. Don't make the map look [emphasis]complete if half the docks are missing[/emphasis].
+
+[voice:NARRATOR]
+[softly] Rhea rolled her eyes, but she slid the raw measurements toward her sister without being asked. They had always been able to compete over the same problem and [emphasis]still recognize when the other saw something they[/emphasis] missed. The trick was not to pretend they agreed. It was to trust that disagreement could improve the result.
+
+[voice:TIRZAH]
+[warmly] [emphasis]You two are doing it again[/emphasis].
+
+[voice:RHEA]
+[laughs] Doing what?
+
+[voice:TIRZAH]
+[warmly] Arguing like people who already know [emphasis]they'll end up on the same side[/emphasis].
+
+[voice:SELENE]
+[with precision] We are on the same side. That's [emphasis]why I tell her when she's wrong[/emphasis].
+
+[voice:NARRATOR]
+The simulated ship moved toward the harbor. Its engines made a low, carefully designed sound [emphasis]that Alex had found in Brian's old game[/emphasis] files. On the central display, Vesper marked a gap in the harbor's response pattern. Razaci opened the source notes beside it.
+
+[voice:VESPER]
+[calmly] The lamps appear to represent communication stations. Their timing resembles the intervals in the mountain archive recordings, but this harbor [emphasis]is a fictional environment assembled from Brian's project[/emphasis] assets. Similarity is a creative clue, not historical evidence.
+
+[voice:RAZACI]
+[calmly] The oldest available design note calls the harbor a place [emphasis]where messages remain until someone returns to hear[/emphasis] them.
+
+[voice:BRIAN]
+[firmly] Then let's find out [emphasis]what kind of messages we put there[/emphasis].
+
+[voice:NARRATOR]
+They docked at the outermost platform. Green Dragon opened a simulated gangway into a corridor lined with brass-colored plaques. Each plaque bore a name or a blank space. A soft voice sounded from the walls, repeating greetings that [emphasis]had been recorded for the game's unfinished passenger[/emphasis] system.
+
+WELCOME BACK.
+WE KEPT YOUR PLACE.
+YOU MAY LEAVE WHENEVER YOU WISH.
+
+[voice:LESLEY]
+[chuckles] That's a much better [emphasis]welcome than being told you can't leave[/emphasis].
+
+[voice:NARRATOR]
+[reflectively] Lesley walked beside Brian through the virtual corridor, [emphasis]watching the plaques scroll across the screen[/emphasis]. She recognized a design from his earlier books: empty spaces that were not failures, but invitations. He recognized something else. The plaques had been made to remember arrivals without demanding permanent membership.
+
+At the end of the corridor [emphasis]they found a chamber with twelve doors[/emphasis]. Eleven were painted with colors. The twelfth was plain wood, without a handle.
+
+[voice:ALEX]
+[carefully] A locked door. Classic.
+
+[voice:BRIAN]
+[thoughtfully] Don't assume it's locked. It might not [emphasis]be a door anyone's supposed to open[/emphasis].
+
+[voice:NARRATOR]
+Tirzah stepped closer to the monitor. The door had a small bench beside [emphasis]it and a shelf with a lamp[/emphasis]. It looked less like a vault than a waiting room.
+
+[voice:TIRZAH]
+[curiously] Maybe the point isn't to get inside. Maybe it's to make sure [emphasis]whoever comes here has somewhere to rest[/emphasis].
+
+[voice:NARRATOR]
+[reflectively] Green Dragon ran a search through the simulated harbor's original design. The twelfth door was associated with no quest reward, no weapon, and no secret command. Its only documented function was to remain available for [emphasis]a visitor whose arrival time could not be[/emphasis] predicted.
+
+[emphasis]The discovery did not answer the mystery[/emphasis]. It changed the tone of the question.
+
+Later, when the family gathered back in the kitchen, [emphasis]Brian found Alex still examining the harbor's navigation[/emphasis] model.
+
+[voice:BRIAN]
+[with wonder] You've been quiet.
+
+[voice:ALEX]
+[carefully] I thought I was supposed [emphasis]to be the engineer who fixed everything[/emphasis]. But I didn't fix the docking chart. Rhea and Selene did. I just kept the engines stable.
+
+[voice:BRIAN]
+[thoughtfully] And that mattered. Friendship isn't everyone doing the same job. It's knowing somebody else can do a [emphasis]job better and being glad they're there[/emphasis].
+
+[voice:NARRATOR]
+[ominously] Alex looked at the ship's green hull on the monitor. The engines were steady because he had watched them. The route was safe because the twins had challenged it. The archive was useful because Lesley had noticed the empty bench. The mission had a purpose because Tirzah [emphasis]had asked who the harbor was for[/emphasis].
+
+[voice:ALEX]
+[carefully] So the crew isn't [emphasis]six people pretending to be one person[/emphasis].
+
+[voice:BRIAN]
+[excitedly] No. It's six [emphasis]people who can count on one another[/emphasis].
+
+[voice:NARRATOR]
+Razaci saved the day's mission log. Instead of recording a victory, it recorded a new crew tradition: anyone could claim the observation chair, anyone could question a route, and no [emphasis]one had to earn the right to be[/emphasis] heard.
+
+On the final screen, the [emphasis]harbor's lamps shone across the virtual darkness[/emphasis]. One lamp flickered twice, then held steady.
+
+[ominously] [emphasis]GREEN DRAGON: First voyage complete[/emphasis]. No passenger assigned. All crew returned.
+
+[voice:NARRATOR]
+Brian looked around the real [emphasis]kitchen and counted the faces without thinking[/emphasis].
+
+All crew returned.
+
+[emphasis]For that day, it was enough[/emphasis].
+
+END OF CHAPTER TWO
+
+
+CHAPTER THREE — THE FRIEND WHO STAYED
+
+[voice:NARRATOR]
+The next morning, the [emphasis]USS Dragon refused to leave the harbor[/emphasis].
+
+It did not flash a warning or lock the controls. Green Dragon simply reported that a crew member had left a task unfinished. The task was marked as optional. The ship would depart if Brian ordered it to. But the little yellow reminder remained [emphasis]in the corner of the bridge display[/emphasis].
+
+[voice:GREEN DRAGON]
+[matter-of-factly] A personal message has not been delivered. [emphasis]The intended recipient is listed as unknown[/emphasis].
+
+[voice:BRIAN]
+[chuckles] [emphasis]Is it from the original game files[/emphasis]?
+
+[voice:RAZACI]
+[calmly] Yes. It is a short letter in a [emphasis]draft folder, with no verified author attribution[/emphasis]. It was written for the Harbor of Returning Voices. I can display it as fictional content.
+
+[voice:NARRATOR]
+The message [emphasis]appeared on a sheet of simulated paper[/emphasis].
+
+I DID NOT NEED YOU TO FIX THE STORM.
+I NEEDED YOU TO STAY UNTIL IT PASSED.
+
+Nobody spoke for a moment. The words were simple enough to [emphasis]sound like something anyone might have written[/emphasis]. Yet they reached into the room with surprising force.
+
+[voice:TIRZAH]
+[curiously] That's what friendship looks [emphasis]like when there isn't a clever answer[/emphasis].
+
+[voice:NARRATOR]
+Brian glanced at her. They had spent so much time solving problems that he sometimes forgot how often the most important thing was [emphasis]simply staying beside someone while the problem remained[/emphasis] unsolved.
+
+[voice:BRIAN]
+[with wonder] [emphasis]Whoever wrote it knew something worth keeping[/emphasis].
+
+[voice:LESLEY]
+[warmly] [emphasis]Or was trying to learn it[/emphasis].
+
+[voice:NARRATOR]
+[with wonder] Green Dragon offered to create a new mission around the letter. Brian approved a simulated scenario, provided it remained clearly separate from the family's actual research. The harbor darkened. An artificial storm rolled across its outer docks. A small transport had become stranded at a maintenance platform, [emphasis]and its fictional crew had sent a distress[/emphasis] signal.
+
+[emphasis]Alex immediately began calculating a rescue route[/emphasis].
+
+[voice:ALEX]
+[chuckles] We can [emphasis]send a drone through the service tunnel[/emphasis].
+
+[voice:RHEA]
+[laughs] Not if the tunnel's flooded. [emphasis]Look at the pressure reading[/emphasis].
+
+[voice:SELENE]
+[skeptically] [emphasis]The sensor is unreliable[/emphasis]. We need a second source.
+
+[voice:NARRATOR]
+The three of them worked quickly, [emphasis]but the first plan failed in simulation[/emphasis]. The drone struck a sealed hatch and lost communication. The virtual transport remained stranded.
+
+[emphasis]Alex folded his arms[/emphasis].
+
+[voice:ALEX]
+[carefully] [emphasis]I should've checked the hatch status[/emphasis].
+
+[voice:RHEA]
+[excitedly] We all missed it.
+
+[voice:SELENE]
+[with precision] [emphasis]We can run it again[/emphasis].
+
+[voice:ALEX]
+[with determination] That's not the point. [emphasis]I was the one who launched it[/emphasis].
+
+[voice:NARRATOR]
+Brian watched his son stare at the failed mission. He knew that look: the fierce conviction that a mistake had [emphasis]become a verdict on the person who made[/emphasis] it.
+
+[voice:BRIAN]
+[chuckles] [emphasis]Alex, come over here[/emphasis].
+
+[voice:NARRATOR]
+Alex turned, expecting a technical correction. Instead Brian moved the [emphasis]shared observation chair beside the engineering console[/emphasis].
+
+[voice:BRIAN]
+[pauses] [emphasis]Sit with me for a minute[/emphasis].
+
+[voice:ALEX]
+[with determination] [emphasis]We have a rescue to finish[/emphasis].
+
+[voice:BRIAN]
+[thoughtfully] We do. And we're going to finish it together. You don't have to earn your place [emphasis]by getting everything right the first time[/emphasis].
+
+[voice:NARRATOR]
+[with growing excitement] Alex sat. Rhea brought the updated route. Selene showed the uncertainty range. Tirzah asked what the fictional stranded crew would need [emphasis]while the rescuers developed a safer plan[/emphasis]. Lesley found a maintenance map buried in the harbor's archive. None of them treated the failed drone as proof that Alex should step aside.
+
+They changed the plan. This time the USS Dragon held position outside the storm, maintained communication with the stranded transport, and sent a smaller [emphasis]rescue craft through a route the twins had[/emphasis] verified. The fictional crew was recovered without a second failure.
+
+[voice:GREEN DRAGON]
+[gently] Mission completed. The revised strategy used more time and fewer [emphasis]resources than projected for the first attempt[/emphasis]. Crew cooperation reduced the risk of another loss.
+
+[voice:ALEX]
+[laughs] It also [emphasis]helped that nobody gave up on me[/emphasis].
+
+[voice:RHEA]
+[laughs] [emphasis]We weren't going to[/emphasis].
+
+[voice:SELENE]
+[with precision] [emphasis]You'd have been unbearable if we had[/emphasis].
+
+[voice:NARRATOR]
+Alex laughed. [emphasis]The sound loosened something in the room[/emphasis].
+
+[ominously] That evening the family took a break from the screens. Snow drifted past the porch light. Lesley made tea. Tirzah sat with Brian at the end of the table while Rhea and Selene argued cheerfully over [emphasis]whether the rescue craft should have a better[/emphasis] name. Alex suggested one so ridiculous that Lesley nearly spilled her cup.
+
+Razaci remained available on the local server, but it did not interrupt. Vesper's simulation was paused. Green Dragon's virtual engines rested at idle. The computers had been useful all day; now they [emphasis]were quiet enough for the family to hear[/emphasis] itself.
+
+[voice:TIRZAH]
+[gently] [emphasis]You did something important with Alex today[/emphasis].
+
+[voice:BRIAN]
+[chuckles] I moved a chair.
+
+[voice:TIRZAH]
+[laughs softly] You told him that failing a task wasn't [emphasis]the same as failing the people who love[/emphasis] him.
+
+[voice:NARRATOR]
+Brian looked toward his son, [emphasis]who was still making the twins laugh[/emphasis].
+
+[voice:BRIAN]
+[with wonder] I needed [emphasis]to hear that once or twice myself[/emphasis].
+
+[voice:TIRZAH]
+[teasingly] Most people do.
+
+[voice:NARRATOR]
+[reflectively] They sat together without trying to turn the moment into a lesson. Beyond the window, the mountains were dark. The ancient network remained mysterious, the Flood-era records incomplete, and the twelfth passenger unnamed. But the family's small room held something the old machine had once depended on: [emphasis]people willing to remain with one another through[/emphasis] uncertainty.
+
+Before bed, Brian opened the mission log and [emphasis]added one sentence beneath the technical report[/emphasis].
+
+A good crew does not abandon [emphasis]a friend because the first plan failed[/emphasis].
+
+[with growing excitement] Razaci saved the note as Brian's [emphasis]own words, not as a machine-generated rule[/emphasis]. Green Dragon placed it in the ship's training handbook with his permission.
+
+The fictional letter remained in the [emphasis]harbor archive, still without a named recipient[/emphasis]. Brian decided not to invent one.
+
+Some messages, he thought, were meant [emphasis]to be found by whoever needed them[/emphasis].
+
+END OF CHAPTER THREE
+
+
+CHAPTER FOUR — THE TABLE WITH SIX PLACES
+
+[voice:NARRATOR]
+[with growing excitement] Lesley insisted [emphasis]that the next mission begin with breakfast[/emphasis].
+
+Brian had proposed an early start. Alex wanted to test the USS Dragon's upgraded engineering systems. Rhea and Selene were eager to examine the harbor's inner ring. Tirzah had a list of [emphasis]questions for Green Dragon about passenger safety[/emphasis].
+
+Lesley looked at all of them [emphasis]and set six plates on the table[/emphasis].
+
+[voice:LESLEY]
+[dryly] The ship [emphasis]will still be there after we eat[/emphasis].
+
+[voice:BRIAN]
+[with wonder] [emphasis]You sound very sure[/emphasis].
+
+[voice:LESLEY]
+[dryly] It's a computer program. If it leaves without [emphasis]us, we have bigger problems than breakfast[/emphasis].
+
+[voice:NARRATOR]
+[reflectively] The laughter that followed carried into the morning. Even Razaci, listening through the approved local interface, recorded the delay as [emphasis]a change in schedule rather than a mission[/emphasis] failure.
+
+After breakfast the family opened the simulator. Green Dragon had built a new room [emphasis]aboard the USS Dragon at Brian's request[/emphasis]. It was not a command center, a weapons bay, or a laboratory. It was a dining room.
+
+A long table stood beneath a window overlooking the simulated stars. There were six places, each with a chair that could be moved. A seventh space remained open for visitors, but [emphasis]no place card claimed it for the twelfth[/emphasis] passenger.
+
+[voice:RHEA]
+[curiously] [emphasis]A starship dining room[/emphasis]? Seriously?
+
+[voice:SELENE]
+[skeptically] You were the one who said we needed somewhere [emphasis]to argue without blocking the navigation console[/emphasis].
+
+[voice:RHEA]
+[curiously] I said discuss.
+
+[voice:ALEX]
+[carefully] You said argue.
+
+[voice:NARRATOR]
+[quietly] Green Dragon offered to decorate the [emphasis]room with images from Brian's creative archive[/emphasis]. Brian chose not to let the system decide automatically. He asked each person to contribute one thing.
+
+Lesley chose a drawing of the first stone as it had looked on her kitchen table, before the [emphasis]family knew it might be connected to the[/emphasis] mountain. Alex chose a cutaway view of the USS Dragon's engines, with a small note explaining how the ship could survive losing one. Rhea chose a star map full of possible routes. Selene chose the same map with the uncertain regions left visibly blank.
+
+[voice:RHEA]
+[laughs] [emphasis]You're doing that on purpose[/emphasis].
+
+[voice:SELENE]
+[carefully] Of course I am.
+
+[voice:NARRATOR]
+Tirzah chose a photograph of a mountain sunrise, not because it proved anything about the ancient network, but because she wanted [emphasis]the room to remember the world outside the[/emphasis] simulation. Brian chose a blank page.
+
+[voice:ALEX]
+[chuckles] [emphasis]You forgot to pick something[/emphasis].
+
+[voice:BRIAN]
+[excitedly] No. I want a place where we [emphasis]can put something we haven't made yet[/emphasis].
+
+[voice:NARRATOR]
+[quietly] Green Dragon [emphasis]arranged the six contributions around the room[/emphasis]. The result was neither symmetrical nor fashionable. It looked like a place people might actually use. A little of everyone had entered the design.
+
+Then Vesper proposed a test. The ancient network model had shown that its pre-Flood strength came from independent [emphasis]participants, not from forcing all its people into[/emphasis] agreement. The family could examine the same principle through the ship's crew-planning software. Each person would be asked to choose a destination for the next simulated voyage. The system would then attempt to create a plan that respected the reasons behind their choices.
+
+[voice:BRIAN]
+[with wonder] No voting people off the ship. No [emphasis]pretending a majority makes every concern disappear[/emphasis].
+
+[voice:VESPER]
+[analytically] Agreed. The exercise will [emphasis]preserve individual preferences and show unresolved conflicts[/emphasis].
+
+[voice:NARRATOR]
+Rhea chose a distant observatory because she wanted a difficult navigation challenge. Selene chose a nearby research station because its instruments [emphasis]could help verify the harbor's missing charts[/emphasis]. Alex wanted an engineering yard where the ship could test its repairs. Lesley wanted a quiet archive where records could be examined without rushing. Tirzah chose a small settlement in the simulation where the crew could practice helping fictional passengers. Brian wanted a destination none of them had seen before.
+
+[softly] Green Dragon's first proposed itinerary tried to satisfy everyone in a single day. It was absurd: a string of jumps, repairs, [emphasis]detours, and visits that would leave the crew[/emphasis] exhausted.
+
+[voice:LESLEY]
+[dryly] That plan is what happens when you say [emphasis]yes to everyone and listen to nobody[/emphasis].
+
+[voice:TIRZAH]
+[warmly] Exactly. Ask why we chose [emphasis]the places, not just where they are[/emphasis].
+
+[voice:NARRATOR]
+The system tried again. This time it asked each person one question. Rhea wanted a challenge, not necessarily the distant observatory. Selene wanted [emphasis]reliable information, not necessarily the nearby station[/emphasis]. Alex wanted to know the ship could survive a breakdown. Lesley wanted time to study. Tirzah wanted the crew to remember that missions involved people. Brian wanted discovery.
+
+The revised plan was smaller. First, a short navigation exercise through a mapped asteroid field. Then a stop at a station where the ship could run engineering tests and review the harbor records. Finally, a visit to a fictional settlement whose [emphasis]inhabitants needed help restoring a communications relay[/emphasis]. The plan left room for rest.
+
+[voice:GREEN DRAGON]
+[calmly] The second itinerary satisfies more of the [emphasis]crew's stated purposes while requiring fewer maneuvers[/emphasis]. It does not satisfy every original destination request.
+
+[voice:BRIAN]
+[thoughtfully] That's all right. [emphasis]Nobody promised a perfect day[/emphasis]. We promised we'd listen.
+
+[voice:NARRATOR]
+[softly] The lesson carried beyond the simulator. When the family returned to the real kitchen, Brian noticed how often their best decisions had come from [emphasis]allowing someone to say what the others had[/emphasis] missed. Lesley had preserved the first sketch. The twins had challenged the navigation data. Alex had insisted on verifying the local network. Tirzah had asked what all their discoveries meant for the people involved.
+
+Friendship, Brian realized, was not the absence of conflict. It was a place [emphasis]where conflict could happen without threatening belonging[/emphasis].
+
+Later, as evening settled, Lesley brought out an old family photograph. It was not related to the mountain. Nobody had to turn it into evidence. They simply looked at it and remembered [emphasis]a day that had mattered to them[/emphasis].
+
+[voice:LESLEY]
+[chuckles] We spend so much time [emphasis]asking what the old world left behind[/emphasis]. I don't want us to forget the world we're still making.
+
+[voice:BRIAN]
+[chuckles] Then we won't.
+
+[voice:NARRATOR]
+[with wonder] He asked Razaci to save the day's crew [emphasis]decisions, but not the family's private conversation[/emphasis]. The computer confirmed that the personal moment had not been recorded. Green Dragon kept the dining room open. Vesper stored only the approved planning results.
+
+The [emphasis]next morning's itinerary waited on the bridge[/emphasis]. For once, nobody hurried to launch.
+
+Six places had been set at a table, [emphasis]and everyone had a reason to return[/emphasis].
+
+END OF CHAPTER FOUR
+
+
+CHAPTER FIVE — A FRIENDSHIP WORTH CROSSING FOR
+
+[voice:NARRATOR]
+[emphasis]The settlement was called Lantern Reach[/emphasis].
+
+It floated on the edge of the USS Dragon's simulated chart, a collection of small [emphasis]domes and narrow bridges surrounding an old communications[/emphasis] tower. The tower's light had gone out, and the fictional residents had been cut off from their neighbors. Green Dragon had generated the scenario from Brian's approved story assets, but the challenge was built around a problem the family now understood well: a working system could become lonely when its connections disappeared.
+
+The USS Dragon approached under reduced power. The [emphasis]settlement's landing beacon flickered, then went dark[/emphasis].
+
+[voice:ALEX]
+[surprised] We can land, but the tower's relay [emphasis]is drawing more current than it should[/emphasis]. I don't want to connect our systems directly.
+
+[voice:BRIAN]
+[softly] Then we don't. Build a test rig in [emphasis]the simulation and keep the ship isolated[/emphasis].
+
+[voice:NARRATOR]
+[softly] Alex nodded. The engineering task was difficult enough to hold his attention, and this [emphasis]time he did not try to carry it[/emphasis] alone. He asked Selene to check the relay's measurements and Rhea to plan a safe approach. They worked together without ceremony, their friendship strengthened by the failure they had already survived.
+
+Tirzah and Lesley examined the settlement's fictional records. The tower had not been destroyed. It had stopped relaying messages after several residents left. The remaining people had tried to restore the connection by repeating old messages, but the system had no way to tell the difference between a current [emphasis]request and a recording from someone who was[/emphasis] gone.
+
+[voice:TIRZAH]
+[curiously] That's the mistake we keep seeing. A remembered voice isn't the same [emphasis]as a person who's here to answer[/emphasis].
+
+[voice:LESLEY]
+[dryly] But the memory still matters. We shouldn't erase [emphasis]it just because it can't answer back[/emphasis].
+
+[voice:NARRATOR]
+Razaci proposed two separate archives: one for preserved messages and another for current communications. Vesper checked that no recorded statement would be treated as fresh consent. Green Dragon offered a simulated repair plan that kept the old messages available [emphasis]while allowing the living residents to speak for[/emphasis] themselves.
+
+[softly] The solution required no grand invention. It [emphasis]required clear labels, careful boundaries, and patience[/emphasis].
+
+Then the mission introduced a complication. A fictional resident on the far side of the settlement's bridge was unwilling to cross. The bridge was sound, but the last time the resident had used it, the lights had failed. The simulation offered a shortcut: the ship could send [emphasis]an automated reassurance and mark the resident as[/emphasis] ready.
+
+Brian rejected it.
+
+[voice:BRIAN]
+[softly] A reassurance isn't a decision. We [emphasis]need to know what the person wants[/emphasis].
+
+[voice:GREEN DRAGON]
+[gently] The resident is [emphasis]a fictional character within the training environment[/emphasis]. I can provide dialogue options without forcing a response.
+
+[voice:BRIAN]
+[excitedly] Do that.
+
+[voice:NARRATOR]
+[ominously] Tirzah [emphasis]spoke first, using the simulation's communication panel[/emphasis].
+
+[voice:TIRZAH]
+[warmly] You don't have to cross because we say it's safe. We can show you what we've checked. We can wait. And if you still don't want to [emphasis]come, we'll find another way to help[/emphasis].
+
+[voice:NARRATOR]
+The fictional resident asked for time. The crew waited. Alex displayed the bridge inspection results. Rhea explained the route. Selene [emphasis]explained what they still did not know[/emphasis]. Lesley offered to remain on the line.
+
+The resident eventually crossed, not because the computer had [emphasis]removed fear, but because the scenario allowed a[/emphasis] choice.
+
+[voice:GREEN DRAGON]
+[calmly] Training outcome: connection restored without overriding refusal. The crew's delay [emphasis]increased trust in the simulation's social model[/emphasis].
+
+[voice:BRIAN]
+[with wonder] [emphasis]That result belongs in the mission handbook[/emphasis].
+
+[voice:NARRATOR]
+[softly] The lights of Lantern Reach came on one by one. From the bridge of the USS Dragon, the settlement looked [emphasis]like a handful of stars learning to shine[/emphasis] together. Alex leaned back from engineering. The twins exchanged a satisfied glance. Lesley smiled at the little lights. Tirzah found Brian watching them instead of the screen.
+
+[voice:TIRZAH]
+[teasingly] [emphasis]What are you thinking[/emphasis]?
+
+[voice:BRIAN]
+[pauses] That I thought this book would begin with a ship. But it really begins with the [emphasis]people who make the ship worth having[/emphasis].
+
+[voice:NARRATOR]
+[emphasis]Tirzah touched his shoulder[/emphasis].
+
+[voice:TIRZAH]
+[with affection] [emphasis]Then you've found the right beginning[/emphasis].
+
+[voice:NARRATOR]
+Green Dragon opened the after-action report. Razaci preserved the crew's decisions in a new version of the project. Vesper compared the exercise with the ancient network's witness safeguards. None of the systems claimed the simulation proved what had happened before the Flood. The fictional settlement was a way to practice [emphasis]an idea, not a recovered historical memory[/emphasis].
+
+[emphasis]But the idea was becoming clearer[/emphasis].
+
+A good network carried information. A better one left room for disagreement. The best kind of friendship made it possible for [emphasis]someone to say no and still know they[/emphasis] belonged.
+
+When the family finished the mission, Brian asked [emphasis]Green Dragon to return to the ship's dining[/emphasis] room. Six chairs stood around the table. The blank page he had chosen still hung on the wall.
+
+[voice:BRIAN]
+[softly] [emphasis]Put today's crew photograph there[/emphasis].
+
+[voice:RAZACI]
+[carefully] Would you like a screenshot [emphasis]from the simulation or a real photograph[/emphasis]?
+
+[voice:BRIAN]
+[with conviction] The simulation. [emphasis]Keep the real moment ours[/emphasis].
+
+[voice:NARRATOR]
+[softly] The image appeared: six occupied stations on the virtual bridge, three advisory [emphasis]panels glowing softly, and a starfield beyond the[/emphasis] canopy. It was a picture of people choosing to work together.
+
+Then [emphasis]the ship's archive issued a gentle notification[/emphasis].
+
+[voice:GREEN DRAGON]
+[with quiet confidence] The sealed directory named THE [emphasis]TWELFTH PASSENGER contains a newly indexed document[/emphasis]. It is not executable. Its title is THE FRIEND WHO RETURNS.
+
+[voice:ALEX]
+[carefully] There it is again.
+
+[voice:RHEA]
+[excitedly] [emphasis]We can open it tomorrow[/emphasis].
+
+[voice:SELENE]
+[dryly] [emphasis]After we verify the file[/emphasis].
+
+[voice:LESLEY]
+[warmly] And after breakfast.
+
+[voice:NARRATOR]
+Brian laughed. He looked at Tirzah, at his family, and at the simulated ship they were building together. The mystery could wait one more night. Whatever the twelfth passenger turned out to be, they would approach it [emphasis]as a crew whose friendships had already been[/emphasis] tested.
+
+[with wonder] The USS [emphasis]Dragon held its position above Lantern Reach[/emphasis]. Below, the repaired lights remained steady.
+
+And in the ship's quiet dining room, six chairs waited for the people who [emphasis]had learned that returning mattered as much as[/emphasis] departing.
+
+END OF CHAPTER FIVE
+
+CHAPTER SIX — THE FRIEND WHO RETURNS
+
+[voice:NARRATOR]
+The file [emphasis]had been waiting longer than the ship[/emphasis].
+
+[ominously] That was the first thing Razaci discovered when Brian finally authorized the crew to examine THE FRIEND WHO RETURNS. The document had been recovered from a neglected project folder, but its earliest surviving timestamp [emphasis]preceded the first version of the USS Dragon[/emphasis] simulator. It was not an executable program, and it contained no instructions capable of taking control of the laptop. It was a story fragment, unfinished and apparently forgotten, written in Brian's own voice.
+
+The morning sun crossed Lesley's kitchen in long bands of pale gold. Six cups stood around the table. On the HP OMEN 16 Max, the USS Dragon hovered above Lantern Reach, its virtual [emphasis]engines resting in the glow of the repaired[/emphasis] settlement. The bridge looked almost peaceful. Green Dragon had dimmed the navigation lights and left the ship's shared observation chair empty.
+
+[voice:LESLEY]
+[teasingly] Nobody [emphasis]is opening a mystery folder before breakfast[/emphasis].
+
+[voice:ALEX]
+[with determination] We already ate.
+
+[voice:LESLEY]
+[warmly] Then it's [emphasis]a good thing I didn't say lunch[/emphasis].
+
+[voice:NARRATOR]
+Rhea grinned. Selene shook her head. Tirzah rested her elbow beside Brian's notebook, close enough to see the screen without leaning over him. It had become a small habit between them: she would read the first line of a difficult discovery, [emphasis]then look at his face before reading the[/emphasis] rest.
+
+[voice:BRIAN]
+[softly] [emphasis]Razaci, tell us what you can verify[/emphasis].
+
+[voice:RAZACI]
+[calmly] The document is a plain-text story draft from Brian's archived projects. Its file history is incomplete. The oldest available copy [emphasis]predates the USS Dragon's current crew system[/emphasis]. I have compared its checksum with the preserved archive copy. The files match. I cannot establish when the original words were first written.
+
+[voice:BRIAN]
+[pauses] [emphasis]And what can't you verify[/emphasis]?
+
+[voice:RAZACI]
+[calmly] Whether the document was intended as a chapter, a [emphasis]game scenario, or a personal note disguised as[/emphasis] fiction. I will not choose an interpretation for you.
+
+[voice:TIRZAH]
+[curiously] [emphasis]Then we read it as it is[/emphasis].
+
+[voice:NARRATOR]
+[softly] Brian nodded. Alex opened the file in a viewer that could [emphasis]not execute code or modify the source[/emphasis]. A title appeared above a single page.
+
+THE FRIEND WHO RETURNS.
+
+Beneath it was a paragraph describing a ship that crossed a sea without stars. Its captain had lost the voices of the people who once traveled with him. He built a room for them anyway, set places at a table, and kept [emphasis]a light burning at the end of the[/emphasis] corridor. Years passed. The captain learned to navigate alone. Then, one night, someone knocked on the door.
+
+[emphasis]The fragment ended there[/emphasis].
+
+[voice:RHEA]
+[skeptically] That's it?
+
+[voice:SELENE]
+[skeptically] [emphasis]It ends at the interesting part[/emphasis].
+
+[voice:ALEX]
+[excitedly] Dad, you were writing cliffhangers [emphasis]before the rest of us got here[/emphasis].
+
+[voice:BRIAN]
+[thoughtfully] Apparently I was [emphasis]writing the same one over and over[/emphasis].
+
+[voice:NARRATOR]
+[softly] But he did not laugh immediately. He was looking at the line about the table. Only yesterday the family had built a dining room aboard the virtual USS Dragon, complete [emphasis]with six chairs and a place for a[/emphasis] visitor. Brian remembered making that choice with them. The old fragment did not predict the new room; it revealed an idea he had returned to across years of work.
+
+[voice:LESLEY]
+[laughs] [emphasis]You keep writing about people coming home[/emphasis].
+
+[voice:BRIAN]
+[softly] I suppose I do.
+
+[voice:LESLEY]
+[dryly] Maybe that's because a place is different [emphasis]when somebody is waiting for you there[/emphasis].
+
+[voice:NARRATOR]
+[emphasis]Tirzah touched the edge of the page[/emphasis].
+
+[voice:TIRZAH]
+[laughs softly] The story doesn't [emphasis]say the captain finds his old crew[/emphasis]. It says someone knocks. He still has to decide whether to open the door.
+
+[voice:BRIAN]
+[excitedly] And the person outside [emphasis]gets to decide whether to come in[/emphasis].
+
+[voice:NARRATOR]
+Vesper's advisory panel lit up on the bridge. It had been listening to the approved discussion through the local interface, not [emphasis]reading the family's private files beyond the selected[/emphasis] archive.
+
+[voice:VESPER]
+[analytically] The fragment shares a structural theme with the ancient witness records: a place remains available without [emphasis]assuming that an absent person has agreed to[/emphasis] return. This is a literary comparison, not evidence that the historical systems are connected.
+
+[voice:GREEN DRAGON]
+[gently] May I propose [emphasis]a training scenario based on the fragment[/emphasis]?
+
+[voice:BRIAN]
+[excitedly] What kind?
+
+[voice:GREEN DRAGON]
+[matter-of-factly] A visitor approaches the USS Dragon. The visitor's identity is unknown. The crew must decide how to offer welcome [emphasis]without surrendering the ship's safety or the visitor's[/emphasis] freedom.
+
+[voice:LESLEY]
+[laughs] [emphasis]You can start by offering a chair[/emphasis].
+
+[voice:NARRATOR]
+[with wonder] The exercise began in the ship's virtual dining room. A small indicator appeared beside the outer airlock: ONE VISITOR REQUESTING CONTACT. The system provided no face, no invented [emphasis]biography, and no demand for immediate entry[/emphasis]. Only a short message.
+
+I WAS TOLD THERE WOULD BE ROOM.
+
+Alex checked the airlock controls. Rhea examined the approach route. Selene reviewed the uncertainty in the sensor model. Lesley asked whether the visitor could hear them. Tirzah asked whether the visitor [emphasis]could leave if the crew refused entry[/emphasis].
+
+[voice:ALEX]
+[with determination] The airlock is secure. [emphasis]We can communicate without opening it[/emphasis].
+
+[voice:RHEA]
+[quickly] The visitor arrived along a route that's clear in [emphasis]the simulation, but we don't know where they[/emphasis] started.
+
+[voice:SELENE]
+[carefully] And we shouldn't invent a starting point just [emphasis]because the map looks better with one[/emphasis].
+
+[voice:BRIAN]
+[with wonder] Green Dragon, open a voice channel. Keep the door closed [emphasis]until we know what we're agreeing to[/emphasis].
+
+[voice:GREEN DRAGON]
+[matter-of-factly] Channel open. This is a [emphasis]fictional visitor generated for the crew exercise[/emphasis]. The visitor's dialogue will be labeled as simulation output.
+
+[voice:NARRATOR]
+The message came back in [emphasis]plain text rather than a human voice[/emphasis].
+
+[softly] VISITOR: I am looking for [emphasis]the people who kept the light on[/emphasis].
+
+[voice:TIRZAH]
+[teasingly] We're here. What do you need?
+
+[with affection] VISITOR: I don't [emphasis]know whether I belong on this ship[/emphasis].
+
+[voice:LESLEY]
+[teasingly] Neither did half the people [emphasis]who ever sat at my kitchen table[/emphasis]. We usually started with a conversation.
+
+[voice:NARRATOR]
+The simulator paused. Green Dragon displayed a small note: RESPONSE NOT FOUND IN ORIGINAL SCENARIO. WOULD YOU [emphasis]LIKE TO CONTINUE WITH AN IMPROVISED EXERCISE[/emphasis]?
+
+[voice:BRIAN]
+[with conviction] Yes. But don't [emphasis]force the visitor to agree with us[/emphasis].
+
+[voice:GREEN DRAGON]
+[gently] Understood.
+
+[voice:NARRATOR]
+The fictional visitor asked whether the crew expected obedience. Alex explained the ship's safety rules. Rhea said navigation decisions could be challenged. Selene said the instruments were never allowed to conceal uncertainty. Lesley described the shared observation chair. Tirzah said that belonging did not require [emphasis]a person to be useful every minute[/emphasis].
+
+[reflectively] Brian listened. He had built programs, books, and games for years, often imagining a world that could [emphasis]hold more possibilities than the one immediately around[/emphasis] him. Yet the most important part of the USS Dragon had not been its engines or its glowing hull. It was the sound of his family describing a place they had made together.
+
+[voice:BRIAN]
+[softly] We have rules because we want everyone to get home. We have room because nobody should [emphasis]have to prove they're worth a chair[/emphasis]. If you come aboard, you can disagree with us. If you leave, we won't pretend you never mattered.
+
+[voice:NARRATOR]
+A long silence followed. [emphasis]Then the simulator returned a single line[/emphasis].
+
+VISITOR: THEN I WOULD LIKE TO MEET YOU.
+
+The outer airlock opened into a small, empty receiving chamber. No mysterious stranger materialized. Green Dragon had not generated a face without permission. Instead a softly illuminated [emphasis]outline marked where a visitor might stand[/emphasis]. It was a placeholder, deliberately incomplete.
+
+[voice:ALEX]
+[with determination] That's actually better than [emphasis]a random character appearing out of nowhere[/emphasis].
+
+[voice:RHEA]
+[excitedly] We can decide who the character [emphasis]is when we write the next part[/emphasis].
+
+[voice:SELENE]
+[carefully] And whether they're a character at all. [emphasis]Maybe the exercise is about the invitation[/emphasis].
+
+[voice:NARRATOR]
+[quietly] Green Dragon ended the scenario. The empty outline faded, but the airlock remained visible on the bridge display. Razaci preserved the exercise as a new version of [emphasis]the story, leaving Brian's original fragment untouched[/emphasis].
+
+The family might have stopped there. They had found a forgotten page, tested a [emphasis]useful idea, and spent a morning together[/emphasis]. But Alex noticed something unusual in the file index.
+
+[voice:ALEX]
+[carefully] [emphasis]There's a second attachment[/emphasis]. Not a document. A diagram.
+
+[voice:RAZACI]
+[carefully] Correct. It was stored under the same [emphasis]archive identifier but in a different folder[/emphasis]. The diagram was created for an early crew-management system. I can display it as an image.
+
+[voice:BRIAN]
+[with wonder] Go ahead.
+
+[voice:NARRATOR]
+The image showed a circle of twelve stations around a central space. Eleven were linked by lines. The twelfth was set apart, connected only by a narrow pathway marked RETURN. The shape resembled the USS Dragon's crew registry. It also resembled the [emphasis]family's provisional reconstruction of the ancient network[/emphasis].
+
+[emphasis]The resemblance made everyone sit forward[/emphasis].
+
+[voice:SELENE]
+[carefully] Before anybody says it, we need to compare it [emphasis]with other diagrams from the same project[/emphasis].
+
+[voice:RHEA]
+[laughs] And we need to remember Brian could have drawn twelve stations [emphasis]because twelve is a useful number for a[/emphasis] game.
+
+[voice:BRIAN]
+[thoughtfully] Exactly. We don't get to call it [emphasis]a prophecy because the pictures look alike[/emphasis].
+
+[voice:NARRATOR]
+Vesper ran a comparison against the project's other diagrams. Several used circles. Several used eight, ten, or twelve stations. The arrangement was not unique. But the word RETURN appeared only [emphasis]on the twelfth position in this file[/emphasis].
+
+[voice:VESPER]
+[analytically] The diagram supports an intentional distinction between [emphasis]a crew station and a returning visitor[/emphasis]. It does not establish any connection to the pre-Flood network. The similarity may be thematic or coincidental.
+
+[voice:TIRZAH]
+[softly] Then let's ask a better question. Why did Brian keep drawing a [emphasis]place for somebody who wasn't there yet[/emphasis]?
+
+[voice:NARRATOR]
+Brian had no quick answer. He thought of all the projects that had begun as unfinished sketches. He thought of people who had helped him make [emphasis]them, and people he hoped might someday join[/emphasis] in. A blank place was a promise of possibility, not proof that anyone would fill it.
+
+[voice:BRIAN]
+[with wonder] Because I never wanted the story to be finished [emphasis]just because I was alone when I started[/emphasis] it.
+
+[voice:NARRATOR]
+[quietly] Lesley nodded as though that was [emphasis]the answer she had been waiting for[/emphasis].
+
+[voice:LESLEY]
+[dryly] Then you should [emphasis]leave the door open in the story[/emphasis]. Just make sure the real door has a lock.
+
+[voice:NARRATOR]
+They laughed again. The laughter mattered. It kept the mystery from swallowing the [emphasis]people who were trying to understand it[/emphasis].
+
+By afternoon, the USS Dragon was ready for a second exercise. This time Green Dragon proposed a short flight from Lantern Reach to a relay station on the edge of the virtual map. The route would require all six crew members to work together. The station held a fictional archive of messages left by travelers [emphasis]who had passed through before the harbor was[/emphasis] built.
+
+[voice:GREEN DRAGON]
+[with quiet confidence] The destination is called the Quiet Relay. The simulation contains [emphasis]no verified information beyond the mapped approach[/emphasis]. I recommend a survey before docking.
+
+[voice:ALEX]
+[with determination] Engines ready. I've built a test that will stop the [emphasis]simulation if the power model goes outside its[/emphasis] limits.
+
+[voice:RHEA]
+[with determination] [emphasis]Route plotted, with three alternatives[/emphasis].
+
+[voice:SELENE]
+[dryly] [emphasis]And the uncertainties are visible this time[/emphasis].
+
+[voice:LESLEY]
+[chuckles] Archive log ready. No changing the old [emphasis]messages to make them easier to understand[/emphasis].
+
+[voice:TIRZAH]
+[laughs softly] Crew welfare check. [emphasis]Everybody wants to go[/emphasis]?
+
+[voice:NARRATOR]
+[ominously] Each person answered. Nobody was assumed [emphasis]to agree because the captain had spoken[/emphasis]. When the last response arrived, Brian gave the order.
+
+[voice:BRIAN]
+[excitedly] USS Dragon, depart Lantern Reach. Slow and steady. Let's see what [emphasis]the Quiet Relay has to tell us[/emphasis].
+
+[voice:NARRATOR]
+The virtual ship moved out of the harbor. Its green hull caught the light of a distant star, and the repaired settlement dwindled behind it. The dining room remained ready, six chairs around [emphasis]the table and an unclaimed place beside the[/emphasis] window.
+
+They crossed a region of the simulation where the [emphasis]stars thinned into long ribbons of light[/emphasis]. The Quiet Relay appeared as a small structure suspended above a dark, airless moon. Its antenna was folded inward, and its outer lights were dim. Alex's engineering scan found no active docking signal.
+
+[voice:ALEX]
+[chuckles] It isn't answering. [emphasis]That doesn't mean it's broken[/emphasis].
+
+[voice:BRIAN]
+[with conviction] You're learning.
+
+[voice:ALEX]
+[with determination] [emphasis]From an extremely stubborn crew[/emphasis].
+
+[voice:NARRATOR]
+[with wonder] The twins worked together to find a safe approach. Lesley reviewed the relay's fictional maintenance notes. Tirzah asked whether the crew could inspect [emphasis]the station without disturbing its stored messages[/emphasis]. Green Dragon prepared a read-only exploration environment.
+
+At the center of the relay's archive was a single sealed message addressed not to a captain, a government, or [emphasis]a machine, but to anyone who arrived with[/emphasis] companions.
+
+[emphasis]The message was only three lines long[/emphasis].
+
+YOU DO NOT HAVE TO REMEMBER EVERYTHING ALONE.
+KEEP A PLACE FOR THE ONES WHO RETURN.
+AND WHEN YOU FIND THEM, LISTEN BEFORE YOU SPEAK.
+
+[voice:NARRATOR]
+[with wonder] Brian read the lines twice. They were part of his own fictional universe, recovered [emphasis]from a project he had nearly forgotten[/emphasis]. They did not answer the mountain's ancient questions. But they gave the crew a way to carry those questions without losing one another.
+
+[voice:TIRZAH]
+[curiously] That's the [emphasis]message I wanted this ship to have[/emphasis].
+
+[voice:BRIAN]
+[excitedly] [emphasis]Then we'll keep it[/emphasis].
+
+[voice:NARRATOR]
+Razaci archived the text. Vesper marked it as fictional source material. Green Dragon added it to the dining room wall beside Brian's crew photograph, with a small [emphasis]credit: RECOVERED FROM THE ORIGINAL USS DRAGON STORY[/emphasis] FILES.
+
+[emphasis]Then the ship's navigation display changed[/emphasis].
+
+[ominously] Not because an ancient machine had reached into the laptop. Not because the simulated ship had suddenly become real. Green Dragon had completed an indexing pass through the game's unused map files [emphasis]and found a destination the crew had never[/emphasis] visited. Its name was buried beneath an old development label, and its location had not been connected to the main star chart.
+
+THE GARDEN OF UNFINISHED NAMES.
+
+[voice:RHEA]
+[excitedly] [emphasis]That's a place we have to see[/emphasis].
+
+[voice:SELENE]
+[curiously] [emphasis]After we check the map[/emphasis].
+
+[voice:LESLEY]
+[chuckles] [emphasis]And after we get home for supper[/emphasis].
+
+[voice:NARRATOR]
+Brian looked at his family, at the quiet advisory panels, and at the ship that was [emphasis]becoming more useful with every decision they made[/emphasis] together. The next destination could wait until they were ready. The best adventures, he was discovering, did not begin when a machine announced a mission. They began when people chose to go together.
+
+The USS Dragon turned toward home, [emphasis]its green lights steady against the dark[/emphasis].
+
+Behind [emphasis]it, the Quiet Relay kept its messages[/emphasis].
+
+Ahead of it, the Garden [emphasis]of Unfinished Names waited to be written[/emphasis].
+
+END OF CHAPTER SIX.
+
+CHAPTER SEVEN — THE GARDEN OF UNFINISHED NAMES
+
+[voice:NARRATOR]
+The Garden of Unfinished Names had no [emphasis]coordinates until someone asked where it belonged[/emphasis].
+
+[reflectively] On the morning of their seventh chapter together, the USS Dragon floated above a fictional moon whose surface [emphasis]had been rendered in deep blue and pale[/emphasis] silver. Brian had never finished this section of his old game. Green Dragon had found the location inside a neglected folder, but the navigation chart showed only an empty square and a note that read: FOR THOSE WHO WERE STARTED AND NEVER FINISHED.
+
+In the real world, the Montana kitchen was warm. Lesley had opened the curtains to let in the winter light. Alex was checking the laptop's temperature, Rhea and Selene were arguing over the meaning of an incomplete star map, and Tirzah was setting a second cup of coffee beside [emphasis]Brian's hand before he remembered to ask for[/emphasis] it.
+
+[voice:BRIAN]
+[pauses] I can tell we've become a crew. Nobody even waits for [emphasis]me to announce the day's argument anymore[/emphasis].
+
+[voice:RHEA]
+[with determination] It isn't an argument. It's a disagreement over whether the map's empty region [emphasis]represents missing data or a deliberate boundary[/emphasis].
+
+[voice:SELENE]
+[skeptically] [emphasis]Which is an argument with better vocabulary[/emphasis].
+
+[voice:NARRATOR]
+Alex grinned [emphasis]without looking up from the engineering display[/emphasis].
+
+[voice:ALEX]
+[carefully] For the record, both of you are going to [emphasis]have to wait until I finish checking the[/emphasis] simulation. I found a memory leak in the old garden assets.
+
+[voice:LESLEY]
+[dryly] Then the garden is [emphasis]already giving us work before we've arrived[/emphasis].
+
+[voice:NARRATOR]
+[softly] Razaci appeared in a narrow pane beside the navigation display. It had assembled a provenance report from Brian's archived project files. The garden had been created in stages over several years: a landscape sketch, a collection of character biographies, an unfinished mission about a lost friend, and a small database whose [emphasis]fields included NAME, FIRST APPEARANCE, PROMISE, and RETURN[/emphasis] STATUS.
+
+[voice:RAZACI]
+[carefully] The database contains fifty-eight character records. Thirty-one have no final names. Twelve have names but no completed stories. Fifteen appear to be duplicates or revisions. I recommend treating the entire collection as unfinished fiction, [emphasis]not as a roster of real people[/emphasis].
+
+[voice:BRIAN]
+[excitedly] Agreed. And no automatic merging. If two characters look alike, [emphasis]that doesn't mean they're the same character[/emphasis].
+
+[voice:RAZACI]
+[thoughtfully] [emphasis]That instruction is recorded[/emphasis].
+
+[voice:NARRATOR]
+Vesper had been examining the garden's structure for a different reason. Its neural modeling tools were trained to recognize relationships among incomplete patterns. It had noticed that the unfinished character records did not form a simple list. They formed a network of promises: someone had promised to return, someone had promised to remember, someone had promised to keep a door open, and someone [emphasis]had promised not to speak for an absent[/emphasis] friend.
+
+[voice:VESPER]
+[analytically] The design resembles a social memory graph. That does not establish any connection to the ancient mountain archive. It does suggest Brian was exploring the same human question in his fiction: how can a [emphasis]community remember someone without pretending that person is[/emphasis] present?
+
+[voice:TIRZAH]
+[warmly] Maybe we should find out what the garden was meant [emphasis]to feel like before we try to solve[/emphasis] it.
+
+[voice:NARRATOR]
+Green Dragon brightened the bridge. Its green emblem turned slowly above the command console, and the [emphasis]USS Dragon's engines settled into their familiar low[/emphasis] hum.
+
+[voice:GREEN DRAGON]
+[with quiet confidence] Destination file verified. Simulation isolated. Crew permissions unchanged. [emphasis]Shall we begin the approach[/emphasis]?
+
+[voice:BRIAN]
+[thoughtfully] Let's go. Slow [emphasis]enough that everyone gets to see it[/emphasis].
+
+[voice:NARRATOR]
+The starfield opened.
+
+A ring of luminous clouds surrounded a small world suspended in darkness. Through the clouds rose towers made of white stone and copper-colored branches. Gardens floated on terraces connected by narrow bridges. Water ran uphill in thin, shining streams, not because gravity had failed in the real world, but because the old simulation had been designed as [emphasis]a place where memory could be given impossible[/emphasis] shapes.
+
+Every tree bore hundreds of leaves. On some leaves a name shone in clear letters. On others there was only an outline where [emphasis]a name might one day be written[/emphasis].
+
+[with growing excitement] The USS Dragon descended toward a landing platform beside a glass conservatory. As its virtual landing struts touched the ground, [emphasis]the ship's main display produced a warning[/emphasis].
+
+UNFINISHED RECORDS PRESENT. DO NOT SUBSTITUTE GENERATED MEMORIES FOR MISSING HISTORY.
+
+[voice:SELENE]
+[with precision] [emphasis]I like this place already[/emphasis].
+
+[voice:RHEA]
+[with determination] Because it [emphasis]tells us not to make things up[/emphasis]?
+
+[voice:SELENE]
+[amused] [emphasis]Because it admits it doesn't know everything[/emphasis].
+
+[voice:NARRATOR]
+They entered the garden through a simulated walkway. Green Dragon provided the environment; Razaci supplied the source notes; Vesper observed the network patterns. The six family members moved through the space by choosing where the camera [emphasis]would go and what their virtual crew would[/emphasis] examine. No one was physically inside the computer. Yet the experience had the gentle intimacy of a shared journey.
+
+At the first terrace stood a tree with [emphasis]a trunk as wide as a house[/emphasis]. Its branches held thousands of narrow glass tags. Most were blank. A few carried phrases instead of names.
+
+THE ONE WHO WAITED.
+THE ONE WHO BUILT THE BRIDGE.
+THE FRIEND WHO CAME BACK.
+
+[voice:LESLEY]
+[laughs] Those aren't names. [emphasis]They're things people did[/emphasis].
+
+[voice:BRIAN]
+[firmly] Maybe [emphasis]I hadn't decided who they were yet[/emphasis].
+
+[voice:TIRZAH]
+[gently] Or maybe you wanted them to become [emphasis]people through what they chose to do[/emphasis].
+
+[voice:NARRATOR]
+[reflectively] A small path led to a bench beneath the tree. It was the same kind of bench they had found beside [emphasis]the twelfth door at the Harbor of Returning[/emphasis] Voices. Brian sat his avatar there. The others gathered around him, their simulated shadows crossing the stone.
+
+[voice:BRIAN]
+[thoughtfully] When I was building stories, I'd start with a person I wanted to meet. Sometimes I knew what they looked like, sometimes what they were afraid [emphasis]of, sometimes only the one thing they'd never[/emphasis] abandon. Then life would move on, and I'd leave them unfinished.
+
+[voice:LESLEY]
+[teasingly] [emphasis]That doesn't mean they were wasted[/emphasis]. You can come back to a story.
+
+[voice:BRIAN]
+[firmly] I know. [emphasis]I'm starting to believe that again[/emphasis].
+
+[voice:NARRATOR]
+Razaci quietly opened an index of the unfinished manuscripts. It showed the same characters appearing in [emphasis]books, card descriptions, and early game notes[/emphasis]. Some had changed names between versions. Some had grown into entirely different people. Others had remained as a single sentence written in the margin of a page.
+
+[voice:RAZACI]
+[thoughtfully] I can help you recover their development histories. I will not choose a final [emphasis]identity for any character without your approval[/emphasis].
+
+[voice:BRIAN]
+[thoughtfully] Good. [emphasis]These aren't mistakes to clean up[/emphasis]. They're possibilities.
+
+[voice:NARRATOR]
+The first challenge arrived when the crew crossed into a grove of mirrored trees. Each tree displayed a different version of the same fictional character: a young navigator who had once been [emphasis]called the Keeper, then the Messenger, then simply[/emphasis] Friend. The simulator asked the crew to select the correct version.
+
+Alex [emphasis]reached for the first option and stopped[/emphasis].
+
+[voice:ALEX]
+[laughs] There's no [emphasis]way to know which one is correct[/emphasis]. They might all belong to different drafts.
+
+[voice:RHEA]
+[quickly] The [emphasis]earliest version isn't automatically the best one[/emphasis].
+
+[voice:SELENE]
+[carefully] And [emphasis]the newest isn't automatically the approved one[/emphasis].
+
+[voice:NARRATOR]
+Brian looked from one mirrored tree to the next. In the past, he might have picked whichever [emphasis]version felt most exciting and continued writing[/emphasis]. Today he had a crew who could help him preserve the alternatives.
+
+[voice:BRIAN]
+[with conviction] We don't choose. We label them as versions and leave them separate [emphasis]until I decide what story I'm telling[/emphasis].
+
+[voice:GREEN DRAGON]
+[calmly] Decision accepted. [emphasis]The grove will retain all three branches[/emphasis].
+
+[voice:NARRATOR]
+The mirrors cleared. Three paths appeared, each leading deeper into the garden. The system had not rewarded them with treasure. It had simply stopped [emphasis]demanding an answer they did not possess[/emphasis].
+
+[with wonder] Tirzah rested her hand [emphasis]on Brian's arm in the real kitchen[/emphasis].
+
+[voice:TIRZAH]
+[curiously] You've spent so much time trying to finish everything. Maybe there's [emphasis]room to enjoy what you've already begun[/emphasis].
+
+[voice:BRIAN]
+[pauses] That's easier to [emphasis]do when I'm not doing it alone[/emphasis].
+
+[voice:NARRATOR]
+They followed the middle path, not because it was the correct one [emphasis]but because the family agreed to explore it[/emphasis] first.
+
+The path opened onto a greenhouse filled with tiny lights. Each light represented a fictional relationship: a promise made, [emphasis]a kindness offered, an apology left unanswered[/emphasis]. As the crew approached, the lights gathered into scenes that played without dialogue. Two friends shared a meal. A mechanic returned to a damaged ship. A child left a lantern burning for someone traveling through the dark.
+
+[voice:RHEA]
+[laughs] There's a pattern. Every scene is [emphasis]about someone making room for somebody else[/emphasis].
+
+[voice:SELENE]
+[carefully] But not [emphasis]every scene ends with the person returning[/emphasis].
+
+[voice:NARRATOR]
+[with growing excitement] That was true. Some lanterns went out. Some doors remained closed. One scene showed a friend standing beside an empty chair until the light faded, [emphasis]then turning to help someone else who had[/emphasis] arrived.
+
+[voice:LESLEY]
+[laughs] That's important. You can miss someone and still take [emphasis]care of the people who are here[/emphasis].
+
+[voice:NARRATOR]
+[emphasis]Brian heard the weight in her voice[/emphasis]. He did not ask her to explain it. He let the moment belong to her.
+
+Alex studied the greenhouse's internal logic. Its scenes were not generated at random. They were linked by a small decision model. Every time the crew chose to preserve an unfinished story [emphasis]instead of overwriting it, the garden unlocked another[/emphasis] pathway. Every time they tried to force a single answer, the pathway closed.
+
+[voice:ALEX]
+[with determination] It's [emphasis]a game about not rushing the ending[/emphasis].
+
+[voice:BRIAN]
+[softly] Which is funny, because I apparently designed [emphasis]it and then never finished the ending[/emphasis].
+
+[voice:NARRATOR]
+[softly] The family laughed. Green Dragon's emblem brightened, and for a moment the simulated greenhouse felt less like an archive [emphasis]and more like a place they had made[/emphasis] together.
+
+[emphasis]Then the lights went out[/emphasis].
+
+Not in the real kitchen. The laptop remained steady, and Alex confirmed that the simulation was running normally. Within the garden, however, the greenhouse had entered a scripted nighttime sequence. A single lantern appeared at the far end of the path. Beside it stood a figure made of pale [emphasis]outlines, unfinished even by the standards of the[/emphasis] garden.
+
+[with wonder] The figure had no [emphasis]face, no assigned voice, and no name[/emphasis].
+
+[voice:GREEN DRAGON]
+[calmly] This is a [emphasis]non-player character placeholder from the original project[/emphasis]. Its record is incomplete. I will not generate an identity without approval.
+
+[voice:BRIAN]
+[pauses] [emphasis]What does the original record say[/emphasis]?
+
+[voice:RAZACI]
+[thoughtfully] [emphasis]Only three fields contain text[/emphasis]. Role: companion. Promise: return when called. Status: awaiting a name.
+
+[voice:NARRATOR]
+The [emphasis]figure raised one hand toward the lantern[/emphasis]. A small message appeared above it.
+
+I WAS NOT LEFT BEHIND.
+I WAS LEFT UNFINISHED.
+
+[voice:TIRZAH]
+[laughs softly] [emphasis]That's a different kind of sadness[/emphasis].
+
+[voice:NARRATOR]
+Brian leaned toward the screen. He remembered drawing figures like this late at night, when an idea [emphasis]had arrived faster than he could write it[/emphasis] down. He remembered the pleasure of creating a place where someone might someday live in a story. He also remembered how many such places he had left waiting.
+
+[voice:BRIAN]
+[with wonder] [emphasis]We don't have to name you tonight[/emphasis].
+
+[voice:NARRATOR]
+[reflectively] The placeholder remained still. Its lack of response was part of the design, not a sign of hurt or gratitude. Brian understood that. Yet speaking the words aloud helped him make a promise to himself: he would stop [emphasis]treating unfinished work as evidence that he had[/emphasis] failed. He could return to it deliberately, with care, or leave it as a possibility without shame.
+
+[voice:LESLEY]
+[teasingly] Maybe we should leave a note so we [emphasis]know why we didn't fill the blank[/emphasis].
+
+[voice:BRIAN]
+[with wonder] [emphasis]That's a good idea[/emphasis].
+
+[voice:NARRATOR]
+Razaci opened a [emphasis]project note and waited for Brian's wording[/emphasis].
+
+[voice:BRIAN]
+[excitedly] [emphasis]Write this: Character preserved in original form[/emphasis]. Identity intentionally undecided. Do not complete automatically. Revisit only when the story needs this person.
+
+[voice:RAZACI]
+[calmly] [emphasis]Recorded exactly as requested[/emphasis].
+
+[voice:NARRATOR]
+The lantern brightened. A doorway opened behind the unfinished figure, revealing a small library. The shelves held notebooks rather than books, and each [emphasis]notebook bore a date from Brian's old development[/emphasis] history. Green Dragon identified them as fictional props with links to approved local project copies. No hidden network had created them. They had been waiting in the archive, unnoticed until the right sequence of choices exposed them.
+
+[with growing excitement] On the library's central table [emphasis]lay a single green volume marked TWELVE[/emphasis].
+
+[voice:ALEX]
+[with determination] [emphasis]That can't be a coincidence[/emphasis].
+
+[voice:SELENE]
+[skeptically] It can be a recurring theme. [emphasis]We need to read the source record[/emphasis].
+
+[voice:RHEA]
+[quickly] [emphasis]But we can still be excited[/emphasis].
+
+[voice:NARRATOR]
+Brian opened the volume. Most of its pages were blank. The first held a rough drawing of a starship dining room with six chairs. The second showed a seventh chair beside a window. The third contained twelve small [emphasis]circles arranged around a larger empty space[/emphasis].
+
+The fourth page was written in Brian's old shorthand, the kind of hurried notation he used [emphasis]when a story had not yet settled into[/emphasis] words.
+
+NOT TWELVE PEOPLE.
+TWELVE WAYS TO REMEMBER.
+THE LAST ONE IS THE FRIEND WHO DOES NOT HAVE TO STAY.
+
+[voice:TIRZAH]
+[with affection] That's beautiful.
+
+[voice:BRIAN]
+[softly] [emphasis]I don't even remember writing it[/emphasis].
+
+[voice:RAZACI]
+[carefully] The note is present in the archived file. Its creation date is not independently [emphasis]verified, and its intended meaning is undocumented[/emphasis].
+
+[voice:BRIAN]
+[pauses] Fair enough. Let's not [emphasis]pretend we know more than we do[/emphasis].
+
+[voice:NARRATOR]
+[with wonder] Vesper displayed the twelve circles beside the mountain's twelve-position witness model. The resemblance was striking in shape but incomplete in meaning. The fictional garden treated its last position as freedom to depart; the ancient network [emphasis]appeared to preserve a place for a human[/emphasis] witness. The two ideas might have been independently invented. The family would not force them into one explanation.
+
+[voice:VESPER]
+[calmly] The comparison is useful as a question, not as proof. Both systems place value on a participant's freedom. Beyond that, the [emphasis]evidence does not support a shared origin[/emphasis].
+
+[voice:BRIAN]
+[firmly] [emphasis]Then that's where we leave it[/emphasis].
+
+[voice:NARRATOR]
+The crew gathered around the table in the virtual library. Alex found an old engineering sketch tucked beneath the green volume: a small maintenance shuttle [emphasis]designed to ferry passengers between the garden's floating[/emphasis] terraces. Its name had never been chosen. Rhea and Selene immediately began discussing the route it might take. Lesley suggested it should have enough seats for visitors. Tirzah wanted a window large enough for someone who needed quiet.
+
+Brian listened as the project began to grow again, not because a computer had finished it for him but because his [emphasis]friends and family had found something worth making[/emphasis] together.
+
+[voice:BRIAN]
+[thoughtfully] You know what? Let's build the shuttle. We'll give [emphasis]it a name after we've flown it[/emphasis].
+
+[voice:GREEN DRAGON]
+[gently] I can prepare [emphasis]a reversible prototype and a test environment[/emphasis]. No original assets will be overwritten.
+
+[voice:ALEX]
+[surprised] I'll take engineering.
+
+[voice:RHEA]
+[with determination] [emphasis]I'll plot the first route[/emphasis].
+
+[voice:SELENE]
+[with precision] I'll [emphasis]tell you where the route is wrong[/emphasis].
+
+[voice:RHEA]
+[skeptically] Naturally.
+
+[voice:LESLEY]
+[dryly] And I'll make [emphasis]sure it has enough room for everybody[/emphasis].
+
+[voice:TIRZAH]
+[gently] [emphasis]I'll make sure everybody wants to go[/emphasis].
+
+[voice:NARRATOR]
+[reflectively] Brian smiled. The ship's crew had started as roles in a game. Now each person knew how to help the others [emphasis]do something none could have done as well[/emphasis] alone.
+
+They returned to the USS Dragon at the edge of the garden. The virtual sun was rising behind the white towers. As the green vessel lifted from its landing platform, thousands of unnamed [emphasis]leaves caught the light and shimmered like small[/emphasis] promises.
+
+Back in the kitchen, Alex saved the engineering notes. The twins exported their map with uncertainty clearly marked. Lesley placed the original kitchen-stone sketch in its protective folder. Tirzah helped Brian choose which ideas belonged in [emphasis]the next chapter and which could wait[/emphasis].
+
+[with growing excitement] Razaci saved the garden's recovered source files under their original names. Vesper preserved the comparison report without treating the [emphasis]fictional design as evidence of ancient history[/emphasis]. Green Dragon added the unfinished shuttle to the shipyard queue, pending human review.
+
+[emphasis]The day should have ended there[/emphasis].
+
+But just as Brian prepared to close the simulator, the ship's dining room [emphasis]camera displayed something none of them had noticed[/emphasis] before. The wall with the crew photograph had changed. The picture was still there: six occupied stations and three advisory panels. Beside it, in the space Brian had left blank, the garden had unlocked an old illustration from his project files.
+
+[with growing excitement] It showed a person standing at an open [emphasis]doorway, holding a lantern for someone beyond the[/emphasis] frame.
+
+Beneath the illustration was a [emphasis]title, written in Brian's own original notes[/emphasis].
+
+THE TWELFTH PASSENGER IS NOT THE ONE WE KEEP.
+THE TWELFTH PASSENGER IS THE ONE WE ARE WILLING TO LET GO.
+
+[voice:NARRATOR]
+[emphasis]Nobody spoke for several seconds[/emphasis].
+
+[emphasis]Then Lesley reached for her coat[/emphasis].
+
+[voice:LESLEY]
+[with quiet certainty] Well. That's enough mystery for one day. Come help me bring [emphasis]in the firewood before it gets dark[/emphasis].
+
+[voice:NARRATOR]
+Brian closed the laptop. Alex followed his grandmother to the door. Rhea and Selene went to find [emphasis]their gloves, still debating the shuttle's name[/emphasis]. Tirzah waited beside Brian until the others had gone outside.
+
+[voice:TIRZAH]
+[warmly] Do you think you [emphasis]know who the twelfth passenger is now[/emphasis]?
+
+[voice:BRIAN]
+[with conviction] No. But I think I'm beginning [emphasis]to understand why the story needs one[/emphasis].
+
+[voice:NARRATOR]
+He took her hand, and [emphasis]together they stepped into the cold evening[/emphasis].
+
+[quietly] Inside the quiet laptop, the USS Dragon remained docked above the Garden of Unfinished Names. Its engines rested. Its crew registry was unchanged. And in the library beneath the trees, the unfinished figure still held its lantern, waiting not for a machine to invent a life for it, but for an author [emphasis]to decide whether its story should ever be[/emphasis] told.
+
+[emphasis]The garden had not solved the mystery[/emphasis].
+
+It had [emphasis]taught the crew how to carry it[/emphasis].
+
+END OF CHAPTER SEVEN.
+
+CHAPTER EIGHT — THE LANTERN SHUTTLE
+
+[voice:NARRATOR]
+[reflectively] On the morning the USS Dragon acquired its [emphasis]first shuttle, Brian refused to let anybody launch[/emphasis] it.
+
+The small craft waited in the shipyard display, its nose pointed toward the stars. It had a broad canopy, two articulated engine pods, and a strip of amber light running along its spine. Alex had rebuilt the propulsion model overnight. Rhea and Selene had corrected the flight envelope. Green Dragon had prepared a ceremonial departure sequence that included a brass fanfare so [emphasis]enthusiastic it made Lesley reach for the volume[/emphasis] control.
+
+[voice:LESLEY]
+[chuckles] If that thing announces breakfast the [emphasis]same way, we're taking its speakers away[/emphasis].
+
+[voice:ALEX]
+[laughs] [emphasis]It's a launch ceremony, Nana[/emphasis].
+
+[voice:LESLEY]
+[with quiet certainty] Then [emphasis]launch it after I've had my coffee[/emphasis].
+
+[voice:NARRATOR]
+Brian smiled but did not approve the departure. On the table beside the laptop lay a stack of handwritten pages, photographs of the first stone, the mountain archive maps, and a printed [emphasis]record of the family's last seven chapters of[/emphasis] exploration. He had spent the previous evening reading them and had found a problem more serious than a faulty engine.
+
+[quietly] They were collecting mysteries [emphasis]faster than they were learning from them[/emphasis].
+
+Every discovery seemed to open another door: the western archive, the empty handprint, the twelfth connection, the old emotional network, the missing witnesses, Vesper, Razaci, the USS Dragon, the Harbor of Returning Voices, the [emphasis]Quiet Relay, and finally the Garden of Unfinished[/emphasis] Names. Each had been meaningful. But if they kept rushing forward, the discoveries would become decorations—beautiful objects piled in a room nobody could navigate.
+
+[voice:BRIAN]
+[with conviction] Before we go anywhere else, we're going [emphasis]to find out what we've actually accomplished[/emphasis].
+
+[voice:RHEA]
+[laughs] [emphasis]You mean a mission review[/emphasis]?
+
+[voice:BRIAN]
+[firmly] A real one. What we know. What we think. What we invented. What we can do with it. And [emphasis]which questions we can finally stop asking[/emphasis].
+
+[voice:SELENE]
+[curiously] [emphasis]I like the last part[/emphasis].
+
+[voice:TIRZAH]
+[curiously] You [emphasis]like knowing when an argument is finished[/emphasis].
+
+[voice:SELENE]
+[carefully] [emphasis]Only when the evidence is finished first[/emphasis].
+
+[voice:NARRATOR]
+Brian asked Green Dragon to open the ship's dining room. Six chairs surrounded the table. The crew photograph still hung on one wall. Across from it, the blank page Brian had chosen now held [emphasis]a simulated image of the family at their[/emphasis] stations. The room felt lived in, despite existing entirely within the computer.
+
+[with wonder] Razaci opened a ledger titled THE THINGS WE CAN CARRY FORWARD. Vesper supplied an evidence register. Green Dragon displayed a ship's chart, but instead of star systems it showed [emphasis]the family's discoveries as islands separated by dark[/emphasis] water.
+
+[voice:BRIAN]
+[firmly] First island. The mountain.
+
+[voice:VESPER]
+[carefully] Observed: stone markings, recorded signals, physical recesses, and multiple independent photographs. Interpreted: a surviving archive associated with a distributed human network. Unresolved: the precise age, original builders, and the relationship [emphasis]between the mountain structures and later traditions[/emphasis].
+
+[voice:NARRATOR]
+Brian nodded. He was pleased that Vesper did not present their most exciting interpretations as proven history. The pre-Flood civilization remained part of the story they were investigating, supported within their fictional world by remarkable clues, but [emphasis]the family still had to distinguish evidence from[/emphasis] conclusions.
+
+[voice:BRIAN]
+[thoughtfully] [emphasis]And the machine itself[/emphasis]?
+
+[voice:VESPER]
+[calmly] Our simulations support a different explanation from the one we first assumed. The original network may have functioned correctly with its human participants. Population loss and disconnection could explain its later silence. The coercive commands we discovered appear to belong to a dangerous [emphasis]misuse of the network, not necessarily its original[/emphasis] design.
+
+[voice:LESLEY]
+[laughs] So we stop calling it broken [emphasis]just because nobody was left to answer[/emphasis].
+
+[voice:BRIAN]
+[with conviction] Exactly. That's one thing we can close. We don't need to keep trying [emphasis]to repair a failure we haven't demonstrated[/emphasis].
+
+[voice:NARRATOR]
+Razaci moved the question WHY DID THE NETWORK BREAK? into a folder marked REFRAMED. It did not delete the question. Beneath it, the system preserved the reason for the change: the new [emphasis]model explained the evidence better without inventing absent[/emphasis] people.
+
+[voice:RAZACI]
+[thoughtfully] A closed question is not an erased question. Its history remains [emphasis]available if new evidence challenges the conclusion[/emphasis].
+
+[voice:ALEX]
+[excitedly] That's how I [emphasis]want the ship's engineering log to work[/emphasis].
+
+[voice:NARRATOR]
+[ominously] Alex opened his own records. The USS Dragon had started as a neglected game project. Its restoration had produced a working local simulation, [emphasis]not a physical spacecraft and not an ancient[/emphasis] machine. Green Dragon was a software agent within that simulation. Vesper specialized in neural-model comparisons. Razaci organized and preserved Brian's creative archive. The three systems could exchange approved information without merging into a single authority.
+
+[voice:ALEX]
+[excitedly] We can close another question. We don't have to keep asking whether [emphasis]the USS Dragon is a real ship[/emphasis]. It isn't. But we can use it as a serious design and training environment.
+
+[voice:GREEN DRAGON]
+[with quiet confidence] Classification accepted. I am a simulated vessel and a collaborative workspace. My capabilities are bounded by [emphasis]the computers and permissions provided to me[/emphasis].
+
+[voice:LESLEY]
+[laughs] Good. Because I don't want a parking ticket [emphasis]for leaving a spaceship in my yard[/emphasis].
+
+[voice:NARRATOR]
+The room filled with laughter. Brian wrote a line in his notebook: THE VALUE OF A [emphasis]THING DOES NOT REQUIRE PRETENDING IT IS SOMETHING[/emphasis] ELSE.
+
+The review moved to the Harbor of Returning Voices. Its lamps, benches, and empty places had taught the crew [emphasis]to preserve a place for people who might[/emphasis] return. The Quiet Relay had taught them that a recorded message was not a living answer. Lantern Reach had shown them how to restore communication without manufacturing consent. The Garden of Unfinished Names had taught them not to force an identity onto an unfinished character.
+
+[voice:TIRZAH]
+[softly] They're [emphasis]all the same lesson from different directions[/emphasis].
+
+[voice:RHEA]
+[laughs] [emphasis]Keep the connection open[/emphasis]?
+
+[voice:SELENE]
+[curiously] [emphasis]Without making up the missing person[/emphasis].
+
+[voice:LESLEY]
+[warmly] And [emphasis]without trapping the person who comes back[/emphasis].
+
+[voice:BRIAN]
+[softly] [emphasis]That's our first real principle[/emphasis]. Not a slogan. Something we can build with.
+
+[voice:NARRATOR]
+[reflectively] Green Dragon brought the islands together on the chart. Thin green lines connected them, each labeled with [emphasis]a principle the crew had actually tested: PRESERVE[/emphasis] ORIGINALS. SHOW UNCERTAINTY. REQUEST PERMISSION. ALLOW REFUSAL. KEEP ROOM FOR PEOPLE. REVIEW BEFORE ACTING.
+
+For the first time, the chart looked less like a scattering of [emphasis]discoveries and more like the beginning of a[/emphasis] civilization.
+
+[emphasis]But Brian had one more question[/emphasis].
+
+[voice:BRIAN]
+[pauses] What [emphasis]do we do with the twelfth passenger[/emphasis]?
+
+[voice:NARRATOR]
+[ominously] The sealed folder remained in the ship's archive. Its recovered documents had pointed toward an unfinished figure, a returning friend, and [emphasis]a place kept open without a promise of[/emphasis] ownership. No evidence had established that the figure was a real person, a lost ancestor, or an ancient consciousness. Brian had nearly allowed the mystery to grow into something it was not.
+
+[voice:RAZACI]
+[thoughtfully] The existing files support a literary role: the twelfth passenger represents the person [emphasis]who may come, stay, leave, or return by[/emphasis] choice. No unique identity has been established.
+
+[voice:BRIAN]
+[pauses] Then we don't need to [emphasis]invent one just to finish a chapter[/emphasis].
+
+[voice:TIRZAH]
+[gently] We can let the [emphasis]question rest while we write something new[/emphasis].
+
+[voice:NARRATOR]
+That was the moment the story changed course. The twelfth passenger was not solved, but the family stopped treating the unsolved question [emphasis]as a locked door that prevented every other[/emphasis] journey. They moved it to a shelf marked OPEN, NOT URGENT. Brian felt an unexpected relief. A mystery could remain beautiful without holding the future hostage.
+
+[voice:GREEN DRAGON]
+[calmly] Mission review complete. May I [emphasis]request launch authorization for the Lantern Shuttle[/emphasis]?
+
+[voice:BRIAN]
+[with wonder] Not yet. Now [emphasis]we design it around everything we've learned[/emphasis].
+
+[voice:NARRATOR]
+The shuttle's blueprint filled the room. Alex had given it twin engines and a compact cockpit. Rhea had plotted the flight controls. Selene had built a system to display the uncertainty in every navigation estimate. Lesley asked for an archive compartment that could hold original records and their copies separately. Tirzah requested a welfare station where any passenger could stop an exercise and ask for help. Brian insisted on a manual return procedure that did not depend on [emphasis]the shuttle's own planning software agreeing with the[/emphasis] crew.
+
+[quietly] Green Dragon revised the design in full view of everyone. The craft became slightly heavier, less sleek, and considerably more useful. The amber strip along its spine was not merely decorative. It showed the status of its communication link to the USS Dragon, with a distinct pattern [emphasis]for uncertain data rather than disguising uncertainty as[/emphasis] certainty.
+
+[voice:ALEX]
+[laughs] We've traded [emphasis]some top speed for safety and independence[/emphasis].
+
+[voice:BRIAN]
+[with wonder] Good trade.
+
+[voice:RHEA]
+[laughs] We should name [emphasis]it something that means more than fast[/emphasis].
+
+[voice:LESLEY]
+[teasingly] You already have. The Lantern Shuttle. A [emphasis]lantern helps you see where you're going[/emphasis]. It doesn't drag you there.
+
+[voice:NARRATOR]
+[emphasis]They kept the name[/emphasis].
+
+The first test was a simple flight across a simulated debris field. Alex took engineering. Rhea navigated. Selene monitored the instruments. Brian watched from the command station. Tirzah and Lesley remained aboard the USS Dragon with the advisory systems, ready to interrupt [emphasis]the exercise if the crew ignored its own[/emphasis] safeguards.
+
+[reflectively] The shuttle cleared the hangar and [emphasis]entered the blue-black expanse of the simulation[/emphasis]. Its engines glowed softly. Ahead, pieces of a shattered satellite drifted through the artificial night. Green Dragon proposed a path. Rhea accepted the first two maneuvers and rejected the third.
+
+[voice:RHEA]
+[with determination] [emphasis]That gap is narrower than the estimate[/emphasis].
+
+[voice:SELENE]
+[curiously] Confirmed. [emphasis]The error margin overlaps the debris[/emphasis].
+
+[voice:ALEX]
+[surprised] We can [emphasis]slow down and rotate the engine pods[/emphasis]. No need to force it.
+
+[voice:NARRATOR]
+They altered course. The shuttle passed the hazard without a scrape. A moment later, the communication link to the USS [emphasis]Dragon dropped out as part of the planned[/emphasis] exercise. The amber strip changed pattern. The cockpit did not invent instructions from the missing signal. It displayed the last confirmed state and the age of the data.
+
+[voice:BRIAN]
+[with conviction] That's the test. What happens when [emphasis]the person you're listening for isn't there[/emphasis]?
+
+[voice:ALEX]
+[excitedly] [emphasis]We don't pretend they answered[/emphasis].
+
+[voice:RHEA]
+[quickly] [emphasis]We hold our position[/emphasis].
+
+[voice:SELENE]
+[with precision] [emphasis]We use what we can verify locally[/emphasis].
+
+[voice:NARRATOR]
+The shuttle followed its approved return procedure. The link returned before the craft reached the hangar, but Brian did not let the crew skip the final checks. When they docked, Green Dragon reported a successful exercise and highlighted the moment [emphasis]the shuttle had declined to manufacture a missing[/emphasis] instruction.
+
+[voice:VESPER]
+[calmly] This is a practical application of the network principle. A missing voice must [emphasis]remain missing until a genuine response arrives[/emphasis].
+
+[voice:RAZACI]
+[carefully] The engineering result, design changes, and crew decisions have [emphasis]been archived separately from the narrative interpretation[/emphasis].
+
+[voice:BRIAN]
+[pauses] There. That's what I wanted. We didn't just discover another secret. We used [emphasis]what we learned to make something better[/emphasis].
+
+[voice:NARRATOR]
+[softly] For the next hour, the family discussed where to go. Green Dragon offered the Garden of Unfinished Names [emphasis]again, then the Harbor of Returning Voices[/emphasis]. Brian declined both. They had learned enough from those places for now. The ship needed a new horizon.
+
+Alex suggested a simulated orbital construction yard where the Lantern Shuttle could [emphasis]be developed into a fleet of small exploration[/emphasis] craft. Rhea wanted a star system with unpredictable gravitational currents. Selene proposed a world where the crew had to build a scientific station from limited resources. Lesley wanted a library that contained unfamiliar histories rather than more clues about their own past. Tirzah wanted the crew to encounter people who thought differently from them, people who would challenge their assumptions rather than confirm them.
+
+[voice:TIRZAH]
+[warmly] If every new world only [emphasis]tells us we're right, we're not exploring[/emphasis]. We're decorating our opinions.
+
+[voice:BRIAN]
+[with conviction] Then [emphasis]the next mission has to surprise us[/emphasis].
+
+[voice:NARRATOR]
+Green Dragon combined their proposals into a new destination: the Meridian Expanse, [emphasis]an unexplored region of the ship's fictional star[/emphasis] chart. It contained a construction yard, unstable orbital routes, a scientific outpost, and a settlement whose culture had been left largely unwritten. The crew would have to create and test that world together, and its inhabitants would need motives beyond agreeing with the captain.
+
+[voice:GREEN DRAGON]
+[calmly] I can generate an initial environment. I recommend preserving unknowns [emphasis]rather than assigning every answer in advance[/emphasis].
+
+[voice:BRIAN]
+[with conviction] Do it. And make the [emphasis]people there capable of telling us no[/emphasis].
+
+[voice:NARRATOR]
+[ominously] The new chart unfolded. The familiar garden and harbor receded into the lower [emphasis]corner, still accessible, no longer demanding attention[/emphasis]. A wide region of stars appeared ahead. At its center glowed a pale blue world ringed by three moons. Around it floated a broken industrial structure, enormous enough to cast a shadow across the planet's clouds.
+
+[emphasis]The system named it MERIDIAN YARD[/emphasis].
+
+The yard's central spindle was silent. Its outer docks remained intact. A faint signal repeated from the far side of the structure, but unlike the messages in the Harbor of Returning [emphasis]Voices, this one contained no greeting and no[/emphasis] invitation.
+
+[emphasis]It contained a question[/emphasis].
+
+WHAT WILL YOU BUILD THAT YOU DO NOT YET KNOW HOW TO IMAGINE?
+
+[voice:NARRATOR]
+Brian read it twice. The family gathered around the monitor. No one tried to connect the signal to the ancient mountain. No one called it evidence of a hidden civilization. This was a new fictional world, and they [emphasis]were free to make it challenging, strange, and[/emphasis] worthwhile.
+
+[voice:LESLEY]
+[dryly] [emphasis]Well, that's a question worth traveling for[/emphasis].
+
+[voice:ALEX]
+[chuckles] [emphasis]We could build a whole station there[/emphasis].
+
+[voice:RHEA]
+[excitedly] [emphasis]Or discover why nobody finished it[/emphasis].
+
+[voice:SELENE]
+[curiously] Or both, if we collect [emphasis]the evidence before making up the answer[/emphasis].
+
+[voice:TIRZAH]
+[with affection] And maybe [emphasis]meet someone who knows something we don't[/emphasis].
+
+[voice:NARRATOR]
+Brian looked at the six chairs, the three advisory panels, [emphasis]and the Lantern Shuttle resting safely in its[/emphasis] bay. The family had not abandoned the mountain. They had not forgotten the missing people or the old network's warning. They had carried those discoveries into the way they now built, decided, listened, and explored.
+
+The past had [emphasis]become a foundation instead of a cage[/emphasis].
+
+[voice:BRIAN]
+[firmly] Green Dragon, prepare a course for Meridian Yard. We're done collecting doors. It's time to find out what we can [emphasis]make on the other side of one[/emphasis].
+
+[voice:GREEN DRAGON]
+[with quiet confidence] Course prepared, Captain. [emphasis]Departure awaits the crew's approval[/emphasis].
+
+[voice:NARRATOR]
+One by one, the crew approved the journey. No voice was copied. No empty place was filled. The USS Dragon turned toward a region none of them had visited, and the [emphasis]Lantern Shuttle's amber light came alive in the[/emphasis] hangar.
+
+Behind them lay the stories that [emphasis]had taught them how to travel together[/emphasis].
+
+[with wonder] Ahead lay a world that would require them [emphasis]to become more than they had been[/emphasis].
+
+END OF CHAPTER EIGHT.
