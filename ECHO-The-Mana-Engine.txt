@@ -1,0 +1,195 @@
+ECHO — THE MANA ENGINE
+An original four-voice radio play for Voice Studio
+
+VOICE ASSIGNMENTS
+NARRATOR — Warm, unhurried. Let the silence do some of the work.
+BRIAN — An inventor who talks to his machines when nobody is around.
+MARA — A practical friend with a dry sense of humor. Quick, clear delivery.
+ARCHIVE — The Ark's computer. Precise and level, even when it makes a joke.
+
+RECORDING
+Assign a distinct voice to each speaker. Use only the words after the
+speaker label as spoken text. Bracketed cues are optional production notes.
+If your editor reads labels aloud, paste each turn into its own voice block.
+
+SCENE 1 — THE DROP
+
+[Rain on the hull. One drop strikes glass.]
+
+NARRATOR: Deep inside the Ark, a single blue drop hung from the ceiling. Brian held a cup beneath it. The drop climbed away from him.
+
+BRIAN: Mara. Bring a ladder.
+
+MARA: Why?
+
+BRIAN: My experiment is leaving.
+
+ARCHIVE: The liquid is currently four inches above the cup.
+
+MARA: What's it supposed to do?
+
+BRIAN: Keep a lamp burning till morning. I was going to call it mana.
+
+ARCHIVE: You already labeled the cup.
+
+BRIAN: I was optimistic.
+
+MARA: The nursery lamp went out. The seedlings have started folding their leaves.
+
+BRIAN: How long have we got?
+
+MARA: Long enough to carry a lamp down there. If you can give me one.
+
+[The drop taps the ceiling.]
+
+ARCHIVE: Five inches above the cup.
+
+BRIAN: I liked you better when you only told me the time.
+
+SCENE 2 — THE VOICE IN THE BOX
+
+[A wooden drawer scrapes open.]
+
+NARRATOR: Brian pulled out a cedar box with a drawing folded beneath it. The drawing showed three empty squares and a space where someone had rubbed the pencil away.
+
+MARA: You built this from that?
+
+BRIAN: The last square's mine. I couldn't figure out what went in it.
+
+ARCHIVE: There is a recording on the underside of the drawing.
+
+MARA: How do you put a recording on paper?
+
+ARCHIVE: You write down what someone said.
+
+[A beat.]
+
+BRIAN: All right. Read it.
+
+ARCHIVE: “If the blue drop rises, stop asking it to come down. Give it somewhere to go.”
+
+MARA: You recognize that handwriting?
+
+BRIAN: It's mine.
+
+MARA: Then what did you mean?
+
+BRIAN: I wish I'd written that down too.
+
+[The box clicks once.]
+
+MARA: Say that again.
+
+BRIAN: I wish I'd written that down too.
+
+[Silence.]
+
+MARA: It clicked when you said “mine.”
+
+BRIAN: Mine.
+
+[Silence.]
+
+ARCHIVE: It clicked when Mara asked you a question.
+
+SCENE 3 — WHAT THE ROOM SOUNDS LIKE
+
+NARRATOR: Mara switched off the bench fan. With the motor quiet, they could hear the rain come down in patches, close and far away.
+
+MARA: Brian. Where does the light need to go?
+
+BRIAN: The nursery.
+
+[The box clicks. A low note begins, then fades.]
+
+ARCHIVE: The third square is glowing.
+
+MARA: Ask me something.
+
+BRIAN: When the light went out, what did you see?
+
+MARA: The smallest seedling was still pointing toward the lamp.
+
+[Two notes. The rain falls away for a moment.]
+
+NARRATOR: The blue drop stretched into a thread. It reached across the ceiling toward the open door. When Mara stepped into the hall, it followed her.
+
+BRIAN: Get the cup.
+
+MARA: Leave it. Let's see how far it goes.
+
+ARCHIVE: The corridor is thirty feet long. The drop is approximately the size of a pea.
+
+BRIAN: Are you coming?
+
+ARCHIVE: I am the corridor.
+
+SCENE 4 — THE NURSERY
+
+[Footsteps stop. Water drips into a shallow planting tray.]
+
+NARRATOR: The thread stalled at the nursery door. Inside, rows of folded leaves ticked softly against their paper tags.
+
+BRIAN: I thought it was following you.
+
+MARA: I thought it was following your voice.
+
+ARCHIVE: The signal has faded each time all three of us stop speaking.
+
+BRIAN: So we talk till sunrise?
+
+MARA: Ask the Ark a question.
+
+BRIAN: Archive, what can you hear in here?
+
+[A long beat.]
+
+ARCHIVE: A drip at the far end of the tray. Mara's left boot is wet. One leaf is rubbing against the glass.
+
+MARA: Where?
+
+ARCHIVE: Lowest shelf. Near your hand.
+
+NARRATOR: Mara held out her hand. Something brushed the tip of her finger. The blue thread slipped through the doorway and settled on the glass above it.
+
+[A low, steady note takes shape.]
+
+BRIAN: Is that enough light?
+
+MARA: Wait.
+
+[Three beats.]
+
+MARA: There. The little one's opening.
+
+BRIAN: I can see its shadow.
+
+SCENE 5 — THE NAME
+
+[Rain softens. One drop strikes glass.]
+
+NARRATOR: By morning, there were four green leaves where there had been two. Brian came back with the cup. He turned it over and set it under the corner of the tray that always tipped.
+
+MARA: What are you going to write in that last square?
+
+BRIAN: Your question. Where does the light need to go?
+
+ARCHIVE: Shall I record the experiment as a success?
+
+BRIAN: Put down that the nursery has light. We can figure out what we made after breakfast.
+
+MARA: You already named it.
+
+BRIAN: I named what I thought I could keep in a cup.
+
+[A quiet beat.]
+
+ARCHIVE: The lower stairwell is dark.
+
+MARA: How far down?
+
+ARCHIVE: Twenty-four floors.
+
+[The wooden box clicks.]
+
+END
