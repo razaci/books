@@ -1,0 +1,16 @@
+ARK BEYOND THE STARS — BOOK COLLECTION REBUILD
+
+GOAL
+Rebuild the Ark Beyond the Stars collection and reader from original manuscripts and assets, preserving book order, chapters, illustrations, and edition history.
+
+REPORTED PROJECT THEMES
+Ark-related speculative fiction; wooden structures, pegs and craft; ancient tabernacle parallels; dragons before the flood; giants and mountains; a 24-story pyramid complex; CAD-style schematics and layered architecture. Treat imaginative story elements as fictional/worldbuilding material, not established historical facts.
+
+REBUILD TASKS
+Inventory books and chapter files; verify titles and publication status; preserve source text; map illustrations to chapters; build a GitHub Pages-friendly reader with navigation and mobile usability; preserve distinct children's and adult sections when present.
+
+LINK REFERENCE
+https://razaci.github.io/thearkbeyondthestarscollection/
+
+UNCONFIRMED
+Current book count, canonical edition and final ordering must be checked against the actual collection. Earlier requests referenced 42 books, but do not assume that count is current.

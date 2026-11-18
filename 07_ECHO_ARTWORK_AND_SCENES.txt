@@ -1,0 +1,20 @@
+ECHO ARTWORK AND SCENE REBUILD
+
+GOAL
+Reconstruct art direction from approved references and prior scene lists. Do not describe generated images as exact reproductions unless source images are available.
+
+RECURRING STYLES AND SUBJECTS
+Dramatic fantasy creatures, luminous machinery, psychological and neurological symbolism, chemistry motifs, tabernacle-inspired architecture, epic card illustrations, black CAD-style drawings, space scenes and storyboard panels.
+
+REQUIRED SOURCE INVENTORY
+Approved character sheets; card-face template; backs; scene numbers; palette; typography; image dimensions; print specifications; naming conventions.
+
+WORKFLOW
+1. Separate concepts by book, deck or game.
+2. List confirmed recurring visual traits.
+3. Create a contact sheet for review.
+4. Approve art before bulk production.
+5. Export consistent filenames and dimensions.
+
+UNCERTAIN
+No single art style or card template should be assumed canonical for every ECHO project.

@@ -1,0 +1,15 @@
+ECHO HTML GAMES — RECONSTRUCTION PROMPT
+
+Build one game at a time using its original rules, art and interface requirements. Prefer single-file HTML deliverables compatible with GitHub Pages and desktop/mobile browsers when appropriate.
+
+RECURRING GAME IDEAS
+Five-friend puzzle adventures; a 21-floor elevator hub; interactive inventory and combinable objects; illustrated scenes; a self-playing AI-vs-AI game; tabletop-inspired battle views; the Living Tabernacle emotional machine; a solo campaign with creatures, relics, energy and gates.
+
+IMPLEMENTATION CHECKS
+Offline behavior; clear start button; accessible text and contrast; asset paths; save/export capability; responsive layout; keyboard and pointer controls; reset and replay; no broken external references.
+
+SEPARATE PROJECTS
+Do not merge ECHO games, POS Ark Promenade, collector game, and cryptocurrency experiments without explicit instruction.
+
+LINK REFERENCE
+https://razaci.github.io/pos/

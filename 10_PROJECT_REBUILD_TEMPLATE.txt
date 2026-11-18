@@ -1,0 +1,33 @@
+PROJECT REBUILD MASTER PROMPT
+
+PROJECT NAME: [exact name]
+PROJECT PURPOSE: [what it does]
+CURRENT STATUS: [Active / Completed / Tentative / Obsolete]
+
+VERIFIED SOURCE FILES
+[exact filenames, dates and URLs]
+
+ORIGINAL WORDING / REQUIREMENTS
+[paste verbatim; do not paraphrase here]
+
+KNOWN ASSETS
+[images, text, audio, code, cards, manuals]
+
+PROJECT BOUNDARIES
+[related projects and what must remain separate]
+
+REBUILD SEQUENCE
+1. Inventory and validate source files.
+2. Restore minimum functioning version.
+3. Reconnect approved assets.
+4. Test functionality and accessibility.
+5. Export and document the result.
+
+OPEN QUESTIONS / UNCERTAINTIES
+[items needing confirmation]
+
+VERSION HISTORY
+[version, date, changes, reason]
+
+ACCEPTANCE TESTS
+[what must work to call this rebuilt]

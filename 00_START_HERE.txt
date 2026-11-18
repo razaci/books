@@ -1,0 +1,11 @@
+ECHO PROMPT ARCHIVE — START HERE
+
+Place ECHO_Prompt_Archive.html and all the .txt files in this folder.
+
+ON YOUR COMPUTER: Open the HTML in Chrome, click Import folder, select this folder. Imported prompts are stored in this browser; export Backup JSON regularly.
+
+ON GITHUB PAGES: Upload the HTML, .txt files and prompts-manifest.json to the same repository folder. Open the published HTML URL and click Load adjacent manifest. This reads the files listed in the manifest; it does not discover new files automatically. Add new filenames to the manifest when you upload new text files.
+
+Imported files start as Tentative and Unassigned. Assign project and purpose after reviewing each one. Keep originals unchanged. These files are reconstruction starting points, not full transcripts of historical conversations.
+
+Important: Loading the same manifest repeatedly may create duplicate entries. Back up before bulk imports.

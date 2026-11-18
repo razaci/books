@@ -1,0 +1,20 @@
+ECHO CARD DECKS — REBUILD AND PRINT PREPARATION
+
+PURPOSE
+Rebuild individual ECHO decks and their print packages from approved source images, without substituting invented artwork or mixing editions.
+
+KNOWN DISTINCT WORKSTREAMS
+ECHO Crown of the Ember Ark 90-card oracle; ECHO Gates of the Hidden Seed 72-card game; Living Tabernacle emotional-machine concepts; creature-focused collector decks. The exact final composition of each must be verified from original exports.
+
+CHECKLIST
+Inventory cards and backs; validate unique identifiers; compare face layouts; ensure consistent bleed/safe areas; verify intended pixel dimensions and print vendor templates; inspect images at full resolution; export card fronts, common backs and game instructions separately; retain earlier editions.
+
+PREVIOUS PRINT DIMENSION REQUEST
+One Ivory/Copper 90-card JPG set was requested at exactly 900 x 1500 pixels. This requirement belongs to that set unless explicitly reused.
+
+PUBLISHED REFERENCE LINKS
+https://www.thegamecrafter.com/games/echo-crown-of-the-ember-ark-90-card-oracle
+https://www.thegamecrafter.com/games/echo-gates-of-the-hidden-seed-72-card-game
+
+UNCERTAINTIES
+Do not infer that all decks have the same back, dimensions, card counts or mechanics. Confirm exact final approved files.

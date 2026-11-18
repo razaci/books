@@ -1,0 +1,16 @@
+ECHO: THE LIVING TABERNACLE — CONCEPT REBUILD
+
+PROJECT TYPE
+Creative simulation, game design, symbolic model of mind and emotion.
+
+REPORTED DESIGN ELEMENTS
+Tabernacle as a metaphorical cognitive architecture; tents and occupants as traits or subhabits; a central chamber; twelve lights or perceptual layers; a 24-level complex; emotional cues as inputs; collective feedback loops; memory and decision systems; gates and pathways.
+
+DESIGN BRIEF
+Represent states, actions, emotional cues and consequences visibly. Let players explore the system and operate it. Keep rules teachable for beginners. Provide a separate glossary mapping symbols to game mechanics.
+
+IMPORTANT DISTINCTION
+This is a creative/symbolic model, not a clinically validated map of the hippocampus, brain chemistry, consciousness or physics. Label speculation and metaphor explicitly.
+
+DELIVERABLES
+Concept document, gameplay loop, rulebook, card definitions, board/mat plan, single-file HTML prototype, source asset inventory.

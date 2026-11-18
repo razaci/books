@@ -1,0 +1,15 @@
+ECHO ARCHIVE — MAINTENANCE AND RECOVERY
+
+After importing a batch, check the dashboard for duplicates. A duplicate can be intentional: do not delete earlier editions automatically.
+
+Use statuses consistently:
+Active = currently being worked on.
+Completed = this prompt's work was finished, not necessarily the whole project.
+Tentative = unverified or exploratory.
+Obsolete = superseded but retained for history.
+
+Make a Backup JSON export after important editing sessions. Keep timestamped copies in a separate safe location. Browser local storage is not a substitute for backups; clearing site data may erase it.
+
+On GitHub Pages, maintain prompts-manifest.json whenever a new .txt file is uploaded. The manifest only lists files; it does not store editor notes or revisions. Export JSON to preserve those.
+
+Avoid publishing personal-history prompts without reviewing them for sensitive information.

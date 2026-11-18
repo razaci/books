@@ -1,0 +1,23 @@
+ECHO UNIVERSE — MASTER RECONSTRUCTION BRIEF
+
+GOAL
+Reconstruct the ECHO creative universe from verified source materials, keeping different products and editions separate. Do not claim this brief is a complete historical transcript.
+
+CONFIRMED RECURRING CAST FROM PRIOR PROJECT WORK
+A girl who notices clues; an origami boy who fits narrow spaces; a silver cat revealing markings; Obsidian, a large cat who moves heavy objects; Ember, who lights machinery. A white cat with a crescent moon also appears in later planning; confirm its relationship to the five-character core before merging.
+
+RECURRING STORY ELEMENTS
+A seed, growing instructions, a glowing fruit, and a hidden room. Puzzle elements include valves, constellation windows, wooden mechanisms and the Quiet Loft sound path. Inventory inspection, combination and use are recurring mechanics.
+
+SEPARATE OUTPUTS
+Illustrated stories and manga; HTML readers; browser games; tabletop games; oracle decks; collector decks; collector book; battle mat; solo campaign; audio adaptations; video prompts; project showcase websites. Do not collapse these into one product.
+
+REBUILD ORDER
+1. Inventory actual manuscripts, card images, SVG/JPG exports, rulebooks, HTML and links.
+2. Record each edition, card count and dimensions exactly from its source files.
+3. Identify recurring characters and lore, while keeping alternate drafts.
+4. Rebuild one project at a time and test all assets.
+5. Log decisions, open questions, and source filenames.
+
+UNCERTAINTIES
+Card counts and editions vary by project; 90-card oracle and 72-card game are distinct. Confirm current approved art, final rules, and published listings from actual files before publishing.

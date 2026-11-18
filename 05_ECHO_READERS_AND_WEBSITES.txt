@@ -1,0 +1,17 @@
+ECHO READERS AND WEBSITES — REBUILD PROMPT
+
+Build a readable, desktop-friendly and mobile-friendly HTML reader or project hub, based on its actual source files. Preserve original prose and chapter boundaries.
+
+REQUESTED BEHAVIORS
+Book reader near top of page; easy return to book list; searchable titles; project links; optional hidden Easter egg; ability to load text files beside an HTML page through a manifest on GitHub Pages; export or download when feasible.
+
+TECHNICAL CONSTRAINTS
+GitHub Pages is static hosting. Browser JavaScript cannot silently enumerate adjacent server files. Use a manifest listing or explicit file/folder import. Keep source paths relative. Do not use local C: drive links in published pages.
+
+REFERENCE LINKS
+https://razaci.github.io/html/
+https://razaci.github.io/musicvideo/
+https://razaci.github.io/thearkbeyondthestarscollection/
+
+VERIFY
+Current website layout, live links, project titles and release status before changing an existing hub.

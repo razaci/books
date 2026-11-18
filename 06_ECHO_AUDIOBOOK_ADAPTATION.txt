@@ -1,0 +1,13 @@
+ECHO AUDIOBOOK / AUDIOSTUDIO PREPARATION
+
+GOAL
+Prepare existing approved manuscript text for spoken-word narration, preserving all original wording unless a separate adaptation is requested.
+
+RULES
+Keep complete chapters in order; provide clear chapter titles and clean chapter breaks; remove unrelated website links when requested; maintain character name consistency; distinguish narrator directions from spoken prose; do not fabricate missing chapters.
+
+OUTPUTS
+UTF-8 .txt for narration, optional DOCX manuscript, and separate performance notes when requested. Keep the clean narration script distinct from a production script with pacing or sound cues.
+
+QUALITY CHECK
+Compare chapter count and paragraph order to the source manuscript; test long passages for natural read-aloud flow; label missing chapters rather than filling them without authorization.
