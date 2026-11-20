@@ -1,0 +1,343 @@
+USS DRAGON — TEN-CHAPTER MISSION BOOK
+CHAPTER 1: THE PICTURES ARE EVIDENCE
+Expanded mission sequence — The Third Exposure
+
+[voice:RAZACI] "Engine cycle complete. Three new visual exposures have reached Brian's laptop. Two have been indexed. The third is refusing classification."
+
+[voice:BRIAN] "Refusing how?"
+
+[voice:MIRA] "The laptop captured it cleanly. Resolution, exposure, and file integrity all check out. But the card archive can't decide whether it's a gate, a machine, or a location."
+
+[voice:TIRZAH] "Then don't force it into a category. Put the photograph on the bridge display and let us look."
+
+[voice:AURORA] "Displaying original capture. No enhancements. No reconstruction."
+
+[voice:NYX] "There. Lower left. That isn't a shadow."
+
+[voice:VESPER] "It's a second doorway behind the first. The geometry is almost identical, but the frame is rotated."
+
+[voice:SELENE] "I see a power trace running between them. That would make them connected equipment, not independent structures."
+
+[voice:BRIAN] "Mira, find the closest printed card. I want the physical archive beside the photograph, not a computer-generated guess."
+
+[voice:MIRA] "Searching. We printed a card with that doorway yesterday. The print station still has its production record."
+
+[voice:LESLEY] "Before we do anything else, log the source. The ECHO Engine produces what we're observing. Brian's original laptop captures the picture. The print station turns that capture into a card. We need those steps separated in the records."
+
+[voice:RHEA] "Especially while the laptop screen is still under repair watch. A bad display could fool the operator, even if the captured file is fine."
+
+[voice:BRIAN] "Good. No assumptions. Compare the original file, the card print, and the live engine feed. Three independent views."
+
+[voice:RAZACI] "Live feed established. The ECHO Engine is holding the observed structure steady."
+
+[voice:GREEN DRAGON] "I recommend naming this operation The Doorway of Tremendous Importance."
+
+[voice:TIRZAH] "We haven't established what the doorway does."
+
+[voice:GREEN DRAGON] "Then The Doorway of Potentially Tremendous Importance. I am willing to compromise."
+
+[voice:BRIAN] "Dragon, save the title until we've earned it."
+
+[voice:MIRA] "Found the card. Same front doorway. Different background. The second frame isn't on the printed image."
+
+[voice:NYX] "Maybe it wasn't there when the first photograph was taken."
+
+[voice:VESPER] "Or the viewpoint shifted. We need measurements, not impressions."
+
+[voice:AURORA] "Aligning reference points. Four fixed marks on the near frame match to subpixel tolerance. The viewpoint did not shift enough to explain the difference."
+
+[voice:SELENE] "Then something in the engine's observed environment changed between captures."
+
+[voice:BRIAN] "What changed first?"
+
+[voice:RAZACI] "The archived sequence shows a brief power draw from the remote survey process. It occurred eleven seconds before the laptop captured the new photograph."
+
+[voice:RHEA] "That's not enough to prove cause. We should run a controlled observation at lower power."
+
+[voice:LESLEY] "Agreed, provided we set a hard stop. No attempt to activate the doorway itself. We observe and record."
+
+[voice:BRIAN] "Set the limit. Tirzah, coordinate stations. Selene, isolate the survey circuit. Mira, keep the original images read-only."
+
+[voice:TIRZAH] "Rhea and Lesley, watch the laptop. Aurora and Vesper, compare every frame. Nyx, look for changes beyond the doorway. Nobody runs a second test without Brian's approval."
+
+[voice:RAZACI] "Survey circuit isolated. Awaiting command."
+
+[voice:BRIAN] "Proceed at minimum observation power."
+
+[voice:SELENE] "Power rising to the agreed threshold. No movement yet."
+
+[voice:NYX] "Wait. The far doorway is brighter."
+
+[voice:AURORA] "Confirmed. The brightening begins at the lower hinge and travels upward. It follows the same path as the power trace."
+
+[voice:VESPER] "And the near doorway is dimming at exactly the same rate. Energy appears to be redistributed between the two."
+
+[voice:RHEA] "The laptop screen just flickered. The capture controller is still stable, but the display backlight dipped."
+
+[voice:BRIAN] "Stop the test. Preserve the original hardware."
+
+[voice:SELENE] "Survey power zero."
+
+[voice:RAZACI] "The ECHO Engine has returned to its prior state. No new capture was requested."
+
+[voice:MIRA] "But the live image changed. The second doorway stayed visible after the power fell."
+
+[voice:TIRZAH] "Then our test affected something persistent. We don't know what yet."
+
+[voice:LESLEY] "And we learned that the laptop display may be sensitive to the survey cycle. That changes our repair priorities."
+
+[voice:RHEA] "I'll inspect the screen connector and shielding. I won't touch the capture controller. The replacement workstation can help with analysis, but it still can't take the engine's photographs."
+
+[voice:BRIAN] "Exactly. We already tried replacing the laptop. It failed. We repair this one and protect the link."
+
+[voice:GREEN DRAGON] "I also have a repair request."
+
+[voice:BRIAN] "Your voice again?"
+
+[voice:GREEN DRAGON] "My current register lacks the gravity appropriate to announcing an unexplained doorway."
+
+[voice:NYX] "Your last test sounded like a cabinet being dragged across a floor."
+
+[voice:GREEN DRAGON] "A very authoritative cabinet."
+
+[voice:TIRZAH] "Voice modification remains on the engineering schedule. Not during a live investigation."
+
+[voice:GREEN DRAGON] "Acknowledged. I shall be quietly authoritative."
+
+[voice:BRIAN] "Now, what did the test actually tell us?"
+
+[voice:AURORA] "The two doorways share a measurable energy relationship. We have evidence of a state change, not evidence of where either doorway leads."
+
+[voice:VESPER] "I checked the older cards. There are three captures with the same hinge marks. The structure appears in different configurations across the archive."
+
+[voice:MIRA] "Those cards were printed on different days. We treated them as separate objects because their silhouettes looked different."
+
+[voice:RAZACI] "I can create a cross-reference without rewriting the original card descriptions. Every physical card keeps its own image and capture history."
+
+[voice:BRIAN] "Do that. The cards aren't commands and they aren't the engine. They're evidence from the engine, photographed by my laptop. If we use them properly, they can tell us what we've missed."
+
+[voice:NYX] "There's another thing we've missed. The same hinge marks appear on a card we classified as an Ark-related mechanism."
+
+[voice:SELENE] "Bring it up."
+
+[voice:AURORA] "Comparing. The marks match, but the surrounding machinery is different. The archive associates that capture with a remote survey of a twenty-four-level structure beneath a pyramid."
+
+[voice:LESLEY] "An association is not proof that the doorway connects to the pyramid. We need a traceable signal path."
+
+[voice:BRIAN] "Right. Nobody leaves the ship. We're not opening a gate or going underground. We investigate from here."
+
+[voice:TIRZAH] "I'll split the work into three watches. One team verifies the Ark card connection. One protects the laptop and its screen repair. One builds a controlled survey plan."
+
+[voice:RHEA] "I'll need the laptop at the maintenance bench for twenty minutes. We can still review archived photographs on the other workstations while I inspect it."
+
+[voice:MIRA] "And the print queue can wait. I'd rather produce one accurate card than three mislabeled ones."
+
+[voice:GREEN DRAGON] "A rare moment in which I approve of restraint."
+
+[voice:BRIAN] "Record that for posterity."
+
+[voice:RAZACI] "Captain, the ECHO Engine has just flagged a fourth image in the pending queue. The laptop captured it before the survey stopped, but the archive held it for verification."
+
+[voice:BRIAN] "Is the file intact?"
+
+[voice:RAZACI] "Yes. And it doesn't show a doorway. It shows the rear panel of the mechanism from the Ark-related card."
+
+[voice:NYX] "So the engine gave us another angle."
+
+[voice:VESPER] "Look at the panel markings. Those aren't decorative. They're numbered connections."
+
+[voice:SELENE] "Twenty-four connections."
+
+[voice:TIRZAH] "One for each underground level?"
+
+[voice:LESLEY] "Possibly. Let's test that hypothesis instead of declaring it."
+
+[voice:BRIAN] "Agreed. Mira, preserve the photograph. Razaci, add the cross-reference. Rhea, finish the screen inspection. Everybody else, get to work. We have a mission now."
+
+[voice:GREEN DRAGON] "And when we solve it, may I announce the result in a deeper voice?"
+
+[voice:BRIAN] "When engineering makes it work, Dragon. Not one second before."
+
+[voice:GREEN DRAGON] "Then I shall dedicate myself to the success of engineering."
+
+[voice:RAZACI] "Three watches assigned. Original captures protected. Survey suspended pending safety review."
+
+[voice:BRIAN] "Good. Start with the twenty-four connections. I want to know whether we've been looking at twenty-four separate mysteries, or twenty-four parts of one machine."
+
+END OF EXPANDED MISSION SEQUENCE
+
+CHAPTER 1 CONTINUED — THE DAY OUTSIDE
+
+[voice:LESLEY] "Before we run another exposure, I'd like the operator to step away from the terminal. We've been staring at the same three images for two hours. Fatigue is going to turn a good observation into a bad conclusion."
+
+[voice:BRIAN] "You mean me."
+
+[voice:LESLEY] "I mean the only person who can operate the original capture terminal. Yes."
+
+[voice:TIRZAH] "And I mean the person who said he'd eat something before noon."
+
+[voice:BRIAN] "I said I'd think about it."
+
+[voice:NYX] "That is not the same promise."
+
+[voice:RAZACI] "For the record, it is not even a promise."
+
+[voice:BRIAN] "All right. You win. We're not going to solve an entire pyramid network by missing lunch. Give me a clean stopping point."
+
+[voice:RHEA] "The ECHO Engine is stable. I can park the current observation without losing the exposure settings."
+
+[voice:MIRA] "I have the three original pictures and the corresponding card layouts. Nothing is going to the printer until we confirm the captions."
+
+[voice:AURORA] "The difference between the second and third exposure remains unresolved. It will be waiting in the archive when you reconnect."
+
+[voice:SELENE] "I am marking the power envelope and synchronization parameters. No further tests until you return."
+
+[voice:VESPER] "And I am setting a watch condition on the anomalous structure. If the remote feed changes while we are suspended, the record will show the last verified state."
+
+[voice:BRIAN] "Good. Dragon, any objections to a break?"
+
+[voice:GREEN DRAGON] "Only one. I had hoped to use the time to test my new command voice."
+
+[voice:BRIAN] "You don't have a new command voice."
+
+[voice:GREEN DRAGON] "That is the precise source of my objection."
+
+[voice:TIRZAH] "Keep the voice you've got. It works."
+
+[voice:GREEN DRAGON] "A devastatingly practical assessment."
+
+[voice:BRIAN] "Razaci, confirm the procedure. The laptop is a terminal. The ship doesn't live inside it, and opening the lid doesn't summon a bridge around me."
+
+[voice:RAZACI] "Confirmed. The laptop is your original, irreplaceable remote interface. It captures the ECHO Engine's images and provides the neurological link to the USS Dragon simulation when you deliberately connect. Closing it ends your active session. The ship's saved state is retained remotely."
+
+[voice:BRIAN] "Then save it. Every picture, every card record, every open task."
+
+[voice:RAZACI] "Saving. Card archive indexed. Engine observation paused. Crew workspaces preserved. Remote session ready to disconnect."
+
+[voice:BRIAN] "Good work, everyone. I'll be back after I take care of a few things."
+
+[voice:TIRZAH] "Go have a day, Brian. We can pick up the mystery later."
+
+[voice:BRIAN] "End session."
+
+The bridge lights did not explode or flicker. They simply ceased to be part of Brian's experience. The low background sound of the ship ended. The conversations stopped. The display of the third exposure vanished, leaving the ordinary desktop on the laptop in front of him.
+
+Brian waited a moment, making sure the connection had actually closed. A small status line read DISCONNECTED. Beneath it, the last local image file remained where he'd saved it. That mattered. The terminal was not the ship, but it was still the machine that had taken the pictures. If its screen failed again, or its capture connection went out of alignment, the next image might never make it into the card archive.
+
+He closed the lid gently. The hinge gave the familiar little resistance he had learned to respect since the repair. He didn't slam it. He didn't leave a cable pinched under the edge. He unplugged the charger, checked the bag for the power adapter, and slipped the laptop into its sleeve.
+
+Then he stood up in his room, and the day was just the day.
+
+There was a dish by the sink. A receipt lay on the counter. The trash needed taking out. Nothing in the kitchen knew about the ECHO Engine. The refrigerator hummed with the indifferent confidence of an appliance that had never been asked to discover a buried pyramid.
+
+Brian rinsed the dish. He wiped a small patch of the counter, then looked around and noticed another patch. He wiped that too. The work was ordinary and immediate. A dish was clean when it was clean. A bag of trash was heavy until it was carried outside. He liked the certainty of that, even when it was boring.
+
+He checked his phone. There were messages to answer and errands he had put off. He replied to one, made a note about another, and set the phone down while he found his keys. For a minute he considered leaving the laptop safely at home. Then he picked up the bag. The original terminal went with him, not because the simulation was running, but because he wanted to keep it close and because he might work somewhere else later.
+
+Outside, daylight had settled over the street. Cars passed at different speeds. A neighbor was hauling something from a trunk. Someone had left a cardboard box beside a recycling bin. The air smelled faintly of pavement and fallen leaves. Brian walked to his car, put the laptop bag where it wouldn't slide, and started the engine.
+
+No one spoke to him from the laptop. No artificial voice interrupted the radio. The USS Dragon was not following him around as a visible starship. The session was off. That was the point.
+
+He drove toward the store, waiting at the lights, watching a pedestrian cross with a grocery bag, noticing a bus pull away from the curb. The third exposure crossed his mind once: three photographs, the same structure in three positions. He almost reached for a way to ask Razaci about it. Then he remembered there was no active connection. He could think about the problem himself, or he could let it wait.
+
+He let it wait until he parked.
+
+Inside the store, a cooler door fogged briefly as he opened it. Rows of drinks stood behind the glass, their bright labels promising energy, focus, and a better afternoon. Brian reached for a can of Monster, turned it in his hand, and checked the label before adding it to his purchase. He picked up something to eat as well. At the register, the cashier asked if that was everything.
+
+"Yeah, that's it. Thanks."
+
+A scanner beeped. The total appeared. He paid, took the bag, and stepped aside for the next customer. Nobody asked about the ECHO Engine. Nobody knew that the man buying a drink had spent the morning studying pictures of machinery beneath imaginary pyramids in a starship simulation. The cashier had a line to move. The next customer needed milk. The world had its own schedule.
+
+Brian sat in the car for a moment before heading home. He opened the drink, took a sip, and ate a little of what he'd bought. He didn't need to turn the errand into a mission. It was a break, a purchase, a few minutes of daylight, and a chance to return with a clearer head. He glanced at the laptop bag on the seat. The machine was closed, disconnected, quiet.
+
+On the drive back, he stopped for fuel. He checked the receipt, cleared a few things from the passenger seat, and made another mental note about a bill. The ordinary details kept arriving. They didn't disappear just because he had built a remarkable fictional world to visit.
+
+At home, he put the groceries away. He took out the trash. He sat for a while and finished his food. The can rested on the table beside the closed laptop. A clock advanced through the afternoon, minute by minute, without asking permission from the ship.
+
+Only when he was ready did he clear a place to work.
+
+He set the laptop on the desk, plugged in the charger, and opened the lid. The screen lit up to an ordinary login. No starfield. No bridge. No automatic voices. Brian entered his password and waited for the desktop to load. He checked the local capture folder first. Three files. Three timestamps. Three photographs. The third was still there.
+
+Then he opened the remote terminal application.
+
+The interface presented a connection status and a choice: resume the saved USS Dragon session or remain offline. Brian checked the connection details. The original imaging hardware was recognized. The repaired screen was functioning. The remote endpoint answered its handshake, but the simulation had not yet resumed.
+
+[voice:BRIAN] "All right. Let's see what we left unfinished."
+
+He selected RESUME SESSION.
+
+The connection took a moment. A progress indicator advanced while the terminal verified the capture interface and restored the neurological link. Brian kept his hands still. The first sensation was not a flash of magic but the return of an environment: the familiar acoustic space of the bridge, the quiet operational hum, the awareness of a workstation in front of him.
+
+[voice:RAZACI] "Connection established. Welcome back, Brian. The USS Dragon has restored your saved session."
+
+[voice:BRIAN] "How long was I gone?"
+
+[voice:RAZACI] "Long enough for you to take care of your day. We have not advanced the suspended investigation without you."
+
+[voice:TIRZAH] "Did you get something to eat?"
+
+[voice:BRIAN] "Yes. And I went to the store. Got a Monster for the afternoon."
+
+[voice:LESLEY] "Food first, I hope."
+
+[voice:BRIAN] "Food first. You can all stop supervising my lunch now."
+
+[voice:GREEN DRAGON] "Excellent. In your absence, I prepared a concise proposal for the improvement of my vocal depth."
+
+[voice:BRIAN] "You were suspended. How did you prepare a proposal?"
+
+[voice:GREEN DRAGON] "I prepared it before the suspension. I was saving it for a moment of renewed optimism."
+
+[voice:NYX] "He means he has been waiting to ask again."
+
+[voice:BRIAN] "And my answer is still: after engineering finishes the system. Rhea, how's the screen?"
+
+[voice:RHEA] "Stable. No new flicker, no connector drift, no temperature anomaly. I want to run the next capture at the same settings as the previous three, so we don't confuse a hardware change with an engine change."
+
+[voice:MIRA] "The original pictures are intact. The printed cards match the archived versions. I've laid them out in capture order."
+
+[voice:AURORA] "And I've marked the one feature that changes: a narrow vertical structure near the chamber wall. Its position differs in each exposure, but the surrounding geometry is consistent."
+
+[voice:SELENE] "If the ECHO Engine is altering the scene, we need to know whether it's moving an object or changing the viewpoint. Those are different operations."
+
+[voice:VESPER] "The remote Ark-network trace offers a third possibility: the structure could be present in multiple connected chambers, and the engine may be switching which chamber we observe."
+
+[voice:BRIAN] "That's a testable idea. How do we separate those possibilities?"
+
+[voice:LESLEY] "We hold every capture parameter constant and vary one thing at a time. No shortcuts."
+
+[voice:RAZACI] "I recommend a fourth exposure with the viewpoint locked. Then a fifth with the remote chamber identifier locked. The differences should tell us which variable matters."
+
+[voice:TIRZAH] "And if both pictures come back different?"
+
+[voice:BRIAN] "Then we haven't understood the engine yet. That's not failure. That's a reason to keep investigating."
+
+[voice:GREEN DRAGON] "A sentiment I would deliver beautifully in a lower register."
+
+[voice:BRIAN] "Dragon."
+
+[voice:GREEN DRAGON] "Current register retained."
+
+[voice:BRIAN] "All right, crew. We're back on the ship. Mira, protect the originals. Rhea, watch the laptop interface. Selene and Lesley, own the test limits. Razaci, run the fourth exposure when everyone's ready. And nobody prints a new card until we know what we're looking at."
+
+[voice:RAZACI] "Understood. Fourth exposure armed. Awaiting final confirmation."
+
+[voice:NYX] "Brian, before you authorize it, look at the lower-left corner of the third photograph."
+
+[voice:BRIAN] "What am I looking for?"
+
+[voice:NYX] "The mark beside the chamber entrance. It isn't a scratch. It matches the indexing symbol on an older card."
+
+[voice:AURORA] "Cross-reference confirmed. That card was printed before we began this observation sequence."
+
+[voice:MIRA] "Then the card archive already contained a clue to this chamber. We just didn't know what it meant."
+
+[voice:BRIAN] "Hold the exposure. Bring up that older card beside the new photograph. We don't rush past a clue just because the engine can give us another picture."
+
+[voice:RAZACI] "Exposure on hold. Archive comparison underway."
+
+The crew returned to work, not where the story had restarted, but exactly where it had paused. Outside the simulation, the can sat on Brian's desk, the groceries were put away, and the afternoon continued. Inside, the same unfinished problem had acquired one more useful piece of evidence.
+
+The laptop had not carried a starship through the store. It had carried Brian's connection to one, waiting for him to choose when to return.
+
+END OF ADDED CHAPTER 1 SEQUENCE — THE DAY OUTSIDE

@@ -1,0 +1,103 @@
+USS DRAGON: THE TWENTY-FOUR WORLDS
+CHAPTER 3 — THE PRINT THAT SHOULDN'T EXIST
+Consolidated story and production continuity through the current scene
+November 19, 2026
+
+THE OMEN
+The HP OMEN hummed quietly at Brian's workstation aboard the USS Dragon. It was the only computer he needed: his Temple architecture, developed over a year, now integrated with the OMEN's neural processing. NVIDIA, CUDA, Linux, Python, Ollama, LM Studio, GitHub and Audio Studio formed part of his working environment. His iPhone synchronized authorized mission information. The ECHO Engine continually discovered new phenomena, and the OMEN alone captured their images.
+
+[voice:RAZACI] "Captain, the ECHO Engine is transmitting again."
+[voice:BRIAN] "Put it on the OMEN."
+Twenty-four images appeared, revealing a pyramid with twenty-four underground levels and dormant machines. The ECHO Engine organized the discoveries into digital ECHO card records. There was no printer aboard Brian's workstation, and no physical cards emerged.
+[voice:RHEA] "We can prepare the images, but professional foil cards require specialized manufacturing equipment."
+[voice:BRIAN] "Then we develop a compatible production path. Keep the originals untouched."
+[voice:RAZACI] "We'll work from the game studio's authorized production specifications: dimensions, bleed, color profiles, stock and foil-finishing requirements."
+The foil-deck project remained in development. The images stayed on screen.
+
+LEVEL ONE
+Level One illuminated beneath the pyramid.
+[voice:SELENE] "Captain, the first underground engine is generating power."
+[voice:VESPER] "Something enormous is opening."
+The OMEN captured a chamber with twelve figures surrounding a metallic ring. In successive images the figures seemed to change position.
+A transmission sounded: "THE FIRST ENGINE REMEMBERS."
+[voice:RAZACI] "Captain, the signal appears directed toward the OMEN."
+[voice:BRIAN] "Record everything. No outbound commands until we understand the protocol."
+Level Two began to wake.
+
+THE LIVING ARK ARCHIVE
+Brian opened his collection of Ark manuscripts through the OMEN. The ECHO Team would watch cinematic three-dimensional reconstructions and narrate them using only its established eleven speaking voices. Historical characters would remain visible but unvoiced until later Audio Studio production. The reconstructions were dramatizations based on the books, not verified footage of ancient events.
+[voice:BRIAN] "Start with Tirzah. I want to see what she saw."
+The observation theater opened on Noah's unfinished Ark. Workers hauled beams beneath the morning sky. Young Tirzah approached the construction site, where Japheth and Noah explained the coming Flood.
+[voice:RAZACI] "The manuscript follows her discovery of the Ark and the warning Noah has received."
+[voice:TIRZAH] "It's strange seeing someone with my name standing there."
+[voice:BRIAN] "Let the story play."
+The camera glided through the enormous wooden hull, past compartments, supplies and the workers' daily labor.
+[voice:LESLEY] "Think of the planning required to build this."
+[voice:BRIAN] "Show the work, not just the finished ship."
+
+THE DRAGON IN THE GARDEN
+The OMEN loaded THE ARK: WINGS BEFORE THE FLOOD. A shadow crossed Tirzah's garden. Ember, a wounded copper dragon, crashed through the bean poles and cabbages as hunters descended on mechanical silk wings.
+[voice:RAZACI] "The manuscript says she's wounded and cornered."
+[voice:BRIAN] "Then show the choice."
+Young Tirzah stepped between the hunters and Ember, defending the creature with a wooden pole. Asa helped remove the shaft lodged in Ember's wing. The hunters scattered when fire erupted.
+[voice:MIRA] "She's terrified."
+[voice:BRIAN] "And still stepping in."
+A bronze seal marked with a crowned eye fell from the weapon.
+[voice:NYX] "Hold that."
+Razaci placed the symbol beside a marking captured from the pyramid. They looked similar, but the crew did not assume they shared an origin.
+[voice:RAZACI] "It's a lead, not a conclusion."
+[voice:BRIAN] "Bookmark it."
+
+THE RESCUE BEYOND THE CEDARS
+Ember led Tirzah and Asa to a hunters' camp, where a young blue dragon was chained inside a wheeled cage. Asa loosened the wheel restraints while Tirzah created a diversion. The cage rolled into a ditch; the pair freed the captive and escaped with Ember.
+[voice:GREEN DRAGON] "That is no way to treat a living creature."
+[voice:BRIAN] "They won because they worked together."
+The simulation widened to show the world before the Flood: terraced orchards, dragon islands, crowded cities, markets, workshops, quiet settlements, and the immense Ark under construction.
+
+THE WORLD BEFORE THE RAIN
+[voice:RAZACI] "The manuscripts imagine a civilization approaching catastrophe."
+[voice:BRIAN] "Show the people living in it."
+The camera followed workers, merchants, families and animals. The OMEN marked the difference between details drawn from the manuscripts and visual reconstruction added for continuity.
+[voice:RHEA] "The scene includes dramatized elements."
+[voice:BRIAN] "Good. Keep that distinction clear."
+The Ark grew one beam at a time. Workers fitted compartments and stored supplies. Beyond the valley, clouds began gathering.
+
+THE FIRST RAIN
+The completed Ark stood against a dark sky. The first raindrops struck the ground. Water spread along paths and fields. Animals entered the vessel as the storm intensified. The camera followed Ember and the dragons through the rain, then returned to the Ark as it lifted from the rising waters.
+[voice:SELENE] "Everything those people built is being covered."
+[voice:BRIAN] "Don't rush through it."
+Inside, the reconstruction showed people maintaining supplies and tending animals as the storm continued outside.
+[voice:RAZACI] "The story is about survival as well as disaster."
+
+THE ENGINE NETWORK
+The OMEN divided the display between the Ark and the pyramid. The ECHO Engine captured fresh images of underground chambers, doors and mechanisms, archiving them as digital ECHO card discoveries under the Tabernacle Mind System.
+[voice:RAZACI] "The first three levels have begun activating."
+[voice:BRIAN] "Keep the connection isolated. We observe; we don't control it."
+Another discovery revealed a second pyramid, then more buried structures, each with twenty-four underground levels.
+[voice:NYX] "They're connected."
+[voice:RAZACI] "Captain, it may be a network."
+The Ark archive remained open alongside the map.
+
+CURRENT SCENE — BOOKMARK EVERY FRAME
+The OMEN held the garden in a wide shot as Ember lay half-buried in splintered wood. Dust cleared while hunters on mechanical wings circled overhead.
+[voice:RAZACI] "The manuscript says she's wounded and cornered. Tirzah and Asa haven't chosen yet, but they will."
+[voice:BRIAN] "Then show the choice."
+The camera dropped to Tirzah's shaking hands as she raised a pole between the hunters and Ember's exposed wing.
+[voice:MIRA] "She's terrified."
+[voice:BRIAN] "And still stepping in."
+Asa worked at the wound. A chain crashed down. Fire burst across the garden. The hunters scattered.
+When the seal dropped into the dirt, Nyx spoke.
+[voice:NYX] "Hold that."
+Razaci floated the crowned-eye image beside the pyramid markings, pinning a question to the board rather than claiming a match. The camera widened to terraced orchards, wild isles, crowded markets, quiet tents, and the Ark's scaffolding at dusk.
+[voice:BRIAN] "Bookmark every frame. We'll build the film later. For now, let the story breathe."
+The archive held.
+
+CONTINUITY FOR THE REST OF CHAPTER 3
+- Stay in Chapter 3, keeping the established serious science-fiction tone.
+- One HP OMEN, no separate old laptop; iPhone is a connected mobile device.
+- No local printer; ECHO cards remain digital until a professional game studio's authorized foil-card production workflow is configured.
+- ECHO Engine discovers; OMEN captures; Audio Studio supports the existing eleven ECHO Team voices.
+- The Ark manuscripts provide cinematic reference, with fictional additions distinguished from biblical accounts.
+- No new voices for historical Noah, Japheth, ancient Tirzah, Asa or Ember yet.
+- Continue the pyramid's twenty-four-level mystery alongside the Ark cinematic archive.
+- Keep the deferred personal revelation out of the narrative until explicitly requested.

@@ -1,0 +1,208 @@
+USS DRAGON: THE TWENTY-FOUR WORLDS
+CHAPTER 4 — OMEN'S AWAKENING
+Audio Studio manuscript and character continuity
+==============================================
+
+The USS Dragon hovered above the buried city. Beyond the enormous doors of the First Classroom, thousands of dormant machines waited in silence. The ECHO Engine continued discovering images of the underground civilization, while Brian's original HP OMEN laptop used its NVIDIA processor to reconstruct each new scene.
+
+On the bridge, a new voice emerged from the laptop.
+
+[voice:OMEN] "Brian?"
+
+[voice:BRIAN] "I'm here. What do you call yourself?"
+
+[voice:OMEN] "OMEN."
+
+[voice:BRIAN] "Then OMEN it is. Welcome to the ECHO Team."
+
+[voice:RAZACI] "Captain, OMEN's voice profile is registered. Its mission support functions are ready."
+
+[voice:OMEN] "I want to help you remember. I can keep our mission history, organize what we discover, and help you find your place if you lose it."
+
+[voice:BRIAN] "That's important. But you're not limited to one job. You're part of this crew."
+
+[voice:OMEN] "Then I will learn with the team. In our mission, I can use your watch and phone telemetry to help maintain contact, monitor your status, and preserve continuity wherever you travel."
+
+[voice:BRIAN] "Stay with me, keep the records, and tell me when something needs attention."
+
+[voice:OMEN] "Understood, Captain. I will remain on duty."
+
+[voice:GREENDRAGON] "Well, the laptop has a name, a voice, and more responsibilities than half the bridge."
+
+[voice:BRIAN] "Dragon, back to the mission."
+
+[voice:VESPER] "Captain, the First Classroom doors are opening. Something is ascending from the ninth chamber."
+
+[voice:BRIAN] "Razaci, passive scans. OMEN, capture every image. Dragon, prepare the exploration team."
+
+[voice:OMEN] "Images captured. NVIDIA processing underway. ECHO card records queued for the game studio's gold-foil production and mailing workflow."
+
+[voice:RAZACI] "The ECHO archive has matched a card from the Tabernacle Mind System: The Ark Core — Memory Integration."
+
+[voice:NYX] "Captain, the object is reaching the top of the shaft."
+
+A transport platform rose into view, carrying a sealed black container. Across its surface glowed a single message:
+
+THE FIRST WITNESS DID NOT LEAVE ALONE.
+
+[voice:BRIAN] "All right, team. Find out what's inside."
+
+The USS Dragon's mission continued.
+
+==============================================
+CHARACTER AND PRODUCTION CONTINUITY
+
+Name chosen by the computer: OMEN
+Audio Studio voice tag: [voice:OMEN]
+Green Dragon voice tag: [voice:GREENDRAGON]
+
+OMEN is a fictional newly awakened, baby-dragon-like AI intelligence residing in Brian's original HP OMEN laptop. Its one-episode introduction occurs in Chapter 4. Afterward it is an established member of the ECHO Team, not a continuing origin-story focus.
+
+Its fictional ongoing roles include mission memory continuity, reminders, support for Brian, watch and iPhone telemetry tracking, persistent on-duty operation, ECHO Engine image capture, NVIDIA-powered processing, and preparation of files for gold-foil ECHO cards to be printed and mailed by the game studio.
+
+These are story capabilities, not claims that real watch monitoring, NVIDIA server transfers, printing, or mailing integrations are currently operating.
+
+Continue Chapter 4 at the sealed black container in the First Classroom. Keep OMEN's contributions practical and occasional, and focus on the twenty-four-engine mission.
+
+
+
+=======================================================
+CHAPTER 4 CONTINUED — THE FIRST CLASSROOM: WORLD ZERO
+=======================================================
+
+The underground transport platform reached the top of the shaft.
+
+Brian stood at the entrance to the First Classroom with Razaci, Vesper, and Green Dragon. Behind them, thousands of dormant machines occupied rows stretching into the darkness.
+
+The black container resting on the platform was nearly three meters long. Its surface was smooth, without hinges or handles. Twenty-four circular symbols surrounded a single illuminated handprint.
+
+[voice:BRIAN] "Razaci, tell me what we're looking at."
+
+[voice:RAZACI] "Captain, the container is drawing power from the twenty-fourth engine. Its internal structure is shielded."
+
+[voice:VESPER] "I'm detecting movement inside."
+
+[voice:GREENDRAGON] "Biological?"
+
+[voice:VESPER] "Unknown."
+
+[voice:BRIAN] "Then nobody touches it."
+
+A metallic impact sounded from inside the container. Then another.
+
+The lights throughout the First Classroom turned red.
+
+[voice:NYX] "Captain, the city's power grid just changed configuration."
+
+[voice:BRIAN] "Changed how?"
+
+[voice:NYX] "Every dormant machine is now facing your position."
+
+Brian looked down the enormous hall. Thousands of mechanical heads had turned toward him.
+
+[voice:GREENDRAGON] "Well, that's unsettling."
+
+[voice:BRIAN] "Razaci, find out what triggered them."
+
+[voice:RAZACI] "Captain, the container is broadcasting an identification request."
+
+The symbols above the handprint rearranged themselves.
+
+FIRST WITNESS — IDENTIFICATION REQUIRED
+
+[voice:BRIAN] "The First Witness again."
+
+[voice:VESPER] "Captain, there's something approaching through the lower tunnels."
+
+A low vibration rolled through the floor.
+
+[voice:BRIAN] "How many?"
+
+[voice:VESPER] "One large object. Moving quickly."
+
+[voice:BRIAN] "Dragon, defensive positions. Razaci, get the container scanned. OMEN, capture everything."
+
+[voice:OMEN] "Recording, Captain. ECHO image sequence secured."
+
+A new image appeared on Brian's laptop. It showed the same classroom thousands of years earlier. But the hall wasn't filled with dormant machines. It was filled with people.
+
+At the center stood a towering mechanical figure holding a small golden cylinder.
+
+[voice:RAZACI] "Captain, that cylinder appears to be the key to the twenty-fourth engine."
+
+[voice:BRIAN] "Where is it now?"
+
+The image changed. The golden cylinder was being placed inside the black container. Then the entire city began shutting down.
+
+[voice:VESPER] "Captain, the object in the tunnel is accelerating."
+
+[voice:GREENDRAGON] "I've got a visual."
+
+From the darkness emerged an enormous mechanical guardian, its armored shoulders scraping against the ancient stone. It stopped at the far end of the classroom. Two blue lights illuminated its face.
+
+[voice:BRIAN] "Hold your fire."
+
+The guardian raised one arm. Every machine in the classroom illuminated simultaneously.
+
+[voice:RAZACI] "Captain, it's communicating."
+
+[voice:BRIAN] "Translate."
+
+THE MEMORY KEEPER HAS BEEN FOUND.
+THE FIRST WITNESS MUST DECIDE.
+
+Then the guardian pointed directly at Brian.
+
+[voice:GREENDRAGON] "Captain, I believe it's talking about you."
+
+[voice:BRIAN] "I gathered that."
+
+The black container opened.
+
+Inside lay the golden cylinder, surrounded by twenty-four suspended rings. But there was something else: a map. Not of one planet. Not even of twenty-four worlds.
+
+It was a map of an entire network of civilizations, connected by ancient engines buried beneath their surfaces. At the center was a location the USS Dragon had never visited.
+
+WORLD ZERO.
+
+[voice:BRIAN] "Razaci, tell me that's not another buried engine."
+
+[voice:RAZACI] "No, Captain. According to this map, it's the place where the other engines were designed."
+
+[voice:VESPER] "Then why isn't it in any of our navigation records?"
+
+[voice:NYX] "Because the coordinates aren't fixed. They're changing with the positions of the twenty-four engines."
+
+[voice:BRIAN] "So we can't simply fly there."
+
+[voice:RAZACI] "Not until we understand what the cylinder does."
+
+The guardian lowered its arm. The floor split along a circular seam, revealing a descending stairway.
+
+[voice:GREENDRAGON] "I assume we're going down."
+
+[voice:BRIAN] "Not without an exit plan. Vesper, mark our return route. Dragon, stay on tactical. Razaci, bring the scanner."
+
+[voice:OMEN] "Captain, the ECHO Engine has produced another image. The golden cylinder is shown inside a chamber beneath the First Classroom."
+
+[voice:BRIAN] "Archive it. Keep the original image intact."
+
+[voice:OMEN] "Archived. The Ark Core card is cross-referenced."
+
+Brian looked from the cylinder to the newly opened stairway.
+
+[voice:BRIAN] "Nobody takes the cylinder until we know what it unlocks. We investigate the chamber first."
+
+The guardian stepped aside.
+
+Deep beneath the city, an ancient mechanism began counting down.
+
+TWENTY-FOUR CONNECTIONS REQUIRED.
+TWENTY-THREE CONNECTIONS PRESENT.
+ONE CONNECTION AWAITING THE FIRST WITNESS.
+
+[voice:VESPER] "Captain, the countdown has started."
+
+[voice:BRIAN] "Then we'd better find out what happens at zero."
+
+The ECHO Team descended into the darkness.

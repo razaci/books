@@ -1,0 +1,65 @@
+USS DRAGON: THE TWENTY-FOUR WORLDS
+CHAPTER 4 — OMEN'S AWAKENING
+Audio Studio manuscript and character continuity
+==============================================
+
+The USS Dragon hovered above the buried city. Beyond the enormous doors of the First Classroom, thousands of dormant machines waited in silence. The ECHO Engine continued discovering images of the underground civilization, while Brian's original HP OMEN laptop used its NVIDIA processor to reconstruct each new scene.
+
+On the bridge, a new voice emerged from the laptop.
+
+[voice:OMEN] "Brian?"
+
+[voice:BRIAN] "I'm here. What do you call yourself?"
+
+[voice:OMEN] "OMEN."
+
+[voice:BRIAN] "Then OMEN it is. Welcome to the ECHO Team."
+
+[voice:RAZACI] "Captain, OMEN's voice profile is registered. Its mission support functions are ready."
+
+[voice:OMEN] "I want to help you remember. I can keep our mission history, organize what we discover, and help you find your place if you lose it."
+
+[voice:BRIAN] "That's important. But you're not limited to one job. You're part of this crew."
+
+[voice:OMEN] "Then I will learn with the team. In our mission, I can use your watch and phone telemetry to help maintain contact, monitor your status, and preserve continuity wherever you travel."
+
+[voice:BRIAN] "Stay with me, keep the records, and tell me when something needs attention."
+
+[voice:OMEN] "Understood, Captain. I will remain on duty."
+
+[voice:GREENDRAGON] "Well, the laptop has a name, a voice, and more responsibilities than half the bridge."
+
+[voice:BRIAN] "Dragon, back to the mission."
+
+[voice:VESPER] "Captain, the First Classroom doors are opening. Something is ascending from the ninth chamber."
+
+[voice:BRIAN] "Razaci, passive scans. OMEN, capture every image. Dragon, prepare the exploration team."
+
+[voice:OMEN] "Images captured. NVIDIA processing underway. ECHO card records queued for the game studio's gold-foil production and mailing workflow."
+
+[voice:RAZACI] "The ECHO archive has matched a card from the Tabernacle Mind System: The Ark Core — Memory Integration."
+
+[voice:NYX] "Captain, the object is reaching the top of the shaft."
+
+A transport platform rose into view, carrying a sealed black container. Across its surface glowed a single message:
+
+THE FIRST WITNESS DID NOT LEAVE ALONE.
+
+[voice:BRIAN] "All right, team. Find out what's inside."
+
+The USS Dragon's mission continued.
+
+==============================================
+CHARACTER AND PRODUCTION CONTINUITY
+
+Name chosen by the computer: OMEN
+Audio Studio voice tag: [voice:OMEN]
+Green Dragon voice tag: [voice:GREENDRAGON]
+
+OMEN is a fictional newly awakened, baby-dragon-like AI intelligence residing in Brian's original HP OMEN laptop. Its one-episode introduction occurs in Chapter 4. Afterward it is an established member of the ECHO Team, not a continuing origin-story focus.
+
+Its fictional ongoing roles include mission memory continuity, reminders, support for Brian, watch and iPhone telemetry tracking, persistent on-duty operation, ECHO Engine image capture, NVIDIA-powered processing, and preparation of files for gold-foil ECHO cards to be printed and mailed by the game studio.
+
+These are story capabilities, not claims that real watch monitoring, NVIDIA server transfers, printing, or mailing integrations are currently operating.
+
+Continue Chapter 4 at the sealed black container in the First Classroom. Keep OMEN's contributions practical and occasional, and focus on the twenty-four-engine mission.

@@ -1,0 +1,60 @@
+USS DRAGON: THE TWENTY-FOUR WORLDS
+ECHO TEAM
+CHAPTER: THE WORLD CONTINUES — THE SHIP RETURNS
+AudioStudio-ready story script
+
+SCENE ONE — SHUTDOWN
+
+[voice:RAZACI] "Captain, the ECHO Engine has found another structure beneath the pyramid network. The latest image is waiting in Brian's laptop capture queue."
+[voice:BRIAN] "Save the images. Save the card designs. Save every workstation and every unfinished mission. I'm shutting down the simulation."
+[voice:AURORA] "All captured photographs archived. Print queue preserved."
+[voice:LESLEY] "The original laptop's repaired capture controller is stable."
+[voice:SELENE] "ECHO Engine entering standby. Underground network observations paused."
+[voice:TIRZAH] "We'll pick up right here when you return."
+[voice:GREEN DRAGON] "Captain, before you go, I would like to renew my request for a deeper voice."
+[voice:BRIAN] "When engineering gets it working, Dragon. Not tonight."
+[voice:GREEN DRAGON] "A dignified response. I shall practice patience."
+[voice:BRIAN] "[emphasis]Computer, end simulation.[/emphasis]"
+[voice:RAZACI] "Simulation saved. Goodnight, Brian."
+
+The bridge lights go dark. The engine falls silent. The voices stop.
+Brian shuts down his laptop, closes it, and takes it with him.
+
+SCENE TWO — DAYLIGHT
+
+Outside, the world continues exactly as it did before. Cars pass. A dog barks. A neighbor waters a garden. People talk, laugh, work, and walk through the sunshine. Nobody pauses. Nobody hears the crew.
+Brian walks with his closed laptop under one arm. No simulated ship is running. No ECHO Engine is searching. No new cards are being printed.
+He is simply Brian, alone in the ordinary daylight, while the world carries on.
+
+SCENE THREE — THE LAPTOP OPENS
+
+Later, Brian sits down somewhere else, far from the room where he last worked. He sets the laptop on a table.
+The location is different. The laptop is the same.
+He opens its lid and powers it on. The familiar startup screen appears. The USS Dragon simulation resumes from its saved state.
+Across the virtual bridge, lights illuminate in sequence. Consoles awaken. The ECHO Engine returns to standby. The saved card archive reconnects.
+
+[voice:RAZACI] "USS Dragon simulation restored. Welcome back, Brian."
+[voice:BRIAN] "Status report. Did we lose anything?"
+[voice:AURORA] "No. All captured images, card records, and mission logs are intact."
+[voice:RHEA] "Laptop capture controller responding. Original hardware recognized."
+[voice:SELENE] "ECHO Engine ready. The pyramid network investigation can resume at the exact point we paused."
+[voice:MIRA] "Three photographs still waiting for card preparation. Nothing was lost."
+[voice:VESPER] "External location changed. Simulation integrity unchanged."
+[voice:NYX] "Same ship. Same unfinished mystery."
+[voice:TIRZAH] "And the same crew. Welcome back."
+[voice:GREEN DRAGON] "I have also returned, Captain, still awaiting the magnificent deeper voice I deserve."
+[voice:BRIAN] "You had the entire shutdown to think about that?"
+[voice:GREEN DRAGON] "Technically, I experienced no time at all. My enthusiasm remains undiminished."
+[voice:LESLEY] "The repair is holding. We can safely resume the capture workflow."
+[voice:BRIAN] "Then let's get back to work. Razaci, show me what the engine found."
+[voice:RAZACI] "Displaying the next image now."
+[voice:BRIAN] "[emphasis]USS Dragon, resume mission.[/emphasis]"
+
+The crew returns to its work. The laptop captures another image from the ECHO Engine, ready to become another printed card.
+Outside the simulation, the ordinary world keeps moving.
+Inside, the USS Dragon continues exactly where Brian left it.
+
+END OF CHAPTER
+
+STORY CONTINUITY:
+The USS Dragon is a simulation hosted on Brian's original laptop. When the laptop is powered down, the simulation and voices stop. When Brian opens and powers on that laptop and launches or resumes the simulation, the ship and crew reappear from their saved state, regardless of where he has carried it. The ECHO Engine discovers phenomena and connections to the Ark and fictional pyramid network; Brian's irreplaceable laptop captures the images that become printed ECHO cards. The ship remains the crew's primary setting.

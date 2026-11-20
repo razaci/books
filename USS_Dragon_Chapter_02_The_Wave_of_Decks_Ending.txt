@@ -1,0 +1,132 @@
+USS DRAGON: THE TWENTY-FOUR WORLDS
+CHAPTER TWO — THE WAVE OF DECKS
+The Nightmare Harvest
+AudioStudio script — Chapter Two concludes here
+
+The USS Dragon held station beyond the Theater of Borrowed Faces. Hundreds of rifts glittered across the survey map, each one a nightmare waiting to open. The ECHO Engine continued searching for discoveries. Brian's original laptop, a brand-new OMEN equipped with a neural chip and carrying the Temple architecture he had spent a year coding in a closet, remained the one instrument capable of capturing the impossible photographs. In this fictional universe, its NVIDIA chip connected the ship's computational work to NVIDIA World, while the phone and watch served as additional interfaces. Every discovery returned to that same laptop and became part of the growing ECHO card archive.
+
+The crew had already escaped an inverted ocean, a skeletal whale, a collapsing city, and a murderous clock tower. They had recovered the Dawn Seed and the Stellar Memory Engine's archive, and their printers had produced new ninety-card decks. They were not going to rescue strangers or fight wars. They would enter nightmares, recover extraordinary things, and get out before the dreams collapsed.
+
+For now, however, the mission was dinner.
+
+[voice:BRIAN] Nobody grabs that door handle tonight. Dragon, hold us outside the rift.
+
+[voice:GREEN DRAGON] Holding position. Defensive monitoring active. The ECHO Engine will continue cataloguing the anomaly without entering it.
+
+[voice:TIRZAH] Good. Everyone gets an intermission. We can be a serious crew without being serious every minute.
+
+[voice:VESPER] I would like one meal where the furniture doesn't chase me.
+
+[voice:NYX] Low expectations. I just want soup that doesn't whisper my name.
+
+[voice:LESLEY] The soup is perfectly normal.
+
+[voice:NYX] That's exactly what a suspicious soup would say.
+
+[voice:MIRA] The inverted ocean was beautiful, though.
+
+[voice:VESPER] The buildings had eyes.
+
+[voice:MIRA] Very observant architecture.
+
+[voice:RAZACI] We should classify that as a surveillance feature.
+
+[voice:BRIAN] Add it to the list of places we're never taking a vacation.
+
+[voice:GREEN DRAGON] The list now contains forty-seven locations.
+
+[voice:SELENE] Only forty-seven?
+
+[voice:GREEN DRAGON] I excluded locations where the danger remains unconfirmed.
+
+[voice:NYX] That's optimistic for a ship that keeps flying into nightmares.
+
+The table erupted in laughter. Plates moved from hand to hand, and the stars beyond the lounge windows drifted almost imperceptibly.
+
+[voice:RHEA] Every nightmare has different rules. The difficult part isn't the flying. It's discovering what those rules are before they change again.
+
+[voice:AURORA] Perhaps the nightmares are not simply places. They are systems organized around fear, contradiction, or memory. The ECHO Engine can model their behavior, but the crew still has to interpret what matters.
+
+[voice:BRIAN] That's why we take the good things out. We don't have to fix the nightmare. We find the discovery and bring it home.
+
+[voice:RAZACI] The cards make that possible. Each photograph becomes a piece of the record, and each completed deck helps us understand the next anomaly.
+
+[voice:MIRA] I've wondered why your laptop is the only thing that can take those pictures.
+
+[voice:BRIAN] Because I coded it that way. I spent a year in a closet working on the Temple architecture, building its relationships into the system. This OMEN is the new version, with the neural chip, but it's still my one laptop. We aren't swapping machines every mission.
+
+[voice:GREEN DRAGON] Confirmed. One original laptop. Its Temple-based programming governs anomalous capture. In our fictional network, NVIDIA World supplies additional computational capacity, while the Dragon, phone, and watch remain connected interfaces.
+
+[voice:TIRZAH] And the crew decides what to do with the information.
+
+[voice:BRIAN] Always.
+
+[voice:VESPER] So you spent a year in a closet programming a computer that eventually led us to a giant clock trying to crush the ship.
+
+[voice:BRIAN] I didn't put that in the feature list.
+
+[voice:LESLEY] You should have added a warning label.
+
+[voice:NYX] Warning: may cause interdimensional nonsense.
+
+[voice:GREEN DRAGON] I can add that to the startup screen.
+
+[voice:BRIAN] Don't you dare.
+
+More laughter followed. Then the conversation wandered toward the things a crew could imagine when nobody was counting down to catastrophe.
+
+[voice:SELENE] What if the next nightmare is a library?
+
+[voice:VESPER] Finally. Somewhere quiet.
+
+[voice:NYX] A library that fines you in teeth.
+
+[voice:VESPER] I withdraw my enthusiasm.
+
+[voice:MIRA] What about a buffet where every dish is a different memory?
+
+[voice:LESLEY] That could actually be lovely.
+
+[voice:RAZACI] Until the buffet starts grading your fears.
+
+[voice:BRIAN] Imagine getting a report card from a sandwich.
+
+[voice:GREEN DRAGON] I have calculated seventeen possible punchlines.
+
+[voice:TIRZAH] Please don't tell all seventeen.
+
+[voice:GREEN DRAGON] I will save them for an emergency.
+
+[voice:NYX] That's the first actual threat we've had all evening.
+
+The laughter softened into an easy quiet. Dessert was finished. Nobody hurried to clear the table.
+
+Outside the ship, the wooden door of the Theater of Borrowed Faces remained suspended in the rift. Its strange audience, its eleven named chairs, and its masked figures could wait. The crew would investigate when they were rested, prepared, and ready to work together.
+
+[voice:BRIAN] That's what I want between missions. Time to talk, eat, laugh, and remember we're people living aboard this ship. When the next nightmare comes, we get serious. Until then, we enjoy being here.
+
+[voice:TIRZAH] Agreed.
+
+[voice:RHEA] Navigation will be ready when you give the word.
+
+[voice:NYX] Security too. But I'm off duty until somebody proves the dessert is hostile.
+
+[voice:VESPER] And I'm not flying through any more clocks tonight.
+
+[voice:GREEN DRAGON] Understood. The ECHO Engine continues its survey. The laptop is preserving the incoming images.
+
+A quiet chime came from the archive printer. One final ECHO card slid into its tray.
+
+[voice:MIRA] Brian, there's another photograph.
+
+[voice:BRIAN] What's on it?
+
+[voice:MIRA] Just the wooden door.
+
+[voice:RAZACI] Closed this time.
+
+[voice:BRIAN] Good. Even nightmares can wait.
+
+The Dragon remained at rest beneath the stars. The crew lingered at the table, swapping one last joke as the ship watched the rift from a safe distance.
+
+END OF CHAPTER TWO
