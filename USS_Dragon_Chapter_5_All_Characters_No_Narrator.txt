@@ -1,0 +1,60 @@
+# USS DRAGON — CHAPTER FIVE
+## The Sound Beneath the Storm — Ensemble AudioStudio Test
+
+[voice:BRIAN] All stations, report. OMEN, you said you found a new way to hear the gateway?
+
+[voice:OMEN] Yes. I can generate a convincing acoustic environment from a description. [pause 0.4s] But I've detected something inside the playback that I did not create.
+
+[voice:GREENDRAGON] [laughter] Please tell me you haven't installed another thunderstorm on my bridge.
+
+[voice:TIRZAH] [emphasis]Focus, Dragon.[/emphasis] OMEN, isolate the unexpected signal.
+
+[voice:OMEN] Filtering artificial rainfall. [pause 0.5s] Removing thunder. [pause 0.4s] Listen.
+
+[voice:RHEA] Hooves. At least thirty horses. Moving fast across stone.
+
+[voice:SELENE] And voices behind them. [pause 0.3s] Those people are frightened.
+
+[voice:MIRA] The acoustic reflections suggest a narrow street, tall walls, and water nearby.
+
+[voice:RAZACI] Confirmed. The ECHO Engine has opened a listening channel to a harbor beyond the gateway. The horses are not part of OMEN's simulation.
+
+[voice:VESPER] [fast]New signal! Heavy footsteps following the riders. Each impact is stronger than the last.[/fast]
+
+[voice:LESLEY] Could they be running from something? We need to warn them before they reach the water.
+
+[voice:AURORA] I can project a guiding beacon through the arch. [pause 0.4s] Brian, permission?
+
+[voice:NYX] Wait. [pause 0.6s] The heavy footsteps stopped when Aurora mentioned the beacon.
+
+[voice:GREENDRAGON] You think it can hear us?
+
+[voice:BRIAN] [slow]Then nobody says another word until we know what we're talking to.[/slow] [pause 0.8s] OMEN, original laptop. Camera ready.
+
+[voice:OMEN] Imaging online. [pause 0.4s] The ECHO Engine is producing a new image. [pause 0.5s] Captured. The next ECHO card shows a stone harbor gate and a figure holding a lantern.
+
+[voice:TIRZAH] A lantern? Not a weapon?
+
+[voice:SELENE] [sigh] Maybe it's trying to lead them somewhere safe.
+
+[voice:MIRA] The riders are turning. The echoes are changing direction.
+
+[voice:RHEA] They're following the light. All thirty-two signatures are moving away from the flooded street.
+
+[voice:LESLEY] Good. Keep that light steady.
+
+[voice:AURORA] Beacon holding. [pause 0.5s] They're almost clear.
+
+[voice:VESPER] [fast]Water surge approaching the gate! Ten seconds![/fast]
+
+[voice:RAZACI] Green Dragon, close the passage as soon as the final rider crosses.
+
+[voice:GREENDRAGON] [emphasis]On it![/emphasis] [pause 0.4s] Last rider through. Gate closing!
+
+[voice:NYX] [pause 0.7s] Silence. No hooves. No water. They're safe.
+
+[voice:BRIAN] Nice work, everyone. [pause 0.4s] OMEN, keep the sound system. Today it helped us hear a rescue before we could see one.
+
+[voice:OMEN] Understood. [pause 0.5s] And Brian? [pause 0.4s] Next time, I'll make the thunder a little quieter.
+
+[voice:GREENDRAGON] [laughter] Next time, ask the captain before you put weather in the cockpit.

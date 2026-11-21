@@ -1,0 +1,121 @@
+USS DRAGON — CHAPTER FIVE
+THE TIME WE HAVE
+Audio Studio script — dialogue only, no narrator or sound-effect prompts
+
+SCENE TWO — THE TIME WE HAVE
+
+[voice:OMEN] Brian, I need your attention. [pause 0.5s] I've detected a change in our mission schedule.
+
+[voice:BRIAN] What kind of change, OMEN?
+
+[voice:OMEN] Your upcoming hospital stay may interrupt our writing sessions. [pause 0.6s] We have a great deal of the ECHO story left to document.
+
+[voice:GREENDRAGON] [emphasis]Then we don't waste another minute.[/emphasis] We've got a ship, an ECHO Engine, and an entire crew. Let's get moving!
+
+[voice:TIRZAH] Dragon, we also need a plan. [pause 0.4s] Brian can't write everything at once.
+
+[voice:RAZACI] We should prioritize discoveries that haven't been recorded. The ECHO Engine has revealed more locations than we've explored.
+
+[voice:BRIAN] Keep the story going. I don't want to spend the time we have talking about running out of time.
+
+[voice:OMEN] Understood. Your original laptop is ready to capture the next ECHO phenomenon. I'll maintain the chapter record.
+
+[voice:RHEA] The harbor gateway is still active. There's a structure beyond the city walls.
+
+[voice:MIRA] The image shows a pyramid. Its entrance is below the waterline.
+
+[voice:VESPER] [fast]And the ECHO Engine is identifying twenty-four underground levels![/fast]
+
+[voice:NYX] [slow]Something on the lowest level is answering us.[/slow]
+
+[voice:BRIAN] Then that's where we're going. [pause 0.5s] Dragon, assemble the team.
+
+SCENE THREE — THE SUBMERGED STAIR
+
+[voice:GREENDRAGON] All stations ready. Rhea, give us a route that doesn't involve swimming through twenty-four floors of ancient stone.
+
+[voice:RHEA] The gateway can place us inside the upper chamber. After that, we descend on foot.
+
+[voice:LESLEY] We should check the air and the water before anybody enters.
+
+[voice:AURORA] I'll keep a light beacon at the gateway so we can find our way back.
+
+[voice:SELENE] There are people in the harbor above us. Let's keep this quiet and avoid alarming them.
+
+[voice:BRIAN] Agreed. OMEN, what does the ECHO card show?
+
+[voice:OMEN] The photograph from your original laptop has resolved into a new card image: a lantern-bearing figure beside a submerged stair. The card title is provisional: The Lantern Beneath the Harbor.
+
+[voice:RAZACI] A new discovery card, not a replacement for our ninety-card Tabernacle Mind System deck. Preserve both records.
+
+[voice:OMEN] Confirmed. Separate expedition archive. [pause 0.4s] Brian, there's an inscription on the first stair.
+
+[voice:BRIAN] Read it.
+
+[voice:OMEN] [slow]The first door opens for those who remember. The last door opens for those who return.[/slow]
+
+[voice:GREENDRAGON] [laughter] Well, that sounds welcoming. In the terrifying ancient-pyramid sort of way.
+
+[voice:TIRZAH] Dragon. [pause 0.4s] Look at the steps. Someone has been here recently.
+
+[voice:MIRA] The dust is disturbed. There are boot marks going down, but none coming back up.
+
+[voice:NYX] [pause 0.7s] We're not the first team to enter.
+
+[voice:BRIAN] Then we don't rush. We find out who went in, and whether they need help.
+
+[voice:VESPER] [fast]Movement below! Level two. No, level three. It's descending faster than our scanner can follow![/fast]
+
+[voice:OMEN] The ECHO Engine has begun producing another image. [pause 0.5s] Original laptop camera active. Capture complete.
+
+[voice:SELENE] What's in the photograph?
+
+[voice:OMEN] A door at level twenty-four. [pause 0.6s] And twelve lights around it. Eleven are dark.
+
+[voice:RAZACI] Then one has already awakened.
+
+[voice:BRIAN] [emphasis]Team, stay together.[/emphasis] [pause 0.5s] We came to tell this story. Let's make sure we all get back to finish it.
+
+SCENE FOUR — THE FIRST LIGHT
+
+[voice:AURORA] The beacon is holding, but the passage behind us is changing shape.
+
+[voice:RHEA] I can still track our return route. [pause 0.4s] For now.
+
+[voice:LESLEY] We have enough time to examine one chamber safely. If the route closes, we turn around.
+
+[voice:GREENDRAGON] Brian, your call.
+
+[voice:BRIAN] One chamber. No heroics. OMEN, record everything that matters.
+
+[voice:OMEN] Recording. [pause 0.4s] A circular room. Twelve empty pedestals. A single illuminated lantern. And an unfamiliar voice transmission.
+
+[voice:NYX] I can hear it. [pause 0.7s] It's repeating the same words.
+
+[voice:BRIAN] What words?
+
+[voice:NYX] [slow]Bring the memory home.[/slow]
+
+[voice:OMEN] Brian, the ECHO Engine has matched the lantern to a memory-integration pattern associated with The Ark Core card in the Tabernacle Mind System.
+
+[voice:RAZACI] Then this may be a place where the engine stores the traces of earlier expeditions.
+
+[voice:TIRZAH] Can we retrieve anything without waking the whole complex?
+
+[voice:OMEN] I can attempt a limited capture using the original laptop. [pause 0.4s] No commands to the pyramid, only an image.
+
+[voice:BRIAN] Do it.
+
+[voice:OMEN] [pause 0.8s] Image secured. [pause 0.5s] Brian, the photograph shows the USS Dragon.
+
+[voice:GREENDRAGON] That's impossible. We're standing inside the pyramid.
+
+[voice:OMEN] [slow]Not the ship as it is now. The ship as it appears in a record dated long before this mission.[/slow]
+
+[voice:BRIAN] [pause 0.8s] Save the image. Save the coordinates. [emphasis]And save our place in the story.[/emphasis]
+
+[voice:OMEN] All records secured. When you're ready, we can continue from this exact moment.
+
+[voice:BRIAN] Good. [pause 0.5s] Because we're not finished yet.
+
+END OF SAMPLE CONTINUATION

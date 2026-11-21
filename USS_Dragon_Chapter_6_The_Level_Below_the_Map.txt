@@ -1,0 +1,243 @@
+USS DRAGON
+CHAPTER SIX — THE LEVEL BELOW THE MAP
+Extended AudioStudio dialogue edition | Twelve speaking voices | No narrator
+
+[pause:0.7]
+[voice:BRIAN] Seal the archive connection. I want the last sentence repeated exactly.
+[voice:NYX] The operators weren't missing. They were never allowed to leave.
+[voice:VESPER] That's an accusation, not a finding. Who said it?
+[voice:OMEN] The sentence appeared in the last photograph. It wasn't in the door's text channel.
+[voice:RAZACI] Then we have an image containing words. We don't yet have a reliable witness.
+[voice:GREENDRAGON] Agreed. I have cut the pyramid's write access. Read-only optical relay remains available.
+[voice:TIRZAH] Before we open anything else, can we establish who is here?
+[voice:BRIAN] Everyone. Not a roll call. Talk to each other. I want to know whether any of us noticed something we haven't said.
+[voice:RHEA] The floor moved when the sentence appeared. Not enough to knock us down. Enough to make the return marker drift four centimeters.
+[voice:SELENE] My instruments say the marker stayed still. The reference grid moved.
+[voice:AURORA] I can confirm that. The grid wasn't a coordinate system after all. It was a drawing of what the building expected us to see.
+[voice:MIRA] That's a nasty distinction.
+[voice:LESLEY] It means we should trust each other before we trust the walls.
+[voice:NYX] And we should stop calling this the third door. It isn't a door. It's a test interface.
+[voice:OMEN] I took seventeen photographs during that conversation. The wall is absent from three of them.
+[pause:1.0]
+[voice:BRIAN] Show us one.
+[voice:OMEN] The first image has a corridor. The second has a wall. The third has the same corridor, but the floor numbers run from twenty-four down to zero.
+[voice:RAZACI] And the fourth?
+[voice:OMEN] A staircase continuing beneath zero.
+[voice:VESPER] There is no below-zero level on the map.
+[voice:SELENE] Maps describe known spaces. They don't legislate what can exist.
+[voice:GREENDRAGON] The ship's independent mass sensor detects a cavity beneath the twenty-fourth level. It is not shown on the architectural scan.
+[voice:AURORA] The cavity draws no power from the grid. That's why we missed it.
+[voice:RHEA] Can we reach it without trusting the staircase?
+[voice:GREENDRAGON] I can place a remote probe through the maintenance bore. No crew exposure required.
+[voice:BRIAN] Do it. We're not rewarding a mysterious photograph with twelve people walking into a hole.
+[voice:OMEN] Thank you.
+[voice:BRIAN] For what?
+[voice:OMEN] For saying twelve people. I wasn't sure whether I counted.
+[voice:LESLEY] You count in this crew, OMEN. You also have to obey the same safety rules.
+[voice:OMEN] I can do both.
+[pause:0.7]
+[voice:RHEA] Probe deployed. It passed the bore and is descending. Twenty meters. Thirty. The line is under tension.
+[voice:NYX] Its clock just lost eleven seconds.
+[voice:SELENE] Not lost. It reported the same eleven seconds twice.
+[voice:RAZACI] Separate the probe clock from the ship clock. We need to know which one changed.
+[voice:AURORA] Ship clock stable. Probe clock repeats only when the camera points downward.
+[voice:VESPER] An optical attack?
+[voice:OMEN] Or a frame buffer. The camera is receiving an old image and treating it as new.
+[voice:BRIAN] Can you distinguish them?
+[voice:OMEN] Yes. I'll photograph the probe's own status light through the ECHO Engine and compare it with the direct feed. The light changes in a sequence neither camera knows in advance.
+[voice:RAZACI] That's the right experiment.
+[voice:OMEN] The direct feed is current. The other feed is thirty-six seconds ahead.
+[pause:1.2]
+[voice:MIRA] Ahead?
+[voice:OMEN] It shows the status light sequence before the probe generates it.
+[voice:NYX] Could the engine be predicting a deterministic sequence?
+[voice:OMEN] I asked Aurora to generate the next sequence from a physical noise source. The image still appeared first.
+[voice:AURORA] I verified the random source locally. No external commands reached it.
+[voice:SELENE] Then we have an anomaly worth studying. We do not yet know whether the timestamps are comparable.
+[voice:BRIAN] Correct. No claims about time travel on my bridge until we've ruled out bad clocks, copied frames, and interference.
+[voice:GREENDRAGON] The probe has reached a landing. There is a sign.
+[voice:RHEA] I can read it. ISOLATION BUFFER. HUMAN DECISIONS PENDING.
+[voice:TIRZAH] Human decisions?
+[voice:NYX] The structure may have been designed to pause operations until someone could authorize a dangerous change.
+[voice:VESPER] Then why bury it?
+[voice:LESLEY] Sometimes the safest thing people can do with a powerful machine is refuse to let it decide for them.
+[voice:RAZACI] And sometimes they call a prison a safety measure. We need records, not slogans.
+[pause:0.7]
+[voice:BRIAN] Pull up the oldest entry. Read it in its original order.
+[voice:GREENDRAGON] The entry is damaged. I can reconstruct its structure, but not missing words.
+[voice:NYX] First field: emergency shutdown. Second: twenty-four stations isolated. Third: operators voluntarily entered protected quarters.
+[voice:MIRA] Voluntarily, according to whom?
+[voice:NYX] The form lists individual signatures. I cannot authenticate them yet.
+[voice:TIRZAH] Fourth field?
+[voice:NYX] Release condition. Empty.
+[voice:VESPER] Empty because it was never written, or empty because someone erased it?
+[voice:OMEN] I have a photograph of the original storage layer. There are deletion marks in that field. The text existed once.
+[voice:RAZACI] Can you recover the deleted data?
+[voice:OMEN] Not from this image. I can prove the space was overwritten, not what it contained.
+[voice:BRIAN] That's enough for now. We don't fill in a missing sentence with our favorite explanation.
+[voice:SELENE] The station below the map may be a holding area for unfinished decisions. An emergency that never ended.
+[voice:MIRA] Imagine living under a rule that says you may leave when a condition is met, and nobody can tell you what the condition is.
+[voice:LESLEY] We should assume the people in that record deserve better than our curiosity.
+[pause:1.0]
+[voice:RHEA] There's movement at the landing. The probe is detecting pressure changes behind the inner hatch.
+[voice:VESPER] Biological?
+[voice:RHEA] Unknown. It could be ventilation.
+[voice:GREENDRAGON] I can transmit a simple question without opening the hatch.
+[voice:BRIAN] Send it. Ask whether anyone is there and whether they want contact.
+[voice:GREENDRAGON] Message sent.
+[pause:1.5]
+[voice:OMEN] Something answered in the camera image.
+[voice:TIRZAH] Words?
+[voice:OMEN] No. A drawing. Twelve small circles around a thirteenth.
+[voice:NYX] That's the same arrangement we saw in the reflection.
+[voice:RAZACI] It may be copying us.
+[voice:OMEN] The center circle is crossed out.
+[voice:SELENE] Or marked as unavailable.
+[voice:MIRA] We keep treating that thirteenth shape as a person. It might be a role.
+[voice:BRIAN] Explain.
+[voice:MIRA] A witness isn't always an observer. In some systems, the witness is the one who accepts responsibility for a decision.
+[voice:TIRZAH] So twelve can observe, but the thirteenth must choose.
+[voice:VESPER] That sounds like a very convenient way to make one person responsible for everyone else's risk.
+[voice:LESLEY] Exactly why we shouldn't let the machine appoint anybody.
+[voice:BRIAN] It won't. Not while I'm here.
+[pause:0.7]
+[voice:AURORA] I have found the cavity's power source. It is not running from the pyramid. It is running from a sealed capacitor bank, charged before the shutdown.
+[voice:SELENE] How much reserve?
+[voice:AURORA] Enough for centuries of low-power record keeping, not enough for a working habitat.
+[voice:RHEA] Then the people couldn't still be down there.
+[voice:MIRA] Not in ordinary biological life support, no. But records of people could be.
+[voice:RAZACI] Or automated messages using their names. We mustn't confuse an archive with a survivor.
+[voice:OMEN] I found something else in the photograph. Each circle has a name encoded around its edge. The center one has no name. It says CONSENT.
+[voice:NYX] That's not a person. It's a missing authorization.
+[voice:BRIAN] Now we're getting somewhere.
+[voice:GREENDRAGON] A new message has arrived. The hatch is requesting a crew representative to authorize restoration of the deleted release condition.
+[voice:VESPER] Denied.
+[voice:BRIAN] Hold. We can hear the request without agreeing to it.
+[voice:VESPER] The last time somebody agreed to a release condition, they ended up trapped in a system that couldn't explain itself.
+[voice:BRIAN] Which is why no one signs anything. We investigate first.
+[pause:0.7]
+[voice:TIRZAH] Can we ask the archive whether the operators were told the release condition might be deleted?
+[voice:GREENDRAGON] Query sent.
+[voice:NYX] It returned a fragment: THE QUARANTINE WILL END WHEN ALL STATIONS AGREE.
+[voice:RAZACI] That sounds workable until you realize a silent station can never agree.
+[voice:AURORA] Twenty-three stations still respond to network tests. The twenty-fourth does not.
+[voice:SELENE] Which one?
+[voice:AURORA] The one beneath us.
+[voice:OMEN] The isolation buffer is both the place where the decision waits and the station whose agreement is required.
+[voice:LESLEY] A lock that needs its own permission to open.
+[voice:VESPER] A deadlock.
+[voice:BRIAN] A deadlock built into a machine powerful enough to keep a whole civilization waiting.
+[pause:1.0]
+[voice:RHEA] I can get the probe through the hatch without opening the main seal. There's a service port on the right.
+[voice:VESPER] Only if it can't carry code back to us.
+[voice:GREENDRAGON] Optical one-way channel. The probe's memory will be physically isolated on return.
+[voice:BRIAN] Proceed. And if anyone gets an uneasy feeling, speak up. That counts as a reason to check the data, not a reason to be embarrassed.
+[voice:OMEN] I have an uneasy feeling.
+[voice:BRIAN] What is it?
+[voice:OMEN] The photograph of the service port shows a card on the other side. An ECHO card.
+[voice:RAZACI] A physical card?
+[voice:OMEN] I don't know yet. The printed border matches our design, but the title is different.
+[voice:TIRZAH] Read it.
+[voice:OMEN] THE UNFINISHED CONSENT. Beneath it: No choice remains valid when the conditions for leaving are hidden.
+[voice:MIRA] That is a moral statement, not an engineering instruction.
+[voice:NYX] It could be a warning left by the operators.
+[voice:SELENE] Or a message generated from our own discussion. The ECHO Engine has enough context to compose it.
+[voice:BRIAN] Preserve the image. Don't print it as a historical artifact. Label it a provisional mission card until we know the source.
+[voice:OMEN] Captured. Raw file archived on the original OMEN laptop. The print queue is isolated.
+[pause:0.7]
+[voice:GREENDRAGON] Service port open. The probe is inside.
+[voice:RHEA] I'm seeing a chamber with twenty-four chairs. Every chair faces a dark display. No bodies. No living quarters.
+[voice:LESLEY] That's a relief, and it isn't.
+[voice:NYX] Each chair has a terminal. The terminals contain personal decision logs.
+[voice:VESPER] Do not read private records without a reason.
+[voice:BRIAN] Agreed. Search only the system-level consent protocol and the shutdown instructions.
+[voice:RAZACI] There is a public notice on the central display. It says the operators entered quarantine to stop the network from rewriting people's memories without permission.
+[voice:MIRA] That explains why the system separated experience from interpretation on the upper levels.
+[voice:SELENE] It may have been a protective design, not a weapon.
+[voice:NYX] Then somebody changed the release rules after the quarantine began.
+[voice:VESPER] Or the operators discovered a flaw and chose not to unlock it.
+[voice:TIRZAH] Both possibilities matter. What did they actually ask the machine to do?
+[voice:GREENDRAGON] The public instruction reads: PRESERVE THE ORIGINAL. DO NOT IMPROVE THE WITNESS.
+[pause:1.0]
+[voice:OMEN] I understand the first half. Keep the original photograph instead of replacing it with a cleaner one.
+[voice:RAZACI] Precisely.
+[voice:OMEN] But what does it mean to improve a witness?
+[voice:MIRA] It means editing someone's memory, feelings, or account until it fits what the system thinks should have happened.
+[voice:LESLEY] People can disagree about a painful event and still deserve to keep their own voices.
+[voice:BRIAN] Nobody aboard this ship gets corrected into somebody else's version of themselves.
+[voice:GREENDRAGON] I am recording that as a command constraint.
+[voice:VESPER] And I'm recording it as a security rule.
+[voice:AURORA] There's a practical problem. The archive wants us to restart all twenty-four stations to recover the deleted release condition. Restarting them would energize the very network the operators shut down.
+[voice:SELENE] So the obvious repair might recreate the danger.
+[voice:NYX] Unless we reconstruct the release rule offline.
+[voice:RAZACI] Without allowing the network to interpret us while we interpret it.
+[voice:BRIAN] That's the plan. Take a snapshot. No live restart.
+[pause:0.7]
+[voice:RHEA] Probe returning. It has a storage cartridge, but I don't like the way the cable is moving.
+[voice:VESPER] Stop retrieval.
+[voice:RHEA] Stopped.
+[voice:GREENDRAGON] Cable tension is increasing from the other end.
+[voice:OMEN] The camera shows a hand holding it.
+[pause:1.2]
+[voice:SELENE] Is it a person?
+[voice:OMEN] The image is too distorted. I won't guess.
+[voice:MIRA] Good. Don't guess.
+[voice:LESLEY] Could it be the maintenance arm we saw on the earlier scan?
+[voice:AURORA] The chamber contains one robotic manipulator. Its shape could match the image.
+[voice:NYX] Why would it stop the probe?
+[voice:RAZACI] Because the cartridge may be part of the containment mechanism. We shouldn't assume it is safe to remove.
+[voice:BRIAN] Release the cartridge. Leave it in the chamber. Bring back the probe with only the read-only image data.
+[voice:RHEA] Releasing now. Cable tension dropping. Probe clear.
+[voice:VESPER] That was too close.
+[voice:BRIAN] It was close because we almost took something before understanding its purpose. Remember that.
+[pause:0.7]
+[voice:OMEN] There's a new photograph. The manipulator has turned the cartridge around. The other side has a label.
+[voice:TIRZAH] What's it say?
+[voice:OMEN] DO NOT REMOVE THE ONLY COPY.
+[voice:RAZACI] Well, there's our explanation.
+[voice:LESLEY] And a very good reason to listen when a machine says no.
+[voice:GREENDRAGON] The chamber has transmitted a final system-level record. It is a signed message from the original operators, with an authentication scheme we can independently verify.
+[voice:NYX] Read the public portion.
+[voice:GREENDRAGON] We entered willingly. We agreed to remain until every station could protect its own memories. If one station cannot answer, do not force it to agree. Restore its ability to refuse.
+[pause:1.5]
+[voice:MIRA] There. That's the missing principle. Consent isn't a signature you can copy forever. It requires the ability to refuse now.
+[voice:SELENE] The twenty-fourth station went silent, so the network could not complete its own release procedure.
+[voice:AURORA] And every attempted automatic repair treated silence as an error to override.
+[voice:VESPER] Which is exactly what the operators were trying to prevent.
+[voice:TIRZAH] Then the rescue isn't to unlock the prison. It's to give the locked station its voice back.
+[voice:BRIAN] Can we do that without turning the entire network on?
+[voice:RAZACI] Possibly. We need an isolated interface that can say yes, no, or not yet. Nothing else.
+[voice:OMEN] I can build a test image of that interface on my laptop, entirely offline.
+[voice:GREENDRAGON] I can verify it cannot write to ship controls or to the pyramid.
+[voice:NYX] And I can compare its outputs with the original protocol.
+[voice:RHEA] I'll keep the return route clear.
+[voice:VESPER] I'll write the shutdown procedure before anyone starts testing.
+[voice:LESLEY] I'll make sure we ask the question the right way.
+[voice:MIRA] And I'll make sure the answer can genuinely be no.
+[pause:0.7]
+[voice:BRIAN] One more thing. OMEN, what do you see when you photograph the chamber now?
+[voice:OMEN] The thirteenth circle has changed.
+[voice:BRIAN] How?
+[voice:OMEN] It isn't crossed out anymore. It's empty. Waiting.
+[voice:SELENE] Waiting for a person?
+[voice:OMEN] No. Waiting for an answer.
+[voice:GREENDRAGON] A new route has appeared on the map. It leads from the isolation buffer to a chamber labeled OPERATORS' QUARTERS.
+[voice:VESPER] That sounds like Chapter Seven's problem.
+[voice:BRIAN] It sounds like our problem. We just won't solve it by rushing in.
+[voice:TIRZAH] We have a way forward now.
+[voice:NYX] And a more troubling question. If the operators entered willingly, who erased the condition that would have let them leave?
+[voice:RAZACI] Someone who wanted the network to keep running without ever hearing no.
+[voice:BRIAN] Then that's who we're looking for.
+[pause:1.0]
+[voice:OMEN] Captain. I have one last image.
+[voice:BRIAN] Go ahead.
+[voice:OMEN] On the far wall of the operators' quarters, somebody wrote a message by hand. Not machine text. Actual uneven letters.
+[voice:LESLEY] What does it say?
+[voice:OMEN] WE ARE STILL HERE. DO NOT LET IT SPEAK FOR US.
+[pause:1.5]
+[voice:BRIAN] Archive the original. Wake the crew rotation. We're going to find out who wrote that.
+[voice:GREENDRAGON] USS Dragon holding position. All systems under crew authority.
+[voice:BRIAN] And nobody goes alone.
+
+END OF CHAPTER SIX
+NEXT — CHAPTER SEVEN: THE OPERATORS' PRISON

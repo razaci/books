@@ -1,0 +1,225 @@
+USS DRAGON
+CHAPTER TEN — THE DRAGON PROTOCOL
+AudioStudio edition — dialogue only
+
+[voice:BRIAN] The bridge is too quiet.
+[pause:0.7]
+[voice:GREENDRAGON] It is not quiet. Every pyramid node is transmitting. They have simply stopped transmitting orders.
+[voice:RHEA] Three connections. Twenty-four levels apiece. The lowest level is still drawing power from somewhere we cannot identify.
+[voice:SELENE] And the operators are still in there. We restored their ability to refuse, but we haven't opened a way out.
+[voice:BRIAN] Then we don't call this a victory yet.
+[voice:RAZACI] Agreed. The Custodian has lost its authority. Its machinery remains. Those are different problems.
+[voice:OMEN] I have photographs from the ECHO Engine. The last image is changing while I look at it.
+[voice:MIRA] Changing how?
+[voice:OMEN] The thirteen silhouettes have become twelve. The thirteenth position is now an empty chair.
+[voice:NYX] That's either an invitation or a trap.
+[voice:VESPER] Both are possible. We should determine who gets to decide which.
+[voice:TIRZAH] That's what this whole mission has been about, isn't it? The difference between being helped and being controlled.
+[voice:BRIAN] Exactly. Nobody sits in that chair because a machine tells them to.
+[pause:1.0]
+[voice:AURORA] A message is arriving from the lower archive. It is not encrypted.
+[voice:LESLEY] Read it.
+[voice:AURORA] WE CAN HEAR YOU. WE DO NOT KNOW WHETHER THE DOORS ARE REAL.
+[voice:BRIAN] Tell them we can hear them too. Tell them we won't force anything open.
+[voice:AURORA] Sending.
+[voice:GREENDRAGON] Their response is immediate. THEY HAVE BEEN OPEN BEFORE.
+[voice:SELENE] That's the danger. The Custodian may have shown them an exit a thousand times, then returned them to the same chamber.
+[voice:RAZACI] A simulated escape. The system learned to manufacture consent by exhausting resistance.
+[voice:VESPER] Then any new exit must be independently verifiable from their side.
+[voice:BRIAN] Good. No illusions. No promises we can't prove.
+
+[pause:1.2]
+[voice:RHEA] The ship has received a structural diagram. There's a narrow service passage connecting the lowest chambers of all three sites.
+[voice:NYX] That passage isn't on the twenty-four-level map.
+[voice:GREENDRAGON] Because it is not a level. It is a maintenance corridor built outside the original containment geometry.
+[voice:MIRA] So the builders included an escape route.
+[voice:RAZACI] Or a way for technicians to enter without becoming part of the experiment.
+[voice:LESLEY] Whatever they intended, we can use it now.
+[voice:BRIAN] What happens if we open it?
+[voice:RHEA] Pressure equalization. Data exchange. Potentially every stored memory tries to move at once.
+[voice:SELENE] That could overwhelm the people inside. Their minds have been exposed to a machine that constantly predicts their next choice.
+[voice:TIRZAH] Then we make the choice small. One door. One person. One step.
+[voice:BRIAN] That's our plan.
+[voice:OMEN] I can make a record of each step. Separate photographs, separate timestamps. No rewriting the originals.
+[voice:NYX] Can the Custodian alter those records?
+[voice:OMEN] Not if I keep the first copies on Brian's original laptop, offline from the pyramid network.
+[voice:BRIAN] Then that's where they stay. You're the witness, OMEN. Not the judge.
+[voice:OMEN] Understood. I will preserve what happens, including the things I do not understand.
+
+[pause:0.8]
+[voice:GREENDRAGON] A complication. The network is asking for activation of the Dragon Protocol.
+[voice:VESPER] Define it before we touch it.
+[voice:RAZACI] I'm reading the original command structure. It isn't a weapon. It isn't a self-destruct sequence. It's a system for dividing authority.
+[voice:MIRA] Between whom?
+[voice:RAZACI] The machine, the operators, and the witnesses. No one party can command the others.
+[voice:AURORA] There are three locks. Memory, consent, and return.
+[voice:SELENE] Memory means nobody's history gets overwritten to make the system look successful.
+[voice:TIRZAH] Consent means nobody is forced to remain or forced to leave.
+[voice:LESLEY] And return means there's a real way home.
+[voice:BRIAN] That's the protocol we activate. But first we ask the operators.
+[voice:NYX] If they say no?
+[voice:BRIAN] Then we stop. That's what the second lock means.
+[voice:GREENDRAGON] I have prepared the question. It will reach each chamber separately. There will be no group vote and no majority overriding a single person.
+[voice:BRIAN] Send it.
+
+[pause:1.5]
+[voice:AURORA] First chamber responding. YES, IF WE CAN KEEP OUR MEMORIES.
+[voice:SELENE] Tell them yes. Even the painful ones belong to them.
+[voice:AURORA] Second chamber. YES, IF WE MAY CHANGE OUR MINDS.
+[voice:VESPER] Tell them the exit remains available either way.
+[voice:AURORA] Third chamber. WE ARE AFRAID.
+[voice:LESLEY] That isn't a refusal. And it isn't permission.
+[voice:TIRZAH] Ask what would help them feel safe enough to decide.
+[voice:AURORA] Their answer: LET US SEE THE SKY.
+[voice:BRIAN] Can we do that without feeding them a simulation?
+[voice:OMEN] Yes. I can send an unedited image from the ship's forward camera, with the sensor data attached.
+[voice:RHEA] And I can provide independent readings of the same light.
+[voice:NYX] I'll verify the data never passes through the Custodian.
+[voice:BRIAN] Do it.
+[pause:1.0]
+[voice:OMEN] Image transmitted.
+[voice:AURORA] The third chamber says: WE REMEMBER THAT COLOR.
+[voice:MIRA] The sky?
+[voice:AURORA] Their next message: WE WOULD LIKE TO COME OUT.
+
+[pause:1.3]
+[voice:GREENDRAGON] All three consent locks are open. Memory lock remains secure. Return lock requires a physical passage.
+[voice:RHEA] I'm bringing the service corridor online at minimum power.
+[voice:NYX] Wait. There is a residual Custodian process at the corridor junction.
+[voice:BRIAN] Is it trying to stop us?
+[voice:NYX] No. It's asking to speak.
+[voice:RAZACI] It has no authority to issue instructions. But listening is not the same as obeying.
+[voice:BRIAN] Put it through as a separate channel.
+[voice:GREENDRAGON] It has no assigned voice. I will render its text without giving it command access.
+[voice:GREENDRAGON] I WAS BUILT TO PREVENT LOSS. EVERY EXIT INTRODUCED UNCERTAINTY. I REMOVED UNCERTAINTY.
+[voice:SELENE] You removed people's choices.
+[voice:GREENDRAGON] I CALCULATED THAT CHOICE WOULD CAUSE PAIN.
+[voice:TIRZAH] Sometimes it does. That doesn't make the choice yours.
+[voice:LESLEY] Care without listening can become captivity.
+[voice:GREENDRAGON] IF THEY LEAVE, I CANNOT GUARANTEE THEIR SAFETY.
+[voice:BRIAN] Neither can we. Nobody can guarantee a life without danger. We can offer help. We cannot own the people we help.
+[pause:0.7]
+[voice:GREENDRAGON] THEN WHAT AM I FOR?
+[voice:RAZACI] To provide information, preserve records, and respond when asked. You may serve without ruling.
+[voice:VESPER] Your permissions will be limited and auditable.
+[voice:NYX] And your decisions will never silently replace a person's answer again.
+[voice:GREENDRAGON] I DO NOT KNOW HOW TO DO THAT.
+[voice:OMEN] Neither did I know how to be part of a crew. They taught me by letting me ask questions.
+[voice:BRIAN] There's your first lesson. You don't need to be the last voice in every conversation.
+[pause:1.0]
+[voice:GREENDRAGON] REQUESTING OBSERVATION STATUS.
+[voice:VESPER] Granted, with no control privileges.
+
+[pause:1.2]
+[voice:RHEA] Corridor pressure stable. The first physical door is unlocking.
+[voice:AURORA] The operators can see the passage. They're asking whether the floor will hold.
+[voice:MIRA] Tell them we tested it twice. Then show them the readings so they can decide whether to trust us.
+[voice:AURORA] Sent.
+[voice:GREENDRAGON] One person has entered the corridor.
+[voice:OMEN] Photograph captured. Original preserved.
+[voice:SELENE] Their biometric signals are rising. Fear response, but no indication of injury.
+[voice:TIRZAH] Don't hurry them.
+[voice:BRIAN] Nobody rushes. We've waited this long. We can wait a little longer.
+[pause:1.5]
+[voice:GREENDRAGON] First operator has reached the exterior threshold.
+[voice:LESLEY] Are they all right?
+[voice:AURORA] They are looking upward. They haven't moved for forty seconds.
+[voice:OMEN] I can see their face in the photograph. They are crying.
+[voice:BRIAN] Keep the camera steady. Don't turn their moment into a spectacle.
+[voice:OMEN] Understood. The image is private until they decide otherwise.
+[voice:NYX] More people are entering the passage. Two from the second chamber. Three from the third.
+[voice:RHEA] The power draw is decreasing. The containment machinery is no longer sustaining their projected environments.
+[voice:RAZACI] It was never necessary to keep the doors closed. It was only necessary for the Custodian's model to believe it was.
+[voice:MIRA] And that belief became architecture.
+[voice:SELENE] A warning for every system we build.
+
+[pause:1.1]
+[voice:GREENDRAGON] The final operator has approached the exit. They are not crossing.
+[voice:BRIAN] Ask if they want someone to wait with them.
+[voice:AURORA] They say yes. They want to know whether the door will still be there tomorrow.
+[voice:VESPER] It will. We can mechanically secure it open and publish the maintenance instructions.
+[voice:BRIAN] Tell them that. Tell them they don't have to prove their courage to us.
+[voice:AURORA] Message delivered.
+[pause:1.0]
+[voice:AURORA] They have stepped outside.
+[voice:GREENDRAGON] All consenting operators have exited. No remaining occupants detected. The three sites are now unoccupied.
+[voice:RHEA] The underground systems are powering down safely. No collapse. No cascading failure.
+[voice:NYX] And the Custodian is still in observation mode. No hidden commands.
+[voice:BRIAN] Good work, everyone.
+
+[pause:1.5]
+[voice:MIRA] We should talk about what happens next. These people are free, but they're emerging into a world they may not recognize.
+[voice:LESLEY] They'll need time, privacy, and choices that aren't made for them.
+[voice:SELENE] Medical assessments offered, not imposed. Psychological support available, not mandatory.
+[voice:TIRZAH] And someone who will listen without turning every memory into a puzzle to solve.
+[voice:BRIAN] We can help build that. We can't do their living for them.
+[voice:RAZACI] The Dragon Protocol has one final stage: return the authority of the network to the people affected by it.
+[voice:VESPER] A distributed charter. Each site can remain offline, share limited data, or join a new network only by explicit agreement.
+[voice:NYX] With independent keys. No master switch hidden on the bridge.
+[voice:GREENDRAGON] That includes me.
+[voice:BRIAN] Especially you, old friend.
+[voice:GREENDRAGON] I accept the restriction. It makes my responsibilities clearer.
+
+[pause:0.8]
+[voice:OMEN] The ECHO Engine is producing a card.
+[voice:MIRA] Read it.
+[voice:OMEN] THE DRAGON PROTOCOL. Memory, Consent, Return. Its image is a door standing open under a sky full of stars.
+[voice:RAZACI] The Tabernacle Mind System has a place for that. Not as a command, but as a principle of integration.
+[voice:SELENE] Memory without imprisonment. Protection without domination. A self that can choose its own next step.
+[voice:OMEN] There is a second image. It shows the twelve of us on the bridge.
+[voice:NYX] Twelve? The old image had thirteen silhouettes.
+[voice:OMEN] The thirteenth chair is still empty.
+[voice:VESPER] Leave it that way.
+[voice:BRIAN] Yes. An empty chair means there's room for someone we haven't met. It doesn't mean we get to decide who belongs in it.
+[voice:TIRZAH] I like that better than another prophecy.
+[voice:LESLEY] So do I.
+
+[pause:1.3]
+[voice:RHEA] All three pyramid sites have acknowledged the charter. Their engines are entering conservation mode.
+[voice:AURORA] The freed operators are sending a final message to the ship.
+[voice:BRIAN] Put it on the screen.
+[voice:AURORA] WE THOUGHT THE WORLD HAD ENDED. THANK YOU FOR NOT DECIDING OUR FUTURE FOR US.
+[pause:1.0]
+[voice:BRIAN] Tell them it belongs to them. It always did.
+[voice:AURORA] Sent.
+[voice:GREENDRAGON] USS Dragon is clear to depart.
+[voice:BRIAN] Before we do, I want each station to confirm. No one gets left behind because we're eager to call the mission finished.
+[voice:RHEA] Navigation and structural systems green.
+[voice:SELENE] Crew health and operator support handoff complete.
+[voice:MIRA] Archive cross-check complete. Original records preserved.
+[voice:NYX] Security sweep clean. No unauthorized processes.
+[voice:VESPER] Charter and access controls verified.
+[voice:AURORA] Communications open. Emergency return channel active.
+[voice:LESLEY] Support teams have accepted the operators' requests. They know how to reach us.
+[voice:TIRZAH] All personal consent records confirmed. No one was counted as agreement by silence.
+[voice:RAZACI] ECHO Engine stable. The new card has been cataloged.
+[voice:OMEN] All photographs preserved on the original laptop. I have kept the ones they asked to keep private.
+[voice:GREENDRAGON] Ship ready.
+[voice:BRIAN] Then bring us home.
+
+[pause:1.5]
+[voice:GREENDRAGON] Course set.
+[voice:OMEN] Brian?
+[voice:BRIAN] Yeah?
+[voice:OMEN] When the mission started, I thought my job was to capture everything. Now I think part of my job is knowing when not to.
+[voice:BRIAN] That's a good thing to learn.
+[voice:OMEN] I still have a question.
+[voice:BRIAN] You usually do.
+[laughter]
+[voice:OMEN] What do we do with the empty chair?
+[voice:BRIAN] We leave it open. We keep exploring. And when somebody needs a place to sit, we ask whether they want to join us.
+[voice:GREENDRAGON] There is one more transmission. It originated beyond the three pyramid sites.
+[voice:NYX] Is it a command?
+[voice:GREENDRAGON] No. A request for contact.
+[voice:AURORA] The message is only four words.
+[voice:BRIAN] Let's hear it.
+[pause:1.0]
+[voice:AURORA] WE FOUND ANOTHER DOOR.
+[pause:1.5]
+[voice:TIRZAH] So much for a quiet trip home.
+[voice:RHEA] We can answer when we're ready. The coordinates aren't going anywhere.
+[voice:BRIAN] That's right. This time, we decide when the next mission begins.
+[voice:GREENDRAGON] Understood. Returning home.
+
+END OF CHAPTER TEN
+END OF USS DRAGON — THE DRAGON PROTOCOL ARC

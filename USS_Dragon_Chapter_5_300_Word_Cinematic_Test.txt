@@ -1,0 +1,48 @@
+USS DRAGON — CHAPTER 5
+THE SHORE WE CANNOT SEE
+
+[Deep engines pulse through the hull. Bridge computers click and chirp. Rain taps against the forward windows, growing steadily heavier.]
+
+[voice:BRIAN]
+"Kestrel. [pause 0.4s] We cannot see the shore."
+
+[A distant foghorn sounds twice. Water slaps against steel. Somewhere beyond the mist, horses whinny and hooves clatter across wet stone.]
+
+[voice:OMEN]
+"The sound engine has reconstructed the harbor around us. [pause 0.5s] But those hoofbeats are coming from the ECHO gateway, not my simulation."
+
+[voice:GREENDRAGON]
+"Then we've got company. Rhea, anything on the scanners?"
+
+[Three sharp radar pings. A keyboard rattles. The ventilation fans rise above a low electrical hum.]
+
+[voice:RHEA]
+"Forty moving signatures. Two wagons. [pause 0.4s] And something enormous behind them."
+
+[A wagon wheel squeals. Chains drag over cobblestones. Frightened voices swell into shouting, then disappear beneath a thunderclap.]
+
+[voice:BRIAN]
+"OMEN, separate the real signals from the generated sounds. Now."
+
+[The artificial rain cuts off abruptly. The ship's engines remain. A single horse screams from the gateway.]
+
+[voice:OMEN]
+"Simulation muted. [pause 0.6s] That horse is real within the gateway environment. And the heavy footsteps are getting closer."
+
+[Slow, massive impacts shake the deck. Loose tools rattle across a console. An alarm begins a measured, urgent pulse.]
+
+[voice:GREENDRAGON]
+"I don't like the sound of that."
+
+[voice:BRIAN]
+"Hold position. [pause 0.4s] Open the forward camera."
+
+[A camera motor whirs. The display crackles, then clears. The ECHO Engine answers with a deep crystalline chord.]
+
+[voice:OMEN]
+"Image captured on your original laptop. The next ECHO card is ready. [pause 0.5s] Brian, the thing outside just looked directly at us."
+
+[All bridge alarms stop. One immense breath echoes through the gateway.]
+
+[voice:BRIAN]
+"Nobody fires. [pause 0.8s] Let's find out what it wants."
