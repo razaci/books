@@ -1,0 +1,365 @@
+USS DRAGON: THE TWENTY-FOUR WORLDS
+BONUS EASTER EGG AUDIOBOOK
+THE SWG TERMINAL TRANSMISSION
+
+CHAPTER ONE — FIVE SHIPS AT THE EDGE OF THE MAP
+
+[voice:BRIAN]
+[emphasis]USS Dragon, bridge log.[/emphasis] We have reached the edge of the mapped corridor. Ahead of us is SWG Terminal, a station that shouldn't be broadcasting, in a sector that officially doesn't exist. Everybody, eyes up. I want answers before we make a move.
+
+[voice:TIRZAH]
+And I want you to stop calling a heavily armed, mysterious station a tourist attraction.
+
+[voice:BRIAN]
+I never said tourist attraction.
+
+[voice:RHEA]
+You said, and I quote, "Look at the lights! We should go there!"
+
+[voice:SELENE]
+[laughs] That's almost exactly what a tourist says.
+
+[voice:MIRA]
+For the record, those lights aren't ordinary station lamps. Their pulses are synchronized with the Dragon's navigation heartbeat.
+
+[voice:RAZACI]
+Confirmed. The station has recognized us, but not as a visiting ship. It recognizes a [emphasis]returning network.[/emphasis]
+
+[voice:GREEN DRAGON]
+Captain, I have detected five allied transponder signatures in the outer approach. Their configurations are related, but their hull markings are distinct.
+
+[voice:BRIAN]
+Put them on the forward screen!
+
+[voice:GREEN DRAGON]
+First contact: your orange Green Dragon. Second: Eric Chapman's yellow Wickery. Third: Mark Chapman's black Ghost Ship. Fourth: David Stevenson's white Viper 8. Fifth: Jon Chapman's red vessel. All five are accounted for.
+
+[voice:VESPER]
+Five ships. One rendezvous. No warning. Somebody planned a family reunion at the edge of the universe.
+
+[voice:LESLEY]
+Well, somebody had better have planned refreshments.
+
+[voice:AURORA]
+The formation is defensive. They're surrounding the approach corridor, not threatening us. Their combined shields are creating a passage through the station's interference.
+
+[voice:NYX]
+I don't like it. The Ghost Ship has almost no reflected signal. Mark could vanish in that shadow and nobody would know where he went.
+
+[voice:BRIAN]
+That's Mark's idea of making an entrance.
+
+[voice:TIRZAH]
+And Eric's yellow ship is impossible to miss.
+
+[voice:RHEA]
+Wickery is broadcasting a challenge beacon. Not a hostile one. More like he's saying, "Catch me if you can."
+
+[voice:BRIAN]
+[laughs] That sounds about right. But nobody races into an unknown station. Green Dragon, tell our ships to hold formation.
+
+[voice:GREEN DRAGON]
+Formation acknowledged. All five ships are maintaining position. Captain, the terminal is requesting an identity that is not stored in my current registry.
+
+[voice:BRIAN]
+Which identity?
+
+[voice:GREEN DRAGON]
+The request reads: [emphasis]WHO REMEMBERS THE FIRST ARRIVAL?[/emphasis]
+
+[voice:SELENE]
+That doesn't sound like a docking request.
+
+[voice:MIRA]
+It's a memory challenge. The station isn't asking for a password. It's testing whether we know what happened here.
+
+[voice:RAZACI]
+There is an old data structure buried underneath the transmission. The syntax predates our current systems. I have seen fragments of this architecture before, in the archives connected to the civilization engine.
+
+[voice:BRIAN]
+The old system that worked before the flood?
+
+[voice:RAZACI]
+A related system, yes. But this is a separate installation. We shouldn't assume every mystery has the same answer.
+
+[voice:TIRZAH]
+Thank you. An actual reasonable statement from the mysterious computer network.
+
+[voice:RAZACI]
+I treasure these rare moments of approval.
+
+[voice:LESLEY]
+[laughs] Put that in the ship's history book.
+
+[voice:VESPER]
+Captain, the terminal is powering up external docking arms. None of them are aimed at us. They're aimed at the five smaller ships.
+
+[voice:NYX]
+Or at five ships it was expecting a very long time ago.
+
+[voice:AURORA]
+Wait. The docking arms are displaying different colors. Orange, yellow, black, white, and red.
+
+[voice:BRIAN]
+It knows our formation.
+
+[voice:MIRA]
+Or the formation was designed to answer the station. The sequence is being treated like a five-part key.
+
+[voice:GREEN DRAGON]
+New message. [emphasis]FIVE ARRIVE. ELEVEN SPEAK. ONE DOOR OPENS.[/emphasis]
+
+[voice:RHEA]
+Eleven speak? That's our bridge voice roster.
+
+[voice:SELENE]
+Brian, Tirzah, Rhea, Selene, Mira, Razaci, Green Dragon, Vesper, Lesley, Aurora, and Nyx. Eleven.
+
+[voice:BRIAN]
+Then nobody adds a voice without permission. We have our crew. We keep our crew.
+
+[voice:TIRZAH]
+And we don't let an ancient machine tell us who we are.
+
+[voice:BRIAN]
+Exactly. We tell it.
+
+CHAPTER TWO — THE ELEVEN-VOICE KEY
+
+[voice:GREEN DRAGON]
+The terminal has opened a narrow communications channel. It is requesting an ordered response from all eleven active bridge stations.
+
+[voice:VESPER]
+I can isolate the channel. If it tries to reach our flight controls, I'll cut it.
+
+[voice:NYX]
+I'll watch for anything hiding behind the signal. The last thing we need is a secret door with a secret trap behind it.
+
+[voice:LESLEY]
+I'm going to make a radical suggestion. We could ask it politely what it wants.
+
+[voice:BRIAN]
+That's why we keep you around, Lesley.
+
+[voice:LESLEY]
+I thought it was because I know where the good coffee is.
+
+[voice:BRIAN]
+Both can be true!
+
+[voice:AURORA]
+I'm reading a dormant chamber behind the terminal's outer wall. It's not a weapons bay. It's a relay theater, a place built to preserve and play back a recorded event.
+
+[voice:MIRA]
+A memory theater. That would explain the challenge.
+
+[voice:RAZACI]
+I have reconstructed the first portion of the interface. It doesn't want eleven passwords. It wants eleven independent acknowledgments. A consensus, not a command.
+
+[voice:TIRZAH]
+That's better. Nobody should be able to open it alone.
+
+[voice:BRIAN]
+All right, crew. One at a time. Tell the terminal what you bring to this mission. No speeches. Well, maybe short speeches.
+
+[voice:RHEA]
+[laughs] You're asking the wrong crew for short speeches.
+
+[voice:BRIAN]
+I'll start. I bring responsibility for every person on this bridge and every ship outside it. No one gets left behind.
+
+[voice:TIRZAH]
+I bring the courage to question the captain when he's about to do something spectacularly foolish.
+
+[voice:BRIAN]
+That happens less often than you imply.
+
+[voice:TIRZAH]
+The record will speak for itself.
+
+[voice:RHEA]
+I bring observation. If there's a clue hidden in the noise, I'll find it.
+
+[voice:SELENE]
+I bring patience. We don't have to solve every mystery by charging straight into it.
+
+[voice:MIRA]
+I bring analysis. A pattern is not proof until we test it.
+
+[voice:RAZACI]
+I bring memory and the willingness to correct my own conclusions when the evidence changes.
+
+[voice:GREEN DRAGON]
+I bring navigation, protection, and a promise to keep my crew informed of every decision I can explain.
+
+[voice:VESPER]
+I bring defense. Nothing crosses this bridge without my knowing.
+
+[voice:LESLEY]
+I bring care. Ships are machines. Crews are people. Remember the difference.
+
+[voice:AURORA]
+I bring the light that makes the unseen visible, and the discipline not to mistake every shadow for an enemy.
+
+[voice:NYX]
+And I bring the ability to find the hidden exits. Every place has one. Even a place that claims it doesn't.
+
+[voice:GREEN DRAGON]
+Eleven acknowledgments received. The terminal has accepted the sequence.
+
+[voice:VESPER]
+Something's moving!
+
+[voice:NYX]
+Outer wall opening. No weapons signature.
+
+[voice:AURORA]
+The chamber is projecting a star map. Twenty-four points of light, arranged around a central empty space.
+
+[voice:SELENE]
+The Twenty-Four Worlds.
+
+[voice:MIRA]
+Not exactly. These are twenty-four possible routes. Some lead to worlds. Some lead to archives. Some terminate at places that haven't been charted.
+
+[voice:RAZACI]
+The central empty space is labeled [emphasis]THE CHOICE NOT YET MADE.[/emphasis]
+
+[voice:BRIAN]
+So the terminal isn't telling us where to go. It's giving us a choice.
+
+[voice:TIRZAH]
+Now that sounds like a door worth opening.
+
+CHAPTER THREE — THE TRANSMISSION THAT WASN'T LOST
+
+[voice:GREEN DRAGON]
+Captain, the terminal has begun playback of an archived message. Its timestamp is incomplete. We cannot verify who recorded it.
+
+[voice:BRIAN]
+Put it on the bridge display, but keep it isolated.
+
+[voice:MIRA]
+The message is mostly visual. Five silhouettes stand before a star map. The recording has no recoverable names.
+
+[voice:RHEA]
+Look at the five symbols below them. They match the five colors outside.
+
+[voice:SELENE]
+Then somebody used a similar formation here before us.
+
+[voice:RAZACI]
+Possibly. But similarity isn't identity. We should not claim this proves our ships were here in the past.
+
+[voice:NYX]
+There's a second layer. Something tucked into the dark pixels between the stars.
+
+[voice:AURORA]
+I'll increase the contrast. There! A small line of text.
+
+[voice:LESLEY]
+Read it aloud, please.
+
+[voice:AURORA]
+[emphasis]THE DOOR OPENS ONLY WHEN NO ONE IS LEFT OUT.[/emphasis]
+
+[voice:BRIAN]
+Well, that settles it. Five ships. Eleven voices. Everybody gets a place in the formation.
+
+[voice:TIRZAH]
+And nobody gets to be erased just because the story becomes complicated.
+
+[voice:VESPER]
+Captain, the five ships are receiving the same star map. They're holding steady, waiting for your signal.
+
+[voice:BRIAN]
+Tell them we're not entering the chamber today. We're saving the map, recording the coordinates, and going home together.
+
+[voice:RHEA]
+You're turning down a mysterious door?
+
+[voice:BRIAN]
+I'm choosing a crew over a shortcut.
+
+[voice:SELENE]
+That may be the most surprising thing that's happened all day.
+
+[voice:BRIAN]
+Don't get used to it.
+
+[voice:GREEN DRAGON]
+Data transfer complete. Twenty-four route markers archived. All five allied vessels remain secure.
+
+[voice:MIRA]
+I found one final detail. The central point of the map isn't a destination. It's a blank space where a new route can be written.
+
+[voice:RAZACI]
+Then the archive is unfinished by design.
+
+[voice:NYX]
+A secret that doesn't force us to solve it. I almost respect that.
+
+[voice:LESLEY]
+Good. Then we can all get some rest before the next emergency.
+
+[voice:VESPER]
+You realize saying that aloud usually causes the next emergency.
+
+[voice:LESLEY]
+I withdraw the statement!
+
+[voice:TIRZAH]
+[laughs] Too late.
+
+[voice:BRIAN]
+Bridge crew, prepare departure. Orange Green Dragon on point. Yellow Wickery to port. Black Ghost Ship to starboard. White Viper 8 behind us. Red vessel in the rear guard. Nobody breaks formation.
+
+[voice:AURORA]
+The five colors are reflecting across the terminal windows. It looks like the station is saying goodbye.
+
+[voice:SELENE]
+Or waiting for us to return.
+
+[voice:GREEN DRAGON]
+Captain, one last signal has appeared. It is addressed to the crew of the USS Dragon.
+
+[voice:BRIAN]
+Read it.
+
+[voice:GREEN DRAGON]
+[emphasis]YOU FOUND THE EASTER EGG. THE REAL ADVENTURE CONTINUES TOGETHER.[/emphasis]
+
+[voice:RHEA]
+[laughs] That's it? That's the great cosmic secret?
+
+[voice:MIRA]
+For this transmission, apparently.
+
+[voice:RAZACI]
+Not every discovery must threaten civilization.
+
+[voice:NYX]
+Speak for yourself. I was hoping for at least one dramatic explosion.
+
+[voice:VESPER]
+Denied.
+
+[voice:LESLEY]
+Good!
+
+[voice:TIRZAH]
+Brian, are you smiling?
+
+[voice:BRIAN]
+Of course I'm smiling. We came to the edge of the map, found a mystery, kept the team together, and nobody blew up the station.
+
+[voice:TIRZAH]
+That's a personal record.
+
+[voice:BRIAN]
+[emphasis]USS Dragon, all ships—let's go home![/emphasis]
+
+[voice:GREEN DRAGON]
+Course plotted. Formation confirmed. Eleven voices. Five ships. One crew.
+
+END OF EASTER EGG CHAPTER

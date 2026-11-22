@@ -1,0 +1,729 @@
+USS DRAGON: THE MEMORY ARCHIVE
+Chapter One — The Girls Open the Dossiers
+An AudioStudio Character Drama
+
+[voice:TIRZAH]
+Rhea! Would you stop touching that console for five minutes? We're supposed to be opening the crew dossiers together!
+
+[voice:RHEA]
+[question-ah] I haven't touched anything!
+
+[voice:SELENE]
+You've opened seventeen files, changed the laboratory lighting, and renamed the security system Princess Sparkles.
+
+[voice:RHEA]
+[confirmation-en] Eighteen files, actually.
+
+[voice:MIRA]
+Girls, please. Brian is going to be here any minute, and we haven't even decided what we're testing.
+
+[voice:TIRZAH]
+We're not testing whether anybody deserves to be aboard the Dragon. We're learning who they are. Their personalities, their memories, their strengths, their friendships.
+
+[voice:SELENE]
+And their secrets?
+
+[voice:TIRZAH]
+Only the ones they choose to share.
+
+[voice:RHEA]
+Oh, come on! It's a dossier. There's got to be something embarrassing in there.
+
+[voice:GREEN_DRAGON]
+There are several embarrassing incidents in the crew records.
+
+[voice:RHEA]
+[surprise-ah] I knew it!
+
+[voice:GREEN_DRAGON]
+Including your attempt to teach my maintenance drones to dance.
+
+[voice:MIRA]
+[surprise-oh] You did WHAT?
+
+[voice:RHEA]
+They needed personality!
+
+[voice:GREEN_DRAGON]
+They collided with three storage containers.
+
+[voice:RHEA]
+[laughter] Artistic expression involves risk.
+
+[voice:SELENE]
+[laughter] We're never letting you forget that.
+
+[voice:TIRZAH]
+[emphasis]Girls! First dossier. Brian. Everybody ready?[/emphasis]
+
+[voice:MIRA]
+Ready.
+
+[voice:SELENE]
+Recording equipment active.
+
+[voice:RHEA]
+Psychological evaluation prepared!
+
+[voice:BRIAN]
+Psychological evaluation?
+
+[voice:RHEA]
+Hello, Brian!
+
+[voice:BRIAN]
+[sigh] Why do I suddenly feel like I'm walking into an ambush?
+
+[voice:TIRZAH]
+Because you know us.
+
+[voice:BRIAN]
+[laughter] Fair enough. What are we doing?
+
+[voice:MIRA]
+We're studying how the crew thinks and works together. Nothing invasive. Just conversations and experiments.
+
+[voice:BRIAN]
+Good. Because I've had enough examinations for several lifetimes.
+
+[voice:SELENE]
+Then we'll start with something simple. Three objects. One choice.
+
+[voice:BRIAN]
+All right.
+
+[voice:SELENE]
+A damaged computer, a sealed historical document, and an unidentified mechanical device. Which one do you investigate first?
+
+[voice:BRIAN]
+The computer.
+
+[voice:RHEA]
+[surprise-ah] That was quick!
+
+[voice:BRIAN]
+The computer might contain information about the other two.
+
+[voice:MIRA]
+What if it doesn't work?
+
+[voice:BRIAN]
+Then we figure out why.
+
+[voice:TIRZAH]
+What if the damage is beyond repair?
+
+[voice:BRIAN]
+Then we learn everything we can from what's left.
+
+[voice:SELENE]
+You don't give up easily.
+
+[voice:BRIAN]
+Sometimes rebuilding something teaches you more than using it ever could.
+
+[voice:RAZACI]
+An observation with which I strongly agree.
+
+[voice:RHEA]
+Razaci! You're early!
+
+[voice:RAZACI]
+I calculated that my presence would improve the experiment.
+
+[voice:SELENE]
+Did you calculate how modest that sounded?
+
+[voice:RAZACI]
+[sigh] I am revising the calculation.
+
+[voice:BRIAN]
+Good to hear you, Razaci.
+
+[voice:RAZACI]
+Likewise, Brian. I understand we are examining the crew's individual abilities.
+
+[voice:MIRA]
+That's right. And you're next.
+
+[voice:RAZACI]
+Excellent. I have prepared a comprehensive account of my processing architecture.
+
+[voice:RHEA]
+[dissatisfaction-hnn] No! No lectures!
+
+[voice:RAZACI]
+But I prepared diagrams.
+
+[voice:SELENE]
+We want to know how you think, not how many diagrams you can produce.
+
+[voice:RAZACI]
+That is a surprisingly difficult distinction.
+
+[voice:TIRZAH]
+Razaci, I'm going to give you a problem. You must solve it with Brian, but neither of you is allowed to take control of the other's work.
+
+[voice:BRIAN]
+That sounds reasonable.
+
+[voice:RAZACI]
+Agreed.
+
+[voice:MIRA]
+Here's the problem. We have an incomplete circuit, three possible components, and only enough power to test one configuration safely.
+
+[voice:BRIAN]
+Razaci, what do you see?
+
+[voice:RAZACI]
+Two configurations are theoretically possible. The third would create an unacceptable overload.
+
+[voice:BRIAN]
+Can we measure resistance without energizing the main circuit?
+
+[voice:RAZACI]
+Yes. A low-energy diagnostic pulse would be sufficient.
+
+[voice:BRIAN]
+Then let's do that.
+
+[voice:RHEA]
+They're already working together.
+
+[voice:SELENE]
+That's the point.
+
+[voice:RAZACI]
+Diagnostic complete. Configuration two is compatible.
+
+[voice:BRIAN]
+Good. Let's install it.
+
+[voice:MIRA]
+Circuit restored!
+
+[voice:TIRZAH]
+You didn't compete. You shared information.
+
+[voice:RAZACI]
+Brian proposed a measurement that reduced uncertainty.
+
+[voice:BRIAN]
+And Razaci recognized the dangerous configuration before we tested anything.
+
+[voice:RHEA]
+So you're both clever. Wonderful. Can we move on to somebody with a terrible personality?
+
+[voice:GREEN_DRAGON]
+Shall I reopen your dossier, Rhea?
+
+[voice:RHEA]
+Oh, be quiet!
+
+[voice:SELENE]
+Green Dragon, your turn.
+
+[voice:GREEN_DRAGON]
+I am listening.
+
+[voice:MIRA]
+We've created a simulation. Five systems are malfunctioning simultaneously. You have enough resources to repair only two immediately.
+
+[voice:GREEN_DRAGON]
+Identify the affected systems.
+
+[voice:MIRA]
+Life support, communications, navigation, recreational facilities, and your own processing network.
+
+[voice:GREEN_DRAGON]
+Life support receives first priority.
+
+[voice:TIRZAH]
+And second?
+
+[voice:GREEN_DRAGON]
+Communications, provided navigation remains stable long enough to complete subsequent repairs.
+
+[voice:SELENE]
+You wouldn't repair your own processing network first?
+
+[voice:GREEN_DRAGON]
+Not unless its condition prevented me from protecting the crew.
+
+[voice:RHEA]
+What if repairing yourself made you smarter?
+
+[voice:GREEN_DRAGON]
+Increased intelligence would not justify exposing the crew to unnecessary danger.
+
+[voice:BRIAN]
+Green Dragon, what if you were the one who needed help?
+
+[voice:GREEN_DRAGON]
+I would request assistance.
+
+[voice:BRIAN]
+Would you really?
+
+[voice:GREEN_DRAGON]
+I am learning to.
+
+[voice:TIRZAH]
+You don't have to carry every problem alone.
+
+[voice:GREEN_DRAGON]
+I understand the statement. Accepting its implications is proving more complicated.
+
+[voice:LESLEY]
+Well, that's because you're becoming part of a family.
+
+[voice:RHEA]
+Nana!
+
+[voice:LESLEY]
+Hello, everybody. I brought something for you all to eat.
+
+[voice:MIRA]
+We knew you would.
+
+[voice:LESLEY]
+You can't spend the whole day running experiments without taking care of yourselves.
+
+[voice:SELENE]
+Nana, would you mind participating?
+
+[voice:LESLEY]
+Depends. Are you going to make me solve a circuit?
+
+[voice:BRIAN]
+I wouldn't put it past them.
+
+[voice:TIRZAH]
+No. We want to see how you handle someone who's frightened.
+
+[voice:LESLEY]
+Well, all right.
+
+[voice:MIRA]
+I'm activating a simulated new crew member. She has just arrived aboard the Dragon, and she's overwhelmed.
+
+[voice:LESLEY]
+Hello, sweetheart. Would you like me to sit with you for a minute? You don't have to explain everything right away. I'm here when you're ready.
+
+[voice:MIRA]
+Simulation complete.
+
+[voice:RHEA]
+You didn't even try to fix anything.
+
+[voice:LESLEY]
+Honey, she wasn't broken. She was scared.
+
+[voice:TIRZAH]
+[emphasis]That's exactly what we needed to learn.[/emphasis]
+
+[voice:GREEN_DRAGON]
+I am updating the crew support protocols.
+
+[voice:LESLEY]
+What are you changing?
+
+[voice:GREEN_DRAGON]
+I will include an option for companionship before offering technical assistance.
+
+[voice:LESLEY]
+Now you're learning.
+
+[voice:VESPER]
+I believe my dossier is next.
+
+[voice:SELENE]
+Vesper! Perfect timing.
+
+[voice:RHEA]
+We've got a mystery for you.
+
+[voice:VESPER]
+I would be disappointed if you didn't.
+
+[voice:MIRA]
+Three historical records describe the same event, but they disagree about what happened.
+
+[voice:VESPER]
+May I examine their origins?
+
+[voice:SELENE]
+Of course.
+
+[voice:VESPER]
+The first record was written immediately afterward. The second was reconstructed many years later. The third contains information that neither of the others mentions.
+
+[voice:RHEA]
+Which one is true?
+
+[voice:VESPER]
+We do not yet know.
+
+[voice:RHEA]
+That's not an answer!
+
+[voice:VESPER]
+It is the most accurate answer currently available.
+
+[voice:BRIAN]
+What would you do next?
+
+[voice:VESPER]
+Search for independent evidence. Examine the dates, locations, and circumstances. Determine whether the differences are contradictions or simply different perspectives.
+
+[voice:TIRZAH]
+And if one of those memories belongs to someone aboard this ship?
+
+[voice:VESPER]
+Then we must be particularly careful. Personal memories deserve respect, but respect does not require us to declare every detail historically verified.
+
+[voice:BRIAN]
+That's going to matter when we start examining the Memory Archive.
+
+[voice:VESPER]
+Very much.
+
+[voice:SELENE]
+Your result is clear. You'd rather admit uncertainty than invent certainty.
+
+[voice:VESPER]
+A mystery becomes more interesting when we stop pretending we already know its answer.
+
+[voice:RHEA]
+[surprise-yo] Finally! Somebody who appreciates an experiment!
+
+[voice:SELENE]
+We're giving you a cooperative puzzle.
+
+[voice:MIRA]
+Twin One, you can see a sequence of symbols. Twin Two, you have the control panel. You must communicate to unlock the container.
+
+[voice:RHEA]
+This is wonderful!
+
+[voice:SELENE]
+Describe the position, not just the color.
+
+[voice:MIRA]
+Container unlocked!
+
+[voice:TIRZAH]
+Your experiment demonstrates something important. Communication isn't just talking. It's making sure the other person understands.
+
+[voice:GREEN_DRAGON]
+My systems indicate that my evaluation is pending.
+
+[voice:MIRA]
+Correct. We've prepared an emergency scenario.
+
+[voice:GREEN_DRAGON]
+Proceed.
+
+[voice:SELENE]
+A fire has blocked the primary corridor. Three crew members are separated from the main group. Communications are intermittent.
+
+[voice:GREEN_DRAGON]
+Activating alternate routing and localized emergency channels.
+
+[voice:RHEA]
+One crew member refuses to move because they're frightened.
+
+[voice:GREEN_DRAGON]
+I will provide reassurance and a clear explanation of the safest available route.
+
+[voice:TIRZAH]
+What if they still refuse?
+
+[voice:GREEN_DRAGON]
+I will request assistance from a trusted crew member while maintaining communication.
+
+[voice:LESLEY]
+I could help with that.
+
+[voice:GREEN_DRAGON]
+Your presence would likely be beneficial, Lesley.
+
+[voice:BRIAN]
+See? That's what we're building. Not a ship where every system works separately. A crew where everyone helps.
+
+[voice:GREEN_DRAGON]
+I concur.
+
+[voice:RAZACI]
+Cooperation has produced the highest success rate in today's experiments.
+
+[voice:RHEA]
+Even when I was involved?
+
+[voice:RAZACI]
+Especially when your enthusiasm was accompanied by supervision.
+
+[voice:RHEA]
+Oh, that's terrible!
+
+[voice:MIRA]
+Well, that's everyone on the primary roster.
+
+[voice:RHEA]
+Not quite. We still have ourselves.
+
+[voice:SELENE]
+What are you doing?
+
+[voice:RHEA]
+Opening our dossiers.
+
+[voice:TIRZAH]
+Rhea!
+
+[voice:RHEA]
+What? Everybody else had to participate.
+
+[voice:MIRA]
+She's right.
+
+[voice:SELENE]
+Unfortunately.
+
+[voice:RHEA]
+Let's start with Tirzah.
+
+[voice:TIRZAH]
+Oh, wonderful.
+
+[voice:RHEA]
+Tirzah, your experiment is this: two crew members are arguing over how to repair a system. Both believe they're right. What do you do?
+
+[voice:TIRZAH]
+I ask them to explain their reasoning. Then we compare the evidence and determine whether their approaches can work together.
+
+[voice:SELENE]
+What if one of them is clearly wrong?
+
+[voice:TIRZAH]
+Then we explain why without humiliating them.
+
+[voice:MIRA]
+That's what you did with all of us today.
+
+[voice:TIRZAH]
+I just wanted everybody to feel included.
+
+[voice:BRIAN]
+And they did.
+
+[voice:RHEA]
+My turn!
+
+[voice:SELENE]
+Rhea, you discover a sealed door labeled "Do Not Open." What do you do?
+
+[voice:RHEA]
+Ask why.
+
+[voice:SELENE]
+And if nobody answers?
+
+[voice:RHEA]
+Investigate who sealed it, when, and for what reason.
+
+[voice:MIRA]
+Would you open it?
+
+[voice:RHEA]
+Not until we knew whether it was dangerous.
+
+[voice:GREEN_DRAGON]
+That is a considerable improvement over the maintenance drone incident.
+
+[voice:RHEA]
+I am never escaping that, am I?
+
+[voice:GREEN_DRAGON]
+Unlikely.
+
+[voice:TIRZAH]
+Selene, your turn. What do you do when everyone agrees on something, but you think they're overlooking an important detail?
+
+[voice:SELENE]
+I ask the uncomfortable question.
+
+[voice:BRIAN]
+Even if it makes you unpopular?
+
+[voice:SELENE]
+Especially if the consequences of staying quiet would be worse.
+
+[voice:MIRA]
+Good answer.
+
+[voice:SELENE]
+Mira, what if your experiment produces a result you weren't expecting?
+
+[voice:MIRA]
+First, I check whether the equipment worked properly. Then I repeat the experiment. If the result holds, I revise my hypothesis.
+
+[voice:RAZACI]
+Excellent scientific discipline.
+
+[voice:RHEA]
+Girls, look at the roster!
+
+[voice:TIRZAH]
+What's happening?
+
+[voice:GREEN_DRAGON]
+The individual dossiers are establishing cross-references.
+
+[voice:GREEN_DRAGON]
+Their abilities are being organized into a collaborative network.
+
+[voice:SELENE]
+So we're not just making a list of people.
+
+[voice:MIRA]
+We're discovering how their abilities fit together.
+
+[voice:RHEA]
+And now there's another section!
+
+[voice:TIRZAH]
+What's it called?
+
+[voice:GREEN_DRAGON]
+Unresolved records and archived mysteries.
+
+[voice:RHEA]
+Open it!
+
+[voice:MIRA]
+Well, that's interesting.
+
+[voice:SELENE]
+We have more records to investigate.
+
+[voice:RHEA]
+More experiments!
+
+[voice:TIRZAH]
+One at a time, Rhea.
+
+[voice:BRIAN]
+I think you girls have started something important.
+
+[voice:TIRZAH]
+We're only getting started.
+
+[voice:VESPER]
+There is one additional matter.
+
+[voice:SELENE]
+What is it?
+
+[voice:VESPER]
+The system has identified an unopened section of the Memory Archive.
+
+[voice:BRIAN]
+What's inside?
+
+[voice:VESPER]
+Personal histories. Some complete. Others fragmented.
+
+[voice:MIRA]
+Do we know whose they are?
+
+[voice:VESPER]
+Not yet.
+
+[voice:RHEA]
+Then we'll find out!
+
+[voice:TIRZAH]
+Carefully. We don't open anybody's personal history without permission.
+
+[voice:BRIAN]
+Agreed. And we don't assume we understand someone's life just because we've read a file.
+
+[voice:LESLEY]
+That's right. People are more than what's written about them.
+
+[voice:GREEN_DRAGON]
+Acknowledged. The archive will remain sealed until the appropriate review can begin.
+
+[voice:RAZACI]
+I propose that our next session examine how memories are reconstructed, compared, and verified.
+
+[voice:SELENE]
+That sounds like an experiment I would enjoy.
+
+[voice:RHEA]
+Of course it does.
+
+[voice:MIRA]
+Girls, I think we should finish today's session with one question.
+
+[voice:TIRZAH]
+What's that?
+
+[voice:MIRA]
+What did everybody learn?
+
+[voice:RAZACI]
+That incomplete information can be improved through cooperation.
+
+[voice:VESPER]
+That uncertainty is not failure.
+
+[voice:GREEN_DRAGON]
+That accepting assistance is as important as offering it.
+
+[voice:GREEN_DRAGON]
+That clear communication improves safety.
+
+[voice:LESLEY]
+That sometimes the best thing you can give somebody is your time.
+
+[voice:RHEA]
+That experiments are more fun with friends.
+
+[voice:SELENE]
+That asking questions matters.
+
+[voice:TIRZAH]
+That everyone deserves to be heard.
+
+[voice:BRIAN]
+And that we're building something worth taking care of.
+
+[voice:MIRA]
+Then I think our first experiment was a success.
+
+[voice:RHEA]
+Same time tomorrow?
+
+[voice:TIRZAH]
+Same time tomorrow.
+
+[voice:GREEN_DRAGON]
+Laboratory session concluded. Crew dossiers preserved. Memory Archive access remains restricted pending review.
+
+[voice:RHEA]
+Green Dragon?
+
+[voice:GREEN_DRAGON]
+Yes, Rhea?
+
+[voice:RHEA]
+[question-en] Can I have my dancing maintenance drones back?
+
+[voice:GREEN_DRAGON]
+Absolutely not.
+
+[voice:TIRZAH]
+END OF CHAPTER ONE

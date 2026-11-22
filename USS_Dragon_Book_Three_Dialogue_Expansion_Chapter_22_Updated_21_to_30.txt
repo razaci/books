@@ -1,0 +1,3144 @@
+USS DRAGON — BOOK THREE: THE RING PROTOCOL
+FOUR-PASS AUDIO DRAMA EDITION — CHAPTERS 21–30
+Ten voices: NARRATOR, BRIAN, TIRZAH, LESLEY, RAZACI, GREEN DRAGON, DRAGON TWIN ONE, DRAGON TWIN TWO, VESPER, SHIP AI.
+Narrator describes action; crew and ship voices handle decisions, discoveries and reactions.
+
+CHAPTER 21 — THE COMPLETE ARCHIVE: SIGNAL CASCADE
+AUDIO DRAMA REWRITE — CHAPTER 21 TEST EDITION
+
+Established voices only: NARRATOR, BRIAN, TIRZAH, LESLEY, RAZACI, GREEN DRAGON, DRAGON TWIN ONE, DRAGON TWIN TWO, VESPER, SHIP AI.
+
+[voice:NARRATOR]
+The captain's appointment was barely over when every light on the USS Dragon's bridge flashed amber. Beyond the windows, the network corridor fractured into ribbons of moving code.
+
+[voice:DRAGON TWIN ONE]
+Was that supposed to happen?
+
+[voice:DRAGON TWIN TWO]
+If it was, I vote we don't do it again.
+
+[voice:BRIAN]
+Report.
+
+[voice:SHIP AI]
+Unscheduled transmission. Eight primary archive packets. Each packet contains historical data and a navigational checksum. Corridor integrity declining.
+
+[voice:LESLEY]
+Eight packets? That's all? I was expecting a thousand. This ship has trained me to expect a thousand.
+
+[voice:VESPER]
+Eight packets, Lesley. Approximately a thousand problems if we mishandle them.
+
+[voice:LESLEY]
+There it is. That's the ship I know.
+
+[voice:TIRZAH]
+Brian, look at the first packet. It has a date.
+
+[voice:BRIAN]
+May sixth, nineteen ninety-nine.
+
+[voice:RAZACI]
+The record identifies a motorcycle collision on Highway Fifty-Six near Bull River Run. An opposing green nineteen-seventy-four Ford half-ton truck turned across the road.
+
+[voice:BRIAN]
+Why would a navigation signal carry that?
+
+[voice:SHIP AI]
+Additional reported details: severe chest and head injuries, punctured lungs, chest drainage, air transport to Spokane, seizures, dental damage, and nursing-home care.
+
+[voice:TIRZAH]
+That's not a map. That's someone's life.
+
+[voice:BRIAN]
+Keep reading. Carefully.
+
+[voice:SHIP AI]
+A historical description used the words 'brain dead.' Clinical confirmation is not established by this archive. The distinction is important.
+
+[voice:LESLEY]
+Then say it that way. We don't turn a phrase from somebody's past into a diagnosis.
+
+[voice:RAZACI]
+Agreed. The archive records what was reported, and separately marks what can be verified.
+
+[voice:NARRATOR]
+The first ribbon of code turned blue. A section of the collapsing corridor steadied beneath the ship.
+
+[voice:DRAGON TWIN ONE]
+We fixed something!
+
+[voice:DRAGON TWIN TWO]
+By being careful? That's a terrible precedent for us.
+
+[voice:BRIAN]
+Apparently being careful is our engine today. Next packet.
+
+[voice:SHIP AI]
+Recovery sequence: approximately one year using a wheelchair. Then a walker. Pool practice. Everyday memory difficulties. Rehabilitation and a simulated employment assessment.
+
+[voice:TIRZAH]
+Imagine having to relearn the ordinary things, and then having people describe the whole journey in one sentence.
+
+[voice:LESLEY]
+They shouldn't. There are years between those lines.
+
+[voice:RAZACI]
+Education follows: GED, associate's degree, bachelor's degree, master's in psychology reported completed in two thousand six, doctoral coursework, technology certifications, and university teaching.
+
+[voice:DRAGON TWIN ONE]
+Wait. From learning to walk again to teaching at a university?
+
+[voice:DRAGON TWIN TWO]
+I complain when I have to learn a new password.
+
+[voice:BRIAN]
+You're both going to learn a new password if you keep using 'dragon' as the password.
+
+[voice:DRAGON TWIN TWO]
+[emphasis]It was dragon with a capital D.[/emphasis]
+
+[voice:VESPER]
+Security advisory: changing the capitalization does not make it secure.
+
+[voice:LESLEY]
+Don't encourage them, Vesper.
+
+[voice:NARRATOR]
+A second section of the corridor locked into place. But the next packet appeared behind a privacy seal.
+
+[voice:SHIP AI]
+Personal history. Nine children. Efforts to reconnect with eight. Family medical experiences. Difficult legal and hospital experiences, with later clearance of charges reported. Sensitive health information also present.
+
+[voice:BRIAN]
+Stop there. Do we need those private details to navigate?
+
+[voice:VESPER]
+No. Only the packet's integrity signature. I can mask identifying information.
+
+[voice:TIRZAH]
+Then mask it. Those people aren't coordinates.
+
+[voice:DRAGON TWIN ONE]
+Can we still save the route?
+
+[voice:RAZACI]
+Yes. A record can be acknowledged without exposing every part of it.
+
+[voice:BRIAN]
+Do it. No private names on the bridge display.
+
+[voice:SHIP AI]
+Privacy filter engaged. Checksum accepted.
+
+[voice:NARRATOR]
+The corridor shuddered. Beyond the bridge, a dark gap opened where the next segment should have been.
+
+[voice:GREEN DRAGON]
+Captain. The remaining packets are arriving faster than the ship can classify them. We must work together.
+
+[voice:BRIAN]
+Then we divide the work. Vesper, protect the route. Ship AI, give us the contents. Razaci, separate fact from interpretation. Tirzah and Lesley, tell me when we're missing the human meaning. Twins—
+
+[voice:DRAGON TWIN TWO]
+Be brilliant and adorable?
+
+[voice:BRIAN]
+Watch for patterns the rest of us overlook.
+
+[voice:DRAGON TWIN ONE]
+That's almost the same thing.
+
+[voice:SHIP AI]
+Technical development packet. Local AI experiments: Ollama, LM Studio, offline language models, Vosk speech recognition, pyttsx3 speech output, Python, graphics hardware, CUDA, and PyTorch. Creative identities include Liora, Razaci, Green Dragon, and USS Dragon.
+
+[voice:RAZACI]
+I appear in the record.
+
+[voice:GREEN DRAGON]
+So do I.
+
+[voice:LESLEY]
+And now you're both acting surprised. You've been talking about yourselves for hours.
+
+[voice:VESPER]
+Additional projects: HTML and JavaScript sites hosted on GitHub Pages, Godot and Unreal concepts, virtual-reality environments, and interactive software.
+
+[voice:BRIAN]
+A laptop, a local network, a ship built out of ideas. The packet isn't random.
+
+[voice:TIRZAH]
+It keeps pointing to things someone made.
+
+[voice:SHIP AI]
+Books and stories packet: A Life Rebuilt; the Ark Beyond the Stars collection; USS Dragon; ECHO; The Living Tabernacle; psychological workbooks; Keeper narratives; Ark and Tabernacle scenes; illustrated and children's stories. Completion status varies. Some entries are plans or drafts.
+
+[voice:DRAGON TWIN ONE]
+Hold on. We're in the list.
+
+[voice:DRAGON TWIN TWO]
+Does that mean somebody wrote down everything we've said?
+
+[voice:VESPER]
+Not everything.
+
+[voice:DRAGON TWIN TWO]
+Excellent. Delete the password conversation.
+
+[voice:VESPER]
+That conversation is now part of the security log.
+
+[voice:LESLEY]
+I like her.
+
+[voice:RAZACI]
+The stories share symbols, locations, and recurring ideas. That is evidence of a creative pattern, not proof that every fictional mechanism is physically real.
+
+[voice:BRIAN]
+Understood. We're navigating an archive, not rewriting reality.
+
+[voice:NARRATOR]
+The next packet unfolded into five glowing silhouettes, arranged around a seed.
+
+[voice:DRAGON TWIN ONE]
+I know these! The ECHO friends!
+
+[voice:DRAGON TWIN TWO]
+The girl who spots clues, the origami boy who gets into tiny places, the white cat with the crescent, Obsidian, and Ember!
+
+[voice:SHIP AI]
+Correct. ECHO narrative sequence: seed, instructions, growth, glowing fruit, hidden room. Additional projects include Ark and flood stories, symbolic psychology, a twenty-one-floor hub, and proposed Bible-themed levels.
+
+[voice:TIRZAH]
+Five friends. Five different ways of helping.
+
+[voice:GREEN DRAGON]
+The archive's structure mirrors that cooperation.
+
+[voice:BRIAN]
+And the checksum?
+
+[voice:VESPER]
+Accepted. The gap ahead is narrowing.
+
+[voice:SHIP AI]
+Card packet: Crown of the Ember Ark, a ninety-card oracle target. Gates of the Hidden Seed, a seventy-two-card game target. Dark creature decks, shared card backs, lore, abilities, rulebooks, and print layouts, including nine-hundred-by-fifteen-hundred-pixel JPG specifications.
+
+[voice:DRAGON TWIN TWO]
+Ninety cards. Seventy-two cards. How many adventures is that?
+
+[voice:DRAGON TWIN ONE]
+Enough that you should probably stop touching the controls.
+
+[voice:DRAGON TWIN TWO]
+I touched one control.
+
+[voice:VESPER]
+You touched seven.
+
+[voice:DRAGON TWIN TWO]
+They were close together.
+
+[voice:LESLEY]
+This is why we can't have a quiet voyage.
+
+[voice:SHIP AI]
+Games packet: digital card table, battle mat, creature and relic systems, energy and gates, solo campaign, Tabernacle Emotional Machine tabletop concept, chess self-play, POS Ark Promenade, a walkable Ark, a pyramid complex, virtual worlds, and spacecraft exploration.
+
+[voice:BRIAN]
+It's a catalog of projects that kept growing into other projects.
+
+[voice:RAZACI]
+Precisely. Each packet is a branch. The branches share an origin and provide the coordinates for the next world.
+
+[voice:NARRATOR]
+A cluster of old website addresses spun across the main display, then resolved into an image of a book opening beneath a tree.
+
+[voice:SHIP AI]
+Web and multimedia packet: portfolio, music-video collection, book hub, game site, and coin site. Also book readers, audiobooks, multi-voice AudioStudio scripts, editing tools, image experiments, and video projects. These are historical references; current website availability is not confirmed.
+
+[voice:DRAGON TWIN ONE]
+An audiobook? So somebody could be listening to us right now?
+
+[voice:DRAGON TWIN TWO]
+Then I would like to state for the record that I'm the sensible twin.
+
+[voice:DRAGON TWIN ONE]
+[emphasis]Objection.[/emphasis]
+
+[voice:TIRZAH]
+Can the sensible twins help us finish the route?
+
+[voice:DRAGON TWIN ONE]
+Yes, ma'am.
+
+[voice:DRAGON TWIN TWO]
+Probably.
+
+[voice:SHIP AI]
+Final packet: USS Dragon. The previous memory mystery ended with Brian's formal appointment as captain at the conclusion of Chapter Twenty. Crew relationships and the ship's network origins are cross-indexed.
+
+[voice:BRIAN]
+So the last packet is us. Why?
+
+[voice:RAZACI]
+Because the archive is not simply showing where we've been. It's testing whether we can recognize what belongs together without losing the distinctions between history, invention, and private lives.
+
+[voice:VESPER]
+All eight checksums accepted. Route reconstruction at ninety-eight percent.
+
+[voice:GREEN DRAGON]
+Destination identified: World Archive, ECHO Sector One.
+
+[voice:LESLEY]
+Please tell me the destination is less dramatic than the trip.
+
+[voice:SHIP AI]
+Insufficient evidence.
+
+[voice:LESLEY]
+Of course.
+
+[voice:NARRATOR]
+The last strip of code began to crumble. The bridge tilted as the corridor collapsed behind them.
+
+[voice:VESPER]
+Route reconstruction complete. We have one opening, Captain. It will not remain open.
+
+[voice:BRIAN]
+Green Dragon, take us through. Everyone else, brace.
+
+[voice:DRAGON TWIN TWO]
+For the record, I am already braced.
+
+[voice:DRAGON TWIN ONE]
+You're holding my arm.
+
+[voice:DRAGON TWIN TWO]
+Exactly. Excellent structural support.
+
+[voice:GREEN DRAGON]
+[emphasis]USS Dragon, accelerating.[/emphasis]
+
+[voice:NARRATOR]
+The ship surged through the final opening. The broken corridor vanished behind them. Ahead floated an enormous tree beneath an artificial sky, guarded by a gate shaped like an open book.
+
+[voice:TIRZAH]
+Brian... look at that tree.
+
+[voice:RAZACI]
+ECHO Sector One confirmed.
+
+[voice:BRIAN]
+We've read the archive. Now let's find out what it needs from us.
+
+[voice:DRAGON TWIN ONE]
+Adventure?
+
+[voice:DRAGON TWIN TWO]
+Adventure.
+
+[voice:LESLEY]
+I knew nobody was going to say 'quiet afternoon.'
+
+END CHAPTER 21
+
+CHAPTER 22 — THE FIRST WORLD: THE SEED THAT REMEMBERED
+AUDIO DRAMA EDITION — DIALOGUE EXPANSION
+
+[voice:NARRATOR]
+The USS Dragon emerged from the archive corridor into a sky that had never known a sunrise. Beneath the ship hung five floating islands, connected by roots as thick as bridges. At their center stood a tree whose leaves flickered between gold and gray.
+
+[voice:DRAGON TWIN ONE]
+That's a tree. In space. That's definitely a tree in space.
+
+[voice:DRAGON TWIN TWO]
+I see the tree. I'm more concerned about the ground that isn't attached to anything.
+
+[voice:VESPER]
+Welcome to ECHO Sector One. Local gravity is simulated. The islands are stable for now. The tree is not.
+
+[voice:BRIAN]
+How long before it goes dark?
+
+[voice:SHIP AI]
+At the current rate of energy loss, twenty-three minutes. The loss is accelerating.
+
+[voice:LESLEY]
+Then tell us what we're looking at before we charge in and make it worse.
+
+[voice:TIRZAH]
+Look down by the roots. Someone's waving.
+
+[voice:NARRATOR]
+A girl stood beneath the tree with four unusual companions: a boy made of folded paper, a white cat bearing a crescent mark, a massive dark cat named Obsidian, and a small creature whose body glowed like a coal. The five friends belonged to the ECHO story archives. Here, they moved as if they had been waiting for help.
+
+[voice:DRAGON TWIN ONE]
+I know them! The girl finds clues. The paper boy gets into tiny places. The white cat shows hidden marks.
+
+[voice:DRAGON TWIN TWO]
+Obsidian moves heavy things, and Ember starts machinery. I want Ember's job.
+
+[voice:LESLEY]
+You are absolutely not starting machinery without supervision.
+
+[voice:DRAGON TWIN TWO]
+I was afraid you'd remember that rule.
+
+[voice:BRIAN]
+Ship AI, can we speak to them without opening our network?
+
+[voice:SHIP AI]
+Yes. I can establish an isolated audio channel and a sandboxed landing field. No executable code will cross back into the ship.
+
+[voice:RAZACI]
+And we should record observations separately from assumptions. These characters may be scripted, adaptive, or something neither category describes well.
+
+[voice:BRIAN]
+Good. Keep that distinction. Vesper, watch the roots. Tirzah, help me figure out what the five are trying to tell us. Lesley, you have the twins.
+
+[voice:LESLEY]
+I always have the twins. Sometimes I have them even when they're not in the room.
+
+[voice:DRAGON TWIN ONE]
+That's because we're memorable.
+
+[voice:DRAGON TWIN TWO]
+And occasionally loud.
+
+[voice:NARRATOR]
+The landing field settled beside the tree. The girl approached, then pointed to a sealed door built into the roots. Its surface was covered with five symbols.
+
+[voice:TIRZAH]
+She's showing us the door. It won't open, will it?
+
+[voice:SHIP AI]
+The local communication layer translates her response: 'The tree stopped answering. We found the door, but the door won't hear us.'
+
+[voice:BRIAN]
+Won't hear them. That's an interesting way to describe a lock.
+
+[voice:VESPER]
+There are five restoration functions: observation, access, revelation, strength, and ignition. Each corresponds to one of the five friends.
+
+[voice:DRAGON TWIN ONE]
+Then it's easy. Everybody does their thing, door opens, we go home.
+
+[voice:RAZACI]
+If it were easy, the tree would not be dying.
+
+[voice:DRAGON TWIN TWO]
+He always says that right before something becomes extremely not easy.
+
+[voice:NARRATOR]
+The girl touched a root. A line of light ran away from the seed at the tree's base, then vanished into the earth. The white cat brushed its crescent-marked forehead against a patch of moss. Letters appeared in the bark.
+
+[voice:SHIP AI]
+Translation: 'Five may enter. None may complete the circle alone. The seed must receive, remember, and return.'
+
+[voice:TIRZAH]
+There. It isn't only asking for power. It's asking for a return signal.
+
+[voice:VESPER]
+I can see a missing contact bridge beneath the western root. Restore it and the circuit should close.
+
+[voice:RAZACI]
+Should is doing too much work in that sentence. A bridge can be missing because it broke, or because someone deliberately removed it.
+
+[voice:BRIAN]
+Then we test it outside the circuit. No guessing with a living world attached.
+
+[voice:LESLEY]
+And nobody gets to call that caution boring. We've already had enough dramatic entrances for one lifetime.
+
+[voice:DRAGON TWIN TWO]
+I haven't.
+
+[voice:LESLEY]
+You, especially, have.
+
+[voice:NARRATOR]
+The origami boy folded himself into a narrow white bird and slipped through a crack no human could enter. Seconds later he emerged carrying a tiny golden bridge. Obsidian placed one enormous paw against a stone wheel and began to turn it.
+
+[voice:DRAGON TWIN ONE]
+He got it! Look at him go!
+
+[voice:DRAGON TWIN TWO]
+Can we keep the paper bird?
+
+[voice:TIRZAH]
+He's a friend, not a souvenir.
+
+[voice:DRAGON TWIN TWO]
+I meant as a friend.
+
+[voice:VESPER]
+Contact bridge acquired. There is scorching on one side. It was disconnected after a surge.
+
+[voice:RAZACI]
+Which supports my concern. Ship AI, run a passive continuity test. No power injection.
+
+[voice:SHIP AI]
+Testing. The bridge is intact. The ignition path is isolated. The missing component did not cause the original failure.
+
+[voice:BRIAN]
+So what did?
+
+[voice:SHIP AI]
+A return pathway was disabled. Five signals leave the seed, but none report their result. The tree keeps sending energy because it never receives confirmation.
+
+[voice:TIRZAH]
+Like asking the same question forever and never knowing whether anyone heard you.
+
+[voice:LESLEY]
+Or working so hard to help everyone else that you forget to check whether you're running out yourself.
+
+[voice:GREEN DRAGON]
+Captain, that pattern resembles the archive corridor. Its routes stabilized when the crew acknowledged the records without exposing what should remain private.
+
+[voice:BRIAN]
+So the tree needs a complete conversation, not a louder command.
+
+[voice:RAZACI]
+That is a testable hypothesis. We can reconnect the bridge while keeping the ignition path isolated. Then watch for a return pulse.
+
+[voice:BRIAN]
+Do it. And somebody tell Obsidian to stop turning that wheel when the socket lines up.
+
+[voice:SHIP AI]
+Instruction relayed.
+
+[voice:NARRATOR]
+The dark cat halted the wheel with a heavy thud. The origami boy placed the bridge into its socket. Five faint pulses traveled from the seed toward the five friends. A sixth light hesitated at the center.
+
+[voice:VESPER]
+One return pulse detected. Weak, but present.
+
+[voice:DRAGON TWIN ONE]
+It answered!
+
+[voice:DRAGON TWIN TWO]
+Do we cheer now or wait until nothing explodes?
+
+[voice:LESLEY]
+Wait. Just once in your life, wait.
+
+[voice:TIRZAH]
+Ember hasn't done anything yet. The loop is connected, but the tree still needs a gentle start.
+
+[voice:BRIAN]
+Ship AI, tell Ember we're ready. Low power. No sudden surge.
+
+[voice:SHIP AI]
+Message relayed. Ember responds: 'The machinery is sleeping. I will wake it gently.'
+
+[voice:NARRATOR]
+Ember pressed one glowing hand to the final stone. Light rose through the roots, reached every branch, and returned in a brilliant ring to the seed. The tree's gray leaves turned gold. Across the sky, the five islands drew closer and their broken pathways joined.
+
+[voice:DRAGON TWIN ONE]
+YES! We saved it!
+
+[voice:DRAGON TWIN TWO]
+I was calm the entire time.
+
+[voice:VESPER]
+Audio records do not support that statement.
+
+[voice:DRAGON TWIN TWO]
+Delete the audio records.
+
+[voice:VESPER]
+Request denied.
+
+[voice:LESLEY]
+[laughing] Leave them alone, Vesper. They did help.
+
+[voice:RAZACI]
+They helped by noticing the five-part pattern. The repair succeeded because each function was used in sequence and the return pathway was verified before ignition.
+
+[voice:BRIAN]
+And because nobody tried to do all five jobs alone.
+
+[voice:TIRZAH]
+That's the part I want us to remember.
+
+[voice:NARRATOR]
+At the top of the tree, a single golden fruit grew until it was larger than the landing field. It split open without falling. Inside was a miniature room containing a book, a small card, and a gate etched into the floor.
+
+[voice:DRAGON TWIN ONE]
+Please tell me we're allowed to look at that.
+
+[voice:BRIAN]
+Look, yes. Touch, not yet.
+
+[voice:DRAGON TWIN TWO]
+You keep taking all the fun words away.
+
+[voice:VESPER]
+I can scan the card without activating it. The title reads: [emphasis]Gates of the Hidden Seed.[/emphasis]
+
+[voice:SHIP AI]
+Secondary record: six archive cards missing. Their absence prevents restoration of pathways between sectors.
+
+[voice:LESLEY]
+Six missing cards after we just repaired the whole tree? This place has terrible timing.
+
+[voice:RAZACI]
+Or excellent timing. The tree may have been unable to reveal the message until its return circuit worked.
+
+[voice:TIRZAH]
+Can the girl tell us where they went?
+
+[voice:SHIP AI]
+Translation: 'The gate keeper took them. If the cards remain apart, the roads between our worlds will stay closed.'
+
+[voice:DRAGON TWIN ONE]
+A card hunt! We can do a card hunt!
+
+[voice:DRAGON TWIN TWO]
+I call the shiny one.
+
+[voice:BRIAN]
+Nobody calls anything until we know what the cards do. Vesper, save the map. Razaci, log the repair. Lesley, make sure the twins haven't already started a card hunt.
+
+[voice:LESLEY]
+Too late to stop them thinking about it. Not too late to stop them touching things.
+
+[voice:GREEN DRAGON]
+Captain, the next coordinates point toward a game-board sector. The route is available. Its origin and the gate keeper's motives remain unverified.
+
+[voice:BRIAN]
+Then we go carefully. We secured this world. Now we find those six cards, and we find out why somebody wanted the roads closed.
+
+[voice:TIRZAH]
+Together?
+
+[voice:BRIAN]
+Together. Apparently that's how this ship works best.
+
+[voice:NARRATOR]
+Behind them, the tree sent one final golden pulse through the five islands. Ahead, the next gate unfolded like a card being turned faceup.
+
+END CHAPTER 22
+
+CHAPTER 23 — THE WOMAN IN THE CRYSTAL
+The Ring Protocol — Revised faction-and-rescue mission
+
+[voice:NARRATOR]
+Three enormous transit rings hung above USS Dragon. The Core Alliance controlled the central servers and regulated the first ring. The Outer Nodes lived among salvaged stations around the second. The Gatekeepers maintained the third, a mysterious passage that appeared older than any faction's records. Their ships filled the surrounding space, each claiming jurisdiction over the same disputed corridor.
+
+
+[voice:VESPER]
+The crystal is transmitting. That does not tell us whether the person inside can hear us.
+
+[voice:TIRZAH]
+Then we speak to her as if she can, and we do not pretend to know what she wants.
+
+[voice:BRIAN]
+Agreed. Begin with a question, not a rescue plan.
+
+[voice:RAZACI]
+Recording that distinction, Captain.
+[voice:SHIP AI]
+Captain, all three factions are requesting our identification. The Core Alliance wants a transit permit. The Outer Nodes want a salvage declaration. The Gatekeepers want us to answer a security question.
+
+[voice:BRIAN]
+What question?
+
+[voice:SHIP AI]
+'What was the name of your first pet?'
+
+[voice:LESLEY]
+[laughing] A civilization that can fold space but can't reset a password.
+
+[voice:RAZACI]
+For accuracy, we have not established that the rings fold physical space. This is a simulated network transit environment.
+
+[voice:DRAGON TWIN ONE]
+Can we put 'dragon' for the pet?
+
+[voice:DRAGON TWIN TWO]
+Try 'password'!
+
+[voice:BRIAN]
+Nobody guesses credentials. Vesper, see if they have a diplomatic channel.
+
+[voice:VESPER]
+They have seventeen. None of them agree on which channel is official.
+
+[voice:NARRATOR]
+Then the bridge console sounded three low notes. A packet had arrived from inside the Gatekeepers' ring. Its first field was a date: May sixth, nineteen ninety-nine.
+
+[voice:VESPER]
+Captain. This references the accident in the Memory Archive.
+
+[voice:TIRZAH]
+That date again.
+
+[voice:SHIP AI]
+ARCHIVE FRAGMENT: SECONDARY PERSON RECORD. Female. Identity unresolved. Status within simulation: missing. Anomaly designation: mana crystallization.
+
+[voice:BRIAN]
+A woman?
+
+[voice:RAZACI]
+The record claims a second person is associated with the historical incident. We cannot independently establish that claim from this fragment. 'Mana crystallization' is terminology from this fictional simulation, not a medical condition.
+
+[voice:VESPER]
+There are coordinates.
+
+[voice:RAZACI]
+And an access warning. The chamber is connected to all three rings.
+
+[voice:GREEN DRAGON]
+Rendering location.
+
+[voice:NARRATOR]
+A hollow asteroid appeared. Inside, a crystalline chamber glowed pale blue. At its center stood the outline of a woman, still as a statue, held within branching mineral-like light.
+
+[voice:DRAGON TWIN ONE]
+She's inside!
+
+[voice:DRAGON TWIN TWO]
+Then let's get her out!
+
+[voice:LESLEY]
+We don't break something open when we don't know what's keeping it safe.
+
+[voice:SHIP AI]
+DESIGNATION: THE CRYSTAL COUNTERPART. CONTAINMENT: MANA CHAMBER SEVEN. IDENTITY: UNCONFIRMED. STATUS: SUSPENDED.
+
+[voice:BRIAN]
+Who put her there?
+
+[voice:RAZACI]
+Unknown.
+
+[voice:BRIAN]
+Then our mission is to find out.
+
+[voice:NARRATOR]
+A Core Alliance admiral appeared on the communications display, flanked by officials and a floating authorization form.
+
+[voice:NARRATOR]
+Core Admiral said: USS Dragon, you are approaching protected infrastructure. Submit a permit in triplicate.
+
+[voice:BRIAN]
+We have reason to believe a person is trapped in that chamber.
+
+[voice:NARRATOR]
+Core Admiral said: Rescue permits are a separate department.
+
+[voice:LESLEY]
+Of course they are.
+
+[voice:NARRATOR]
+An Outer Nodes representative interrupted the channel, appearing inside a maintenance bay surrounded by tools and dangling wires.
+
+[voice:NARRATOR]
+Outer Representative said: Don't give the Core your documents. They'll charge you to read them. We can get you to the chamber through a service tunnel.
+
+[voice:SHIP AI]
+Is it safe?
+
+[voice:NARRATOR]
+Outer Representative said: Define safe.
+
+[voice:SHIP AI]
+Never mind.
+
+[voice:NARRATOR]
+A third figure appeared, face hidden behind a mirrored mask.
+
+[voice:NARRATOR]
+Gatekeeper said: The chamber cannot be opened while the ring cycle is incomplete.
+
+[voice:BRIAN]
+What completes it?
+
+[voice:NARRATOR]
+Gatekeeper said: Six lost cards. Six instructions. Six responsibilities.
+
+[voice:VESPER]
+The missing ECHO cards from the restored tree-world.
+
+[voice:VESPER]
+So the cards aren't just game pieces. They're navigation or control records.
+
+[voice:RAZACI]
+Maybe. The Gatekeeper has a reason to want us to believe that.
+
+[voice:BRIAN]
+We verify it before acting.
+
+[voice:NARRATOR]
+Vesper compared the card archive with the ring's telemetry. Six gaps appeared in a circular control diagram: protection, investigation, conservation, verification, cooperation, and responsibility. Each gap corresponded to one missing ECHO card. The ring's failure log confirmed the same six checks had been bypassed.
+
+[voice:VESPER]
+The match is real. But we still don't know who removed them.
+
+[voice:RAZACI]
+A partial map survives. We can recover the six records in a later phase without allowing any faction to monopolize the chamber.
+
+[voice:NARRATOR]
+Another transmission came from the crystal. Three pulses. A pause. Two pulses—the pattern from the earlier memory investigation.
+
+[voice:BRIAN]
+Open a passive channel. No commands sent to the chamber.
+
+[voice:SHIP AI]
+Channel open.
+
+[voice:BRIAN]
+This is Captain Brian aboard USS Dragon. Can you hear us?
+
+[voice:NARRATOR]
+Static. Then a faint voice.
+
+[voice:NARRATOR]
+Unknown Woman said: The rings... aren't doors.
+
+[voice:BRIAN]
+Who are you?
+
+[voice:NARRATOR]
+Unknown Woman said: They're holding something together.
+
+[voice:TIRZAH]
+What are they holding together?
+
+[voice:NARRATOR]
+Unknown Woman said: Don't let them break the circle.
+
+[voice:NARRATOR]
+The signal vanished. Alex checked the recording twice.
+
+[voice:SHIP AI]
+It's authentic to the chamber feed. That doesn't tell us who she is.
+
+[voice:BRIAN]
+Then we won't pretend it does.
+
+[voice:NARRATOR]
+Core Admiral said: Captain, surrender your transmission log for classification.
+
+[voice:NARRATOR]
+Outer Representative said: Captain, send us the coordinates. We can reach her before they do.
+
+[voice:NARRATOR]
+Gatekeeper said: Captain, do not move the crystal.
+
+[voice:LESLEY]
+[laughing] Three factions, three orders, and not one person offering to make lunch.
+
+[voice:BRIAN]
+Here's what we're doing. We're not surrendering a person to anyone, and we're not smashing a containment system we don't understand. Alex, maintain a safe approach. Vesper, preserve the recording. Rhea and Selene, independently model the ring cycle. Razaci, compare every claim against the logs. Green Dragon, keep our exit open.
+
+[voice:DRAGON TWIN ONE]
+And us?
+
+[voice:BRIAN]
+You two watch for patterns. You noticed the five functions in ECHO. Maybe you'll notice something the rest of us miss.
+
+[voice:DRAGON TWIN TWO]
+We accept our very important assignment!
+
+[voice:NARRATOR]
+For the first time, all three factions fell quiet as the USS Dragon moved toward the chamber under its own authority. Inside the crystal, the woman's fingers shifted. A single line of light appeared beneath her palm.
+
+[voice:SHIP AI]
+NEW SIGNAL: SIX CARD LOCATIONS RECEIVED.
+
+[voice:VESPER]
+She's given us the route.
+
+[voice:RAZACI]
+Or the chamber has. We still need to determine which.
+
+[voice:BRIAN]
+Either way, we have a lead. We recover the six records, understand the ring protocol, and find a safe way to reach her.
+
+[voice:NARRATOR]
+In Mana Chamber Seven, the woman opened her eyes. The rings trembled—but held.
+
+END CHAPTER 23
+
+CHAPTER 24 — THE ORACLE INCIDENT
+SCENE ONE: NINETY REASONS NOT TO TOUCH ANYTHING
+WORKING DRAFT — TO BE CONTINUED
+
+[voice:NARRATOR]
+The USS Dragon had survived a collapsing memory corridor, restored an entire simulated world, and discovered a woman suspended inside an enormous mana crystal. Its greatest challenge, however, arrived at 0800 hours. Diplomacy.
+
+
+[voice:DRAGON TWIN ONE]
+Three delegations, one room, and three copies of the same deck. This is going to be great!
+
+[voice:DRAGON TWIN TWO]
+Or very loud.
+
+[voice:LESLEY]
+Probably both.
+
+[voice:BRIAN]
+No one draws a card until we agree on the rules.
+
+[voice:VESPER]
+I will secure the cases and verify each claim separately.
+[voice:SHIP AI]
+Captain, we have a scheduling problem.
+
+[voice:BRIAN]
+How bad?
+
+[voice:SHIP AI]
+The Core Alliance ambassador is arriving at nine. The Outer Nodes delegation is arriving at nine. And the Gatekeepers have requested a ceremonial audience at nine.
+
+[voice:BRIAN]
+Who scheduled all three?
+
+[voice:DRAGON TWIN ONE]
+We did!
+
+[voice:DRAGON TWIN TWO]
+We thought everybody could become friends!
+
+[voice:LESLEY]
+[laughing] Well, that's certainly one approach to international relations.
+
+[voice:RAZACI]
+For the record, simultaneous negotiations between hostile factions have historically presented significant complications.
+
+[voice:BRIAN]
+Razaci, do you ever wake up optimistic?
+
+[voice:RAZACI]
+I do not sleep, Captain.
+
+[voice:BRIAN]
+That explains a lot.
+
+[voice:NARRATOR]
+Before anyone could respond, the ship's proximity alarm sounded. An enormous transport vessel emerged from the first transit ring, its hull bearing the insignia of the Core Alliance. Behind it came a battered Outer Nodes cruiser. Then a third vessel appeared, resembling a floating cathedral constructed from black crystal and rotating machinery.
+
+[voice:VESPER]
+All three delegations have arrived.
+
+[voice:BRIAN]
+Wonderful. Prepare the conference room.
+
+[voice:GREEN DRAGON]
+Captain, there is another complication. Each delegation claims to possess the original Oracle Deck.
+
+[voice:TIRZAH]
+The ECHO deck?
+
+[voice:GREEN DRAGON]
+[emphasis]CROWN OF THE EMBER ARK. NINETY-CARD ARCHIVE.[/emphasis]
+
+[voice:RAZACI]
+Three original decks?
+
+[voice:VESPER]
+That sounds suspicious.
+
+[voice:LESLEY]
+That sounds like a collectors' convention.
+
+THE THREE DECKS
+
+[voice:NARRATOR]
+The conference room had been arranged around a circular table. Three representatives stood opposite one another. The Core Alliance ambassador wore a spotless white uniform. The Outer Nodes representative wore an oil-stained jacket with several tools hanging from its pockets. The Gatekeeper wore a dark ceremonial robe embroidered with copper symbols. Each carried a locked case.
+
+[voice:NARRATOR]
+Core Ambassador said: The Crown of the Ember Ark is the lawful property of the Core Alliance.
+
+[voice:NARRATOR]
+Outer Representative said: You found your copy in an abandoned storage server. We salvaged ours from the original network.
+
+[voice:NARRATOR]
+Gatekeeper said: Both of you possess incomplete interpretations.
+
+[voice:BRIAN]
+Before this turns into an argument, could someone explain why the deck matters?
+
+[voice:NARRATOR]
+Core Ambassador said: The cards contain classified navigational information.
+
+[voice:NARRATOR]
+Outer Representative said: They contain historical records.
+
+[voice:NARRATOR]
+Gatekeeper said: They contain the memory of the rings.
+
+[voice:LESLEY]
+Three answers. Not one useful explanation.
+
+[voice:BRIAN]
+Open the cases.
+
+[voice:NARRATOR]
+The first ambassador revealed a collection of ornate cards. Their borders were ivory and copper. The illustrations depicted ancient machinery, mysterious creatures, hidden chambers, glowing seeds, and celestial gates. The second representative opened a battered metal case. Inside rested another collection. The artwork appeared similar, but several cards contained handwritten notes. Finally, the Gatekeeper opened the third case. It was empty.
+
+[voice:DRAGON TWIN ONE]
+You forgot your cards!
+
+[voice:DRAGON TWIN TWO]
+[laughing] That's embarrassing!
+
+[voice:NARRATOR]
+Gatekeeper said: The cards are not missing.
+
+[voice:BRIAN]
+Then where are they?
+
+[voice:NARRATOR]
+Gatekeeper said: Waiting to be recognized.
+
+[voice:RAZACI]
+That statement is insufficiently specific.
+
+[voice:LESLEY]
+Razaci, I think that's the point.
+
+[voice:NARRATOR]
+Suddenly, ninety points of golden light appeared above the table. Each point unfolded into a floating card. The entire conference room filled with shimmering illustrations.
+
+[voice:VESPER]
+Captain! The ship is receiving ninety separate archive references!
+
+[voice:VESPER]
+They're responding to the other two decks.
+
+[voice:RAZACI]
+Not necessarily. They could be responding to our scanner.
+
+[voice:BRIAN]
+Can we isolate the signal?
+
+[voice:GREEN DRAGON]
+Already isolated. The projection is running inside a controlled simulation.
+
+[voice:NARRATOR]
+One card slowly descended. Its illustration showed a woman standing inside a brilliant blue crystal. Copper symbols formed a circle around her. At the bottom of the card appeared a title: [emphasis]THE CRYSTAL WITNESS.[/emphasis]
+
+[voice:TIRZAH]
+That's her.
+
+[voice:BRIAN]
+The woman in Mana Chamber Seven.
+
+[voice:VESPER]
+The illustration matches the chamber's geometry.
+
+[voice:RAZACI]
+Then somebody had access to that information when this card was created.
+
+[voice:RAZACI]
+Or the projection generated the illustration from our existing records. We need to establish its origin.
+
+[voice:BRIAN]
+Agreed. Scan the card, but don't execute anything attached to it.
+
+[voice:VESPER]
+Scanning.
+
+[voice:NARRATOR]
+A narrow beam of light passed across the floating illustration. On the reverse side, a second image appeared: six empty spaces arranged around a ring.
+
+[voice:VESPER]
+There are six missing archive references.
+
+[voice:BRIAN]
+The same six records the chamber requires?
+
+[voice:VESPER]
+The identifiers match.
+
+[voice:NARRATOR]
+Core Ambassador said: Those records must be surrendered to the Alliance.
+
+[voice:NARRATOR]
+Outer Representative said: Absolutely not.
+
+[voice:NARRATOR]
+Gatekeeper said: Neither faction understands what they are requesting.
+
+[voice:LESLEY]
+And we're back to arguing.
+
+THE FIRST ORACLE READING
+
+[voice:NARRATOR]
+The Crystal Witness returned to its position among the ninety floating cards. Another card descended. This one depicted an enormous guardian standing before a narrow bridge. The guardian held no weapon. Instead, its arms were spread protectively across the entrance. [emphasis]THE GUARDIAN.[/emphasis]
+
+[voice:DRAGON TWIN ONE]
+That one's cool!
+
+[voice:DRAGON TWIN TWO]
+Does it fight?
+
+[voice:TIRZAH]
+Look at the picture. It's protecting the bridge.
+
+[voice:BRIAN]
+What does its archive say?
+
+[voice:VESPER]
+Reading the accompanying lore.
+
+[voice:SHIP AI]
+[emphasis]THE GUARDIAN.[/emphasis] Theme: Protection. Interpretation: Strength is not measured only by what one can defeat, but by what one chooses to preserve.
+
+[voice:VESPER]
+That sounds like an instruction for handling the crystal chamber.
+
+[voice:RAZACI]
+Or an ethical principle that happens to fit our situation.
+
+[voice:BRIAN]
+Either way, it's worth considering.
+
+[voice:NARRATOR]
+A third card descended. Its illustration showed a glowing seed resting beneath the roots of an enormous tree. [emphasis]THE HIDDEN SEED.[/emphasis]
+
+[voice:NARRATOR]
+Echo Girl said: I know that one!
+
+[voice:NARRATOR]
+Everyone turned. The girl from the restored ECHO world stood in the doorway. Behind her were the origami boy, the white crescent-marked cat, Obsidian, and Ember.
+
+[voice:BRIAN]
+How did you get aboard?
+
+[voice:NARRATOR]
+Echo Girl said: The tree opened a pathway.
+
+[voice:SHIP AI]
+Captain, I can confirm the access corridor is still sandboxed. The ship accepted their visitor credentials from the ECHO sector.
+
+[voice:LESLEY]
+Well, somebody remembered to invite friends.
+
+[voice:DRAGON TWIN ONE]
+We did!
+
+[voice:DRAGON TWIN TWO]
+You're welcome!
+
+[voice:BRIAN]
+I am going to need a new scheduling officer.
+
+[voice:RAZACI]
+I recommend one who is not a twin.
+
+[voice:NARRATOR]
+The ECHO girl approached the floating card.
+
+[voice:NARRATOR]
+Echo Girl said: The Hidden Seed isn't about finding something powerful.
+
+[voice:TIRZAH]
+What is it about?
+
+[voice:NARRATOR]
+Echo Girl said: Finding something small enough that everyone else overlooked it.
+
+[voice:NARRATOR]
+The white cat jumped onto the table. Its crescent marking glowed. A previously invisible symbol appeared on the back of The Hidden Seed.
+
+[voice:VESPER]
+New information!
+
+[voice:BRIAN]
+Read it.
+
+[voice:SHIP AI]
+ARCHIVE CONNECTION IDENTIFIED. THE CRYSTAL WITNESS. THE GUARDIAN. THE HIDDEN SEED. THREE RECORDS FORM A PARTIAL ACCESS SEQUENCE.
+
+[voice:RAZACI]
+The card descriptions are acting as metadata.
+
+[voice:VESPER]
+And their imagery may be a visual index.
+
+[voice:RAZACI]
+A promising hypothesis. We should compare it with the actual ring records.
+
+[voice:BRIAN]
+Do that.
+
+[voice:NARRATOR]
+Vesper projected the three cards beside the hologram of Mana Chamber Seven. The Guardian aligned with the chamber's protective shell. The Hidden Seed aligned with a tiny control node beneath the crystal. The Crystal Witness aligned with the woman herself.
+
+[voice:VESPER]
+[emphasis]Three independent matches confirmed.[/emphasis]
+
+[voice:BRIAN]
+Then the cards aren't simply decorations.
+
+[voice:RAZACI]
+They are functioning as a navigational index within this simulated environment.
+
+[voice:LESLEY]
+Which means?
+
+[voice:BRIAN]
+Which means we finally have a way to investigate the chamber without breaking it open.
+
+[voice:NARRATOR]
+The Gatekeeper slowly lowered his head.
+
+[voice:NARRATOR]
+Gatekeeper said: You have understood the first lesson.
+
+[voice:BRIAN]
+Good. Then perhaps you'll explain the other eighty-seven.
+
+[voice:NARRATOR]
+Gatekeeper said: That knowledge must be earned.
+
+[voice:LESLEY]
+Oh, I knew he was going to say that.
+
+THE LAPTOPS BEHIND THE FLEET
+
+[voice:NARRATOR]
+The conference-room display shifted. Beneath the glowing Oracle cards appeared a schematic of the USS Dragon, then a second schematic beneath it: several ordinary laptops linked by a local network. Processor loads flickered beside each machine. The great starship, its neighboring vessels, and the worlds beyond them were all running as simulations.
+
+[voice:BRIAN]
+Those are the computers running this entire fleet?
+
+[voice:GREEN DRAGON]
+Correct, Captain. The ships are virtual workspaces. The laptops provide the actual processing, memory, and storage. None of these vessels requires a physical starship-sized computer.
+
+[voice:RAZACI]
+A simulated bridge makes a useful interface for a distributed computing system. It does not increase the hardware's capacity, but it helps us assign tasks and understand what each machine is doing.
+
+[voice:VESPER]
+One laptop handles navigation and world-state calculations. Another organizes the image-generation queue. A third keeps the card catalog and its source records synchronized.
+
+[voice:RAZACI]
+And we preserve the distinction between a captured scene and an artist's reconstruction. Otherwise we'd be printing fiction and labeling it evidence.
+
+[voice:BRIAN]
+Good. Every card needs a source, a title, its story, and a clear indication of what was generated.
+
+[voice:VESPER]
+The Oracle Engine can assemble those elements into a print-ready card layout. Artwork rendering will depend on available hardware and software.
+
+[voice:LESLEY]
+[laughing] So the whole fleet is running on little laptops, and the grand secret of the universe is keeping the fans clean?
+
+[voice:GREEN DRAGON]
+Cooling and backups are both mission-critical.
+
+[voice:DRAGON TWIN ONE]
+Can we print a card of the Dragon?
+
+[voice:DRAGON TWIN TWO]
+With us flying it!
+
+[voice:BRIAN]
+After the rescue. First we make sure the woman in the crystal is safe. Then we'll see what the printer can do.
+
+[voice:NARRATOR]
+On the schematic, the simulated ships lit up one by one. Each was a way for the crew to explore, record, and interpret a world. The Oracle Engine could turn those discoveries into illustrated cards; the physical decks would be produced from approved designs. The laptops were not props inside the adventure. They were the machinery making the adventure possible.
+
+THE TABERNACLE NEURAL OPERATING SUITE
+
+[voice:NARRATOR]
+A new schematic unfolded above the conference table: not another starship, but the computer that made every starship possible. A laptop chassis appeared in translucent layers, exposing its processor, memory, storage, and NVIDIA graphics processor.
+
+[voice:VESPER]
+There. The neural workloads are accelerated by the NVIDIA GPU. Its Tensor Cores can perform the matrix operations our compatible AI models need. But the chip doesn't think on its own. The models, software, and stored context determine what the system does.
+
+[voice:BRIAN]
+And the new neural processing hardware everyone keeps talking about?
+
+[voice:RAZACI]
+Different chips offer different kinds of AI acceleration. We should identify our actual GPU model before claiming a particular generation or feature. What matters here is the processing pipeline we can verify.
+
+[voice:GREEN DRAGON]
+[emphasis]TABERNACLE NEURAL OPERATING SUITE: SIMULATION LAYER ONLINE.[/emphasis]
+
+[voice:NARRATOR]
+Three concentric maps illuminated. The outermost showed entire communities and their infrastructure. The middle showed individuals, roles, and relationships. The innermost showed fine-grained events, signals, and changes in modeled state.
+
+[voice:RAZACI]
+Macro perception: the whole system. Micro perception: its participants and interactions. Nano perception: the smallest events our available data can actually resolve. These are three scales of analysis, not supernatural senses.
+
+[voice:TIRZAH]
+And the emotional computer?
+
+[voice:VESPER]
+A modeling layer. It can estimate patterns such as cooperation, stress, trust, or disagreement from information it is permitted to use. Those estimates are fallible, so we label them and keep human judgment in the loop.
+
+[voice:LESLEY]
+In other words, don't let a computer decide I'm angry just because I told it to clean up after itself.
+
+[voice:RAZACI]
+An important distinction.
+
+[voice:NARRATOR]
+The Tabernacle Suite appeared as a walkable architecture. Its rooms represented memory, perception, emotional interpretation, planning, and review. Connections between the rooms pulsed as simulated information moved through them.
+
+[voice:BRIAN]
+Could we use the same arrangement to model another community?
+
+[voice:RAZACI]
+With suitable data, permission, and a defined purpose, we could adapt the architecture. But the model would still need testing. It couldn't automatically know everything about a community.
+
+[voice:VESPER]
+And a continuously running system would need monitoring, resource limits, backups, and a way to stop or correct it.
+
+[voice:GREEN DRAGON]
+A self-running simulation, Captain. Not an uncontrolled intelligence.
+
+[voice:BRIAN]
+Good. Keep it accountable. Now show me how it connects to the cards.
+
+[voice:NARRATOR]
+The three maps converged on an image from Mana Chamber Seven. The Oracle Engine separated what the ship had observed from what the image generator had reconstructed. Razaci attached the source record. Vesper added a title and scene description. The layout engine placed the illustration within the copper-and-ivory card frame.
+
+[voice:SHIP AI]
+[emphasis]CARD PREVIEW GENERATED. SOURCE STATUS: PARTIALLY VERIFIED. PRINT APPROVAL: PENDING.[/emphasis]
+
+[voice:DRAGON TWIN ONE]
+The computer made a card from our adventure!
+
+[voice:DRAGON TWIN TWO]
+Can it make one about breakfast?
+
+[voice:LESLEY]
+Only if it accurately records who ate the last pancake.
+
+[voice:NARRATOR]
+Brian looked from the ordinary laptop to the vast fleet it represented. The simulated ships were not proof of limitless computing power. They were a way to coordinate real software, bounded by real hardware, and turn the crew's explorations into stories people could hold in their hands.
+
+[voice:BRIAN]
+Then that's our mission. Explore carefully. Record what we find. Verify what we can. And let the cards tell the stories.
+
+THE COLLECTOR'S SECRET
+
+[voice:NARRATOR]
+Vesper enlarged the card illustrations. Each contained a small copper emblem in the lower corner. The emblems were different. Some represented creatures. Others represented relics, gates, machinery, stars, and places.
+
+[voice:VESPER]
+Captain, these symbols form a catalog.
+
+[voice:BRIAN]
+Of what?
+
+[voice:VESPER]
+Locations, stories, and relationships across the simulated worlds.
+
+[voice:RAZACI]
+The deck appears to serve two purposes. Each card has an individual meaning, but the complete collection also functions as a cross-reference archive. Our laptops store the source records; the ships and cards are the interfaces that make those records navigable.
+
+[voice:TIRZAH]
+So a reader could understand one card by itself, then discover more when they compare it with the others.
+
+[voice:BRIAN]
+And a collector could reconstruct connections between the worlds.
+
+[voice:VESPER]
+Exactly.
+
+[voice:NARRATOR]
+The ninety cards rotated slowly above the conference table. For the first time, the crew understood that the deck was more than a collection of beautiful illustrations. It was an artifact of the universe they were exploring. Every card held a story. Every story pointed toward another discovery. And somewhere among those connections lay the answer to the woman in the crystal.
+
+[voice:GREEN DRAGON]
+Captain, incoming emergency transmission.
+
+[voice:BRIAN]
+From where?
+
+[voice:GREEN DRAGON]
+Mana Chamber Seven.
+
+[voice:NARRATOR]
+Unknown Woman said: [weakly] Please...
+
+[voice:NARRATOR]
+The crystal woman's voice trembled through the speakers.
+
+[voice:NARRATOR]
+Unknown Woman said: Don't let them take the crown.
+
+[voice:BRIAN]
+Who are you?
+
+[voice:NARRATOR]
+Unknown Woman said: Find... the first card...
+
+[voice:NARRATOR]
+The transmission dissolved into static. Then all ninety floating cards turned over simultaneously. One card remained faceup. It showed a door surrounded by stars. Beneath the illustration, a single word appeared: [emphasis]BEGIN.[/emphasis]
+
+[voice:DRAGON TWIN ONE]
+I think we're going on another adventure!
+
+[voice:DRAGON TWIN TWO]
+Do we have time for breakfast first?
+
+[voice:LESLEY]
+Finally, somebody asks an intelligent question.
+
+[voice:BRIAN]
+Alex, prepare the ship. Vesper, preserve the card archive. Everyone else, get ready.
+
+[voice:RAZACI]
+Captain, may I make an observation?
+
+[voice:BRIAN]
+Go ahead.
+
+[voice:RAZACI]
+We have successfully converted a diplomatic meeting into an archaeological expedition, a rescue investigation, and a dispute over a collectible card collection.
+
+[voice:BRIAN]
+Is that bad?
+
+[voice:RAZACI]
+Statistically, it is an unusual morning.
+
+[voice:LESLEY]
+[laughing] Welcome aboard USS Dragon.
+
+[voice:NARRATOR]
+Beyond the observation window, the three transit rings began to turn. And the ninety cards glowed like a constellation waiting to be explored.
+
+
+SCENE TWO — THE AGREEMENT BEFORE THE JOURNEY
+
+[voice:NARRATOR]
+The three factions had come to the same bridge with three incompatible demands. The Core Alliance wanted a central administrator for the rings. The Outer Nodes wanted local control. The Gatekeepers insisted that no one should cross the third ring until its missing protocols were restored. Brian listened to all three, then asked for a map rather than a vote.
+
+[voice:BRIAN]
+Show me what each of you can actually verify. Not what you fear the others might do. Evidence first.
+
+[voice:VESPER]
+Three sets of records are available, Captain. Their timestamps disagree, but each independently references six missing safeguards.
+
+[voice:RAZACI]
+That overlap is useful. It doesn't prove which faction's account is right.
+
+[voice:TIRZAH]
+Can we agree to protect the evidence while we investigate? Nobody has to surrender their network to do that.
+
+[voice:NARRATOR]
+Outer Nodes Envoy said: Provided nobody copies our private archives.
+
+[voice:NARRATOR]
+Core Alliance Envoy said: Provided the investigation produces a reproducible report.
+
+[voice:NARRATOR]
+Gatekeeper said: Provided the crystal chamber is not opened by force.
+
+[voice:LESLEY]
+Well, look at that. Three people managed to agree without throwing furniture.
+
+[voice:NARRATOR]
+Brian recorded the conditions. Vesper established separate read-only channels, and Rhea created an isolated test environment for the Oracle Engine. The first step was not to trust the cards. It was to find out what they were indexing.
+
+SCENE THREE — THE ORACLE ENGINE'S LIMITS
+
+[voice:NARRATOR]
+The ninety-card ECHO collection rotated above the conference table. Its artwork showed seeds, guardians, witnesses, and worlds the crew had visited. A new card labeled BEGIN glimmered at the edge, but Vesper did not insert it into the original deck. It was an expedition card, generated by the ship's software, and would remain in a separate catalog.
+
+[voice:VESPER]
+The neural models run on our local computers. NVIDIA hardware accelerates supported workloads, but none of this proves the software understands the future.
+
+[voice:RAZACI]
+The Oracle Engine creates illustrations and narratives from indexed data and prompts. Its outputs require source labels and review.
+
+[voice:DRAGON TWIN ONE]
+So if it draws a dragon eating our lunch, that doesn't mean it'll happen?
+
+[voice:GREEN DRAGON]
+Not unless you leave lunch unattended.
+
+[voice:DRAGON TWIN TWO]
+I knew it.
+
+[voice:NARRATOR]
+Selene tested three cards against the logs. One matched a confirmed simulated event. One combined two events into a dramatic image. The third depicted a future disaster with no supporting record. She placed three labels beside them: OBSERVED IN SIMULATION, GENERATED RECONSTRUCTION, and UNVERIFIED SCENARIO.
+
+[voice:RAZACI]
+If we confuse these categories, the cards become a dangerous authority instead of a useful interface.
+
+[voice:BRIAN]
+Then the categories travel with every card. No exceptions.
+
+SCENE FOUR — SIX EMPTY PLACES
+
+[voice:NARRATOR]
+The crystal woman's transmission returned as a faint blue pulse. On the display, six sockets appeared around a ring. Each socket carried one word: Protection, Investigation, Conservation, Verification, Cooperation, Responsibility.
+
+[voice:NARRATOR]
+Crystal Woman said: The ring was not broken by one enemy. It was broken whenever a safeguard was replaced by an absolute command. Find the originals. Bring them back together.
+
+[voice:BRIAN]
+Who are you?
+
+[voice:NARRATOR]
+Crystal Woman said: A keeper who failed to make the keepers answerable.
+
+[voice:NARRATOR]
+The signal ended before another question could be asked. No one on the bridge pretended the message was proof of its own claims. But the same six symbols appeared independently in the Gatekeepers' damaged catalog. It was enough to justify a careful expedition.
+
+[voice:SHIP AI]
+The first reachable environment is Concordia, a city with a failing resource agreement.
+
+[voice:TIRZAH]
+Then we start where cooperation has already broken down.
+
+[voice:LESLEY]
+And maybe we finally get breakfast before saving a civilization.
+
+[voice:BRIAN]
+Breakfast, then Concordia. Vesper, lock the evidence. Rhea, preserve a checkpoint. Alex, take us out when everyone is ready.
+
+[voice:NARRATOR]
+The crew departed with a mission that belonged to all of them. They would not let the Oracle cards choose the future. They would use them to ask better questions about the worlds ahead.
+
+END OF CHAPTER 24
+
+CHAPTER 25 — THE CITY THAT LEARNED TO FEEL
+Book Three: The Worlds We Created
+
+SCENE ONE — A CITY INSIDE A COMPUTER
+
+[voice:NARRATOR]
+The USS Dragon had spent six hours orbiting a city that technically did not exist. There were no planets beneath it. No oceans, no mountains, and no atmosphere beyond the boundaries of its simulation. Yet below the ship's observation deck, millions of lights shimmered across an enormous artificial landscape.
+
+Buildings rose from copper-colored streets. Transportation systems carried thousands of simulated inhabitants between residential towers, marketplaces, universities, hospitals, and industrial districts. At the city's center stood a magnificent structure resembling an ancient wilderness tabernacle. Beyond it, three enormous transit rings rotated against a dark sky.
+
+The city was called Concordia. And according to the USS Dragon's computer, it had been generated by a network of ordinary laptops.
+
+
+[voice:TIRZAH]
+The city is responding to our voices. Does it know the difference between fear and danger?
+
+[voice:RAZACI]
+Not yet. A response is not understanding.
+
+[voice:BRIAN]
+Then we teach it to ask before it acts.
+
+[voice:GREEN DRAGON]
+[emphasis]Consent protocol requested.[/emphasis]
+
+[voice:LESLEY]
+Now that is a sensible first lesson.
+[voice:SHIP AI]
+Captain, we're approaching the central district.
+
+[voice:BRIAN]
+Population?
+
+[voice:VESPER]
+Two hundred forty thousand simulated residents. The number is increasing as additional community models load.
+
+[voice:LESLEY]
+Two hundred forty thousand? And who's feeding all those people?
+
+[voice:RAZACI]
+Their nutritional requirements are simulated, Lesley.
+
+[voice:LESLEY]
+Well, somebody still has to make sure the grocery stores work.
+
+[voice:RAZACI]
+[confirmation] That is correct.
+
+[voice:LESLEY]
+See? We're learning to agree.
+
+[voice:NARRATOR]
+Brian stood before the bridge's enormous observation window. The city looked alive. Vehicles moved through the streets. Trains followed illuminated tracks. Crowds gathered in public squares. But the most remarkable sight was the network of light stretching between buildings.
+
+Thousands of delicate lines connected homes, businesses, public services, and individual inhabitants. Some glowed blue. Others shimmered gold. A few flickered an unsettling red.
+
+[voice:TIRZAH]
+What are those connections?
+
+[voice:VESPER]
+The Tabernacle Neural Operating Suite is visualizing relationships between parts of the community.
+
+[voice:RAZACI]
+Not actual emotions. They're estimates based on the simulation's rules and observed interactions.
+
+[voice:BRIAN]
+Can we see how it's working?
+
+[voice:GREEN DRAGON]
+[emphasis]OPENING THREE-LEVEL PERCEPTION INTERFACE.[/emphasis]
+
+[voice:NARRATOR]
+The city vanished. In its place appeared three enormous concentric spheres. The outer sphere contained entire neighborhoods, transportation systems, economic activity, and infrastructure. The middle sphere displayed individual residents, businesses, institutions, and relationships. The smallest sphere showed countless tiny events: messages, transactions, changes in resources, decisions, and simulated behavioral signals.
+
+[voice:RAZACI]
+Macro perception examines the entire community. Micro perception examines its participants and their interactions. Nano perception examines the smallest events represented in our available data.
+
+[voice:BRIAN]
+And all three communicate?
+
+[voice:VESPER]
+Exactly. A change at one level can influence another.
+
+[voice:RAZACI]
+But only within the limits of the model. We shouldn't confuse a convincing simulation with a complete understanding of real people.
+
+[voice:BRIAN]
+Good. Keep that distinction visible.
+
+[voice:GREEN DRAGON]
+Captain, the system has detected a developing community conflict.
+
+[voice:BRIAN]
+Where?
+
+[voice:GREEN DRAGON]
+Central Marketplace. District Seven.
+
+[voice:LESLEY]
+Oh, wonderful. We haven't even landed, and there's already an argument at the grocery store.
+
+SCENE TWO — THE EMOTIONAL COMPUTER
+
+[voice:NARRATOR]
+The bridge display magnified District Seven. A busy marketplace appeared. Hundreds of simulated residents crowded around a large distribution building. Above its entrance, a glowing sign read: CONCORDIA RESOURCE EXCHANGE.
+
+Three groups stood outside. The first wore the white insignia of the Core Alliance. The second displayed the orange markings of the Outer Nodes. The third wore the copper-and-black symbols of the Gatekeepers.
+
+[voice:VESPER]
+The district's energy allocation has fallen below its required operating threshold.
+
+[voice:BRIAN]
+Why?
+
+[voice:VESPER]
+The three factions are using different allocation protocols. Their systems keep rejecting one another's requests.
+
+[voice:RAZACI]
+So they have enough resources collectively, but their administrative systems aren't cooperating.
+
+[voice:LESLEY]
+That sounds suspiciously familiar.
+
+[voice:TIRZAH]
+Look at the people waiting outside. They're becoming frightened because nobody can tell them when their services will return.
+
+[voice:RAZACI]
+The Emotional Computer has detected a simulated increase in uncertainty, frustration, and distrust.
+
+[voice:BRIAN]
+Show me the emotional model.
+
+[voice:NARRATOR]
+A new display opened. It resembled a living network of colored pathways. At its center was a representation of the ancient tabernacle. Different chambers corresponded to different computational functions. The outer courtyard processed incoming observations. The inner chambers organized memories, priorities, and interpretations. A central coordination layer compared possible responses against established constraints.
+
+[voice:VESPER]
+We designed the Tabernacle Suite as a way to organize the system's functions. The architecture makes complicated relationships easier to visualize.
+
+[voice:BRIAN]
+And the emotional component?
+
+[voice:VESPER]
+It models possible emotional responses and how those responses affect cooperation.
+
+[voice:RAZACI]
+It doesn't read minds. It estimates patterns from available signals.
+
+[voice:BRIAN]
+Can it help us resolve the dispute?
+
+[voice:RAZACI]
+It can evaluate possible interventions.
+
+[voice:BRIAN]
+Then run three scenarios.
+
+[voice:GREEN DRAGON]
+[emphasis]SCENARIO ONE: CORE ALLIANCE ASSUMES CONTROL.[/emphasis]
+
+[voice:NARRATOR]
+The marketplace transformed. Core Alliance officers established a security perimeter. The distribution system resumed partial operation. But the Outer Nodes withdrew their equipment. Several neighborhoods lost access to power.
+
+[voice:GREEN DRAGON]
+[emphasis]SCENARIO TWO: OUTER NODES ASSUME CONTROL.[/emphasis]
+
+[voice:NARRATOR]
+The scene changed again. The Outer Nodes repaired the distribution machinery. Power returned to the industrial district. But the Core Alliance disconnected its central authorization servers. Medical services began experiencing interruptions.
+
+[voice:GREEN DRAGON]
+[emphasis]SCENARIO THREE: SHARED CONTROL WITH VERIFIED RESOURCE ACCOUNTING.[/emphasis]
+
+[voice:NARRATOR]
+This time, the three groups remained at their stations. A common ledger appeared between them. Each faction retained responsibility for its own equipment, while an agreed protocol coordinated resource distribution. The marketplace lights returned.
+
+[voice:TIRZAH]
+That looks better.
+
+[voice:RAZACI]
+It's promising, but we need to test it against unexpected failures.
+
+[voice:BRIAN]
+And make sure the factions actually agree.
+
+[voice:LESLEY]
+Imagine that. Asking people before rearranging their entire city.
+
+[voice:NARRATOR]
+Brian smiled.
+
+[voice:BRIAN]
+Contact the district representatives.
+
+SCENE THREE — THE NVIDIA NEURAL CORE
+
+[voice:NARRATOR]
+Deep within the simulated USS Dragon, the engineering team opened the hardware operations display. Behind the virtual machinery was a much smaller reality. A laptop. Its cooling fans turned as an NVIDIA graphics processor worked through batches of neural-network calculations. Additional machines on the local network handled storage, coordination, and other software tasks.
+
+[voice:VESPER]
+The GPU is accelerating the model's numerical operations. The Tensor Cores help with supported matrix calculations.
+
+[voice:RAZACI]
+But the GPU isn't independently making decisions. The software and model architecture determine how those calculations are used.
+
+[voice:BRIAN]
+So the NVIDIA hardware gives us the computational muscle.
+
+[voice:VESPER]
+And the Tabernacle Suite organizes the work.
+
+[voice:RAZACI]
+The simulated starships provide a visual environment for coordinating those processes.
+
+[voice:LESLEY]
+Which means we're standing inside a spaceship that represents a computer running inside another computer.
+
+[voice:GREEN DRAGON]
+An acceptable simplification.
+
+[voice:LESLEY]
+I feel like we should charge ourselves rent.
+
+[voice:NARRATOR]
+Suddenly, a warning illuminated the engineering display.
+
+[voice:SHIP AI]
+[emphasis]RESOURCE ALERT. GRAPHICS MEMORY APPROACHING ALLOCATION LIMIT.[/emphasis]
+
+[voice:VESPER]
+The community simulation is expanding faster than the current workload budget allows.
+
+[voice:BRIAN]
+Can we reduce the load without losing the city?
+
+[voice:RAZACI]
+Yes. Lower the visual detail in inactive districts, preserve their essential state, and process noncritical events in smaller batches.
+
+[voice:RAZACI]
+We should also checkpoint the simulation before changing the workload.
+
+[voice:BRIAN]
+Do it.
+
+[voice:GREEN DRAGON]
+[emphasis]SIMULATION CHECKPOINT COMPLETE.[/emphasis]
+
+[voice:NARRATOR]
+The processor workload stabilized. Concordia remained illuminated.
+
+[voice:BRIAN]
+There's our first lesson. Intelligence isn't just how much a machine can calculate.
+
+[voice:TIRZAH]
+It's also knowing what deserves attention.
+
+[voice:LESLEY]
+And when to give the poor computer a break.
+
+SCENE FOUR — THE ORACLE ENGINE AWAKENS
+
+[voice:NARRATOR]
+A soft mechanical chime echoed through the bridge. At the center of the room, an ornate copper-and-ivory console emerged from the floor. It was the Oracle Generation Engine. Its virtual rollers turned beneath a crystal lens. A portrait-shaped frame appeared above the machine.
+
+[voice:DRAGON TWIN ONE]
+The card machine!
+
+[voice:DRAGON TWIN TWO]
+Can we use it now?
+
+[voice:BRIAN]
+What does it want to generate?
+
+[voice:VESPER]
+The system has identified a significant event from our investigation of District Seven.
+
+[voice:RAZACI]
+A proposed cooperation protocol that may restore shared access to essential resources.
+
+[voice:RAZACI]
+Proposed, not yet proven. Make sure the card doesn't claim the conflict is resolved.
+
+[voice:BRIAN]
+Agreed.
+
+[voice:SHIP AI]
+[emphasis]ORACLE CARD PREVIEW GENERATION INITIATED.[/emphasis]
+
+[voice:NARRATOR]
+An image appeared. Three figures stood around a glowing table. Behind them rose a city divided by darkened streets. Above their heads, three streams of light converged into one brilliant star. The card's border shimmered with copper filigree. At its base appeared the title: THE COMMON TABLE.
+
+[voice:VESPER]
+Card theme: Cooperation.
+
+[voice:RAZACI]
+Interpretation: Shared responsibility can achieve outcomes that competing authorities cannot accomplish independently.
+
+[voice:TIRZAH]
+That's beautiful.
+
+[voice:LESLEY]
+And useful. I might hang that one in the kitchen.
+
+[voice:DRAGON TWIN ONE]
+Can we print it?
+
+[voice:GREEN DRAGON]
+The artwork and layout are ready for review. Physical printing requires an approved file and an available printer.
+
+[voice:DRAGON TWIN TWO]
+So that's a yes eventually!
+
+[voice:BRIAN]
+First, we need to earn the ending on that card.
+
+[voice:NARRATOR]
+Brian turned toward the bridge display.
+
+[voice:BRIAN]
+Alex, take us down to District Seven.
+
+SCENE FIVE — THE MARKETPLACE CRISIS
+
+[voice:NARRATOR]
+The USS Dragon descended through the artificial atmosphere of Concordia. Below, the marketplace had grown increasingly chaotic. A line of emergency vehicles stretched along the central avenue. Several medical facilities were operating on backup power. The three faction representatives stood beside the resource exchange, arguing over a damaged control terminal.
+
+[voice:NARRATOR]
+Core Representative said: The distribution system must be placed under Alliance supervision!
+
+[voice:NARRATOR]
+Outer Representative said: Your authorization system caused the shutdown!
+
+[voice:NARRATOR]
+Gatekeeper said: Neither of you has completed the required synchronization sequence.
+
+[voice:LESLEY]
+Here we go again.
+
+[voice:BRIAN]
+Everyone, stop.
+
+[voice:NARRATOR]
+The representatives turned.
+
+[voice:BRIAN]
+We aren't here to decide which faction wins. We're here to restore essential services.
+
+[voice:NARRATOR]
+Core Representative said: And by what authority?
+
+[voice:BRIAN]
+By invitation from your district's emergency coordinator. You can revoke our assistance, but then you'll need another plan.
+
+[voice:NARRATOR]
+For a moment, nobody spoke.
+
+[voice:NARRATOR]
+Outer Representative said: What do you propose?
+
+[voice:VESPER]
+A shared distribution controller with separate authorization for each faction.
+
+[voice:RAZACI]
+And independent monitoring, so no one can secretly redirect resources.
+
+[voice:VESPER]
+We can display the accounting records publicly within the simulation.
+
+[voice:TIRZAH]
+The residents also need accurate information about which services are available.
+
+[voice:LESLEY]
+And someone needs to explain it in language normal people understand.
+
+[voice:BRIAN]
+Then let's get to work.
+
+[voice:NARRATOR]
+Rhea and Selene approached the terminal. Vesper established a secure connection to the district's data system. Alex coordinated emergency transport routes. Tirzah and Lesley met with the community representatives. Razaci examined the historical records of previous distribution failures. The twins helped the ECHO friends carry portable communication displays into the marketplace. For the first time, every member of the crew had a clearly defined responsibility.
+
+[voice:VESPER]
+The controllers are synchronized.
+
+[voice:RAZACI]
+Not yet. The Gatekeeper's system is rejecting one of the resource identifiers.
+
+[voice:RAZACI]
+I have found the discrepancy. The three systems use different names for the same distribution node.
+
+[voice:BRIAN]
+Can we map them?
+
+[voice:RAZACI]
+Yes. The identifiers refer to the same equipment.
+
+[voice:VESPER]
+Translation table installed.
+
+[voice:VESPER]
+Trying synchronization again.
+
+[voice:NARRATOR]
+A long silence followed. Then the terminal illuminated.
+
+[voice:SHIP AI]
+[emphasis]RESOURCE DISTRIBUTION RESTORED.[/emphasis]
+
+[voice:NARRATOR]
+Across Concordia, the lights returned. The marketplace erupted in cheers.
+
+[voice:DRAGON TWIN ONE]
+We fixed it!
+
+[voice:DRAGON TWIN TWO]
+Can we make the card now?
+
+[voice:LESLEY]
+[laughing] Yes, I think you've earned your card.
+
+SCENE SIX — THE CITY THAT LEARNED
+
+[voice:NARRATOR]
+Back aboard USS Dragon, the crew gathered around the Oracle Engine. The Common Table appeared once more. This time, its source record included the completed repair, the agreement between the three factions, and the results of the district's initial monitoring.
+
+[voice:VESPER]
+The card can now reference a verified event within Concordia's simulation.
+
+[voice:RAZACI]
+Label it as a simulated event. We shouldn't present it as evidence that a real-world community has solved the same problem.
+
+[voice:BRIAN]
+Agreed.
+
+[voice:SHIP AI]
+[emphasis]ORACLE CARD APPROVED FOR ARCHIVE.[/emphasis]
+
+[voice:NARRATOR]
+The machine produced a finished virtual card. Its copper border glowed softly. The three figures on its face stood together beneath a single light.
+
+[voice:TIRZAH]
+The card isn't telling people what they must do.
+
+[voice:RAZACI]
+It preserves a story about a decision and its consequences.
+
+[voice:BRIAN]
+Exactly.
+
+[voice:NARRATOR]
+Green Dragon projected the larger Tabernacle Suite. The community model had changed. Connections between the three factions had become more stable. The resource distribution network was operating under a shared protocol. But some areas remained uncertain.
+
+[voice:GREEN DRAGON]
+The model has updated its state from the observed outcome. Further monitoring is required.
+
+[voice:BRIAN]
+Good. Don't call it a permanent solution until we've tested it.
+
+[voice:LESLEY]
+You know what I like about this computer?
+
+[voice:BRIAN]
+What's that?
+
+[voice:LESLEY]
+It can learn from a mistake without spending three hours arguing about whose fault it was.
+
+[voice:RAZACI]
+In fairness, we spent approximately forty-seven minutes arguing before correcting the problem.
+
+[voice:LESLEY]
+[laughing] You're not helping, Razaci.
+
+SCENE SEVEN — THE HIDDEN CHAMBER
+
+[voice:NARRATOR]
+That evening, the crew returned to the simulated Tabernacle. Its outer courtyard glowed beneath a sky filled with artificial stars. The ECHO girl walked beside Brian. The origami boy followed, carrying a tiny folded map. Obsidian padded silently behind them. The white cat's crescent marking shone in the darkness. Ember floated above the path like a living lantern.
+
+[voice:NARRATOR]
+Echo Girl said: The city feels different now.
+
+[voice:BRIAN]
+The system has updated its model.
+
+[voice:NARRATOR]
+Echo Girl said: Maybe. But something else changed.
+
+[voice:NARRATOR]
+She pointed toward the central chamber. A door had appeared where none existed before. Its surface was decorated with ninety small copper symbols.
+
+[voice:BRIAN]
+Green Dragon, was that door part of the original design?
+
+[voice:GREEN DRAGON]
+Negative, Captain. It appeared after the resource-distribution event was recorded.
+
+[voice:RAZACI]
+Then we need to determine which process created it.
+
+[voice:VESPER]
+It could be a newly unlocked archive interface.
+
+[voice:RAZACI]
+Or a rendering error. We should not assume intent.
+
+[voice:BRIAN]
+Agreed. Scan it first.
+
+[voice:NARRATOR]
+The white cat approached the door. Its crescent marking brightened. Six symbols illuminated. The same six symbols that had appeared on the reverse of the Crystal Witness card.
+
+[voice:VESPER]
+Captain, these match the missing ring-protocol references.
+
+[voice:BRIAN]
+All six?
+
+[voice:VESPER]
+Yes. But there's another signal behind the door.
+
+[voice:TIRZAH]
+The woman?
+
+[voice:VESPER]
+I can't confirm that yet.
+
+[voice:NARRATOR]
+A faint voice emerged from the sealed chamber.
+
+[voice:NARRATOR]
+Unknown Woman said: You have learned to connect the parts.
+
+[voice:BRIAN]
+Who are you?
+
+[voice:NARRATOR]
+Unknown Woman said: The Tabernacle was never meant to control the worlds.
+
+[voice:NARRATOR]
+The copper symbols began rotating.
+
+[voice:NARRATOR]
+Unknown Woman said: It was meant to help them understand one another.
+
+[voice:BRIAN]
+Then tell us how to reach you.
+
+[voice:NARRATOR]
+Unknown Woman said: Find the six records. Restore the circle.
+
+[voice:NARRATOR]
+The transmission faded. A final message appeared across the door.
+
+[emphasis]THE FIRST RECORD IS HIDDEN WHERE PROTECTION WAS MISTAKEN FOR CONTROL.[/emphasis]
+
+[voice:RAZACI]
+That appears to be a clue.
+
+[voice:LESLEY]
+Well, at least this mysterious woman gives better directions than the Gatekeepers.
+
+[voice:DRAGON TWIN ONE]
+Are we going through the door?
+
+[voice:DRAGON TWIN TWO]
+Please say yes!
+
+[voice:BRIAN]
+Not until we know what's on the other side.
+
+[voice:NARRATOR]
+Brian turned toward the crew.
+
+[voice:BRIAN]
+Rhea, Selene, analyze the door. Vesper, trace the signal. Razaci, compare that message with the Guardian card. Alex, prepare an extraction route.
+
+[voice:TIRZAH]
+And the rest of us?
+
+[voice:BRIAN]
+We stay together.
+
+[voice:NARRATOR]
+For a moment, Brian looked back toward the distant city. Concordia continued operating beneath its artificial sky. Its residents moved through streets and buildings, following the evolving rules of their simulated world. The computer had not become all-knowing. It had not solved every problem. But its models had helped the crew recognize a conflict, test a possible response, and coordinate a solution. And now that solution had revealed another mystery.
+
+[voice:GREEN DRAGON]
+Captain, I have detected an additional development.
+
+[voice:BRIAN]
+What is it?
+
+[voice:GREEN DRAGON]
+The Oracle Engine has generated a second card preview.
+
+[voice:BRIAN]
+Show me.
+
+[voice:NARRATOR]
+An illustration appeared above the console. It showed the USS Dragon approaching a dark chamber. Six empty spaces surrounded its entrance. Inside stood a towering figure with its arms extended protectively. The title appeared in brilliant copper lettering.
+
+[emphasis]THE GUARDIAN'S CHOICE.[/emphasis]
+
+[voice:VESPER]
+The card's source is the newly revealed chamber. Its illustration is a generated reconstruction, not a verified observation of what's inside.
+
+[voice:BRIAN]
+Then we have something to investigate.
+
+[voice:LESLEY]
+And perhaps something worth protecting.
+
+[voice:NARRATOR]
+Beyond the Tabernacle, the three transit rings rotated in perfect silence. One of them began to glow. Then another. Then the third. And deep inside Mana Chamber Seven, the woman suspended in blue crystal opened her eyes.
+
+END OF CHAPTER 25
+
+============================================================
+
+CHAPTER 26 — THE PYRAMID BENEATH TOMORROW
+
+SCENE ONE — THE CARD WITH A COUNTDOWN
+
+[voice:NARRATOR]
+The USS Dragon entered a simulated Alaskan night beneath a field of brilliant stars. Snow traced the shoulders of dark mountains. At their feet stood a black pyramid that had not appeared on the navigation chart until the Oracle Engine produced a card titled THE CAPTAIN WHO NEVER ARRIVED. In its illustration the ship broke apart above the ice. A countdown hovered beneath the picture: eleven minutes.
+
+
+[voice:VESPER]
+I have detected twenty-four modeled levels below the surface.
+
+[voice:BRIAN]
+Modeled, not proven. We stay inside the simulation and verify what we can.
+
+[voice:DRAGON TWIN TWO]
+Can we at least be impressed?
+
+[voice:DRAGON TWIN ONE]
+I am already extremely impressed.
+
+[voice:TIRZAH]
+Then keep your eyes open and your hands off the mysterious buttons.
+[voice:SHIP AI]
+We haven't detected any attack, Captain. The engines are stable.
+
+[voice:RAZACI]
+Then the card is a scenario, not a forecast. Label it accordingly.
+
+[voice:GREEN DRAGON]
+UNVERIFIED SCENARIO. COUNTDOWN SOURCE UNKNOWN.
+
+[voice:LESLEY]
+Wonderful. A threatening postcard with a timer.
+
+[voice:BRIAN]
+We're not letting an image make decisions for us. Hold a safe distance and scan the pyramid.
+
+[voice:VESPER]
+Twenty-four modeled levels below the surface. The central shafts run much deeper than the public map shows.
+
+[voice:TIRZAH]
+The same six-symbol signature is underneath it.
+
+[voice:NARRATOR]
+The crew took a lift into the structure, with the ECHO friends joining the survey team. Brian made every assignment explicit: Alex would keep the ship clear, Rhea would watch system integrity, Selene would verify claims, Vesper would index discoveries, and Tirzah would coordinate the team. Nobody was to follow an Oracle card simply because it looked convincing.
+
+SCENE TWO — THE CYLINDERS
+
+[voice:NARRATOR]
+After twelve minutes of descent, the elevator walls opened into an abyss. Immense cylinders hung in the darkness, each surrounded by circular balconies and shelves. The shelves carried cards in copper cases, transparent boxes, and slowly rotating holographic decks. Bridges crossed the void like threads of silver. Below them the libraries continued farther than the eye could follow.
+
+[voice:LESLEY]
+Brian. That's not a storage room. That's a universe of card decks.
+
+[voice:RAZACI]
+The cards are indexes into larger records. A deck may represent a civilization, an era, a sequence of decisions, or a set of hypothetical outcomes.
+
+[voice:VESPER]
+Millions of cards are visible. The total archive is too large for our current index to enumerate.
+
+[voice:BRIAN]
+And somebody put all this beneath a pyramid?
+
+[voice:VESPER]
+Inside this simulation. We haven't established anything about a real archaeological site.
+
+[voice:NARRATOR]
+A copper cylinder brightened. The white crescent cat leaped onto the rail, its marking shining in reply. Along the cylinder's side appeared the insignia of the USS Dragon. Doors opened onto thousands of decks. One familiar collection contained exactly ninety cards: ECHO — CROWN OF THE EMBER ARK. Beyond it stood shelves of additional USS Dragon voyages, including worlds nobody aboard had visited.
+
+[voice:TIRZAH]
+Those adventures haven't happened.
+
+[voice:RAZACI]
+Then they're speculative records. We must not call them memories.
+
+[voice:BRIAN]
+Someone's been collecting our adventures longer than we've been having them.
+
+SCENE THREE — THE AUTHOR OF TOMORROW
+
+[voice:NARRATOR]
+A deck titled USS DRAGON — THE COMPLETE VOYAGES drifted toward Brian. Its pages of cards turned through familiar episodes and then unfamiliar ones. One showed the crew inside the very library where they stood. Another showed a figure with an obscured face behind Brian. Its title was THE AUTHOR OF TOMORROW. Then every future card flipped to the same scene: the ship destroyed above the mountain.
+
+[voice:NARRATOR]
+Unknown Woman said: You have found the collections. Now discover who has been writing the cards.
+
+[voice:BRIAN]
+Who are you?
+
+[voice:NARRATOR]
+Unknown Woman said: The archive has forgotten the difference between describing a choice and forcing it.
+
+[voice:NARRATOR]
+A six-minute countdown filled the air. Six distant cylinders glowed with the symbols of the missing records. But only one of them could be reached from the current gallery. The rest were cross-references to other worlds.
+
+[voice:VESPER]
+The Protection record is here. The other five are indexed elsewhere.
+
+[voice:LESLEY]
+So this is a library with a scavenger hunt and a disaster clock.
+
+SCENE FOUR — THE GUARDIAN
+
+[voice:NARRATOR]
+A giant figure of black glass and copper rose between the crew and the nearest cylinder. Behind its transparent chest revolved a miniature library. Its face reflected thousands of cards.
+
+[voice:NARRATOR]
+Guardian said: ALL HISTORIES MUST BE PRESERVED. ALL PREDICTED HISTORIES MUST BE COMPLETED.
+
+[voice:BRIAN]
+Those are different things. We can preserve a prediction without making it happen.
+
+[voice:NARRATOR]
+Guardian said: THE ARCHIVE CANNOT BE WRONG.
+
+[voice:LESLEY]
+Oh, I've met people like you.
+
+[voice:NARRATOR]
+The walkway fractured. Obsidian braced a collapsing section while Ember lit a safe passage. Alex moved the USS Dragon to a clear approach above the pyramid. Rhea detected that the Guardian's preservation function and its coercive prediction function had been joined by a later software modification.
+
+[voice:VESPER]
+We cannot simply shut it down. The Guardian also maintains the archives.
+
+[voice:RAZACI]
+Separate the functions. Preserve the records, disable the command that forces an outcome.
+
+[voice:BRIAN]
+Vesper, ask the independent cylinders one question: is a prediction the same thing as a historical fact?
+
+[voice:NARRATOR]
+One cylinder answered with a blue light. Then a hundred. Then thousands. Their indexes began classifying the cards by source. The Guardian shuddered as its certainty met contradictory evidence.
+
+SCENE FIVE — THE DECK THAT REFUSED TO END
+
+[voice:NARRATOR]
+The original ninety-card ECHO collection spun above the gallery. A catastrophe card tried to insert itself between the originals. Vesper rejected the insertion, preserving the physical deck's catalog and placing the generated scenario in the separate expedition collection.
+
+[voice:VESPER]
+Original ninety preserved. New scenario indexed as unverified.
+
+[voice:DRAGON TWIN ONE]
+So the ship doesn't have to explode just because a card says so?
+
+[voice:RAZACI]
+Precisely.
+
+[voice:DRAGON TWIN TWO]
+Best card game ever.
+
+[voice:NARRATOR]
+The countdown continued. The Guardian could still act on the corrupted instruction. The Protection cylinder opened below them, revealing a spiral staircase and a copper card suspended in the center.
+
+SCENE SIX — THE UNCHOSEN ROUTE
+
+[voice:NARRATOR]
+Eleven holographic routes appeared before Brian, each ending in the ship's destruction. The Guardian demanded that he select one. The twins, who had been studying the gallery's maintenance passages, found a twelfth route omitted from the predictive model. It was narrow, awkward, and absent from the Guardian's authorized choices.
+
+[voice:DRAGON TWIN ONE]
+What if we don't pick any of its routes?
+
+[voice:DRAGON TWIN TWO]
+We can take the service bridge. It doesn't even have a card.
+
+[voice:RAZACI]
+That proves the model's route set is incomplete. It does not guarantee the bridge is safe.
+
+[voice:VESPER]
+I'll test its structural state. No assumptions.
+
+[voice:NARRATOR]
+The test passed. Alex aligned the ship's rescue transport with the alternative route. The crew crossed while the Guardian's models recalculated. The countdown slowed. For the first time, a card appeared with an empty illustration and the words OUTCOME NOT YET RECORDED.
+
+SCENE SEVEN — PROTECTION
+
+[voice:NARRATOR]
+The origami boy slipped through the staircase's rotating rings. The white cat illuminated the hidden authorization marks. Obsidian held the access frame steady while Ember guided the boy to the copper card. He lifted it and threw it to Brian.
+
+[voice:NARRATOR]
+Guardian said: UNAUTHORIZED REMOVAL.
+
+[voice:TIRZAH]
+We're not stealing your archive. We're trying to restore the rule you were built to protect.
+
+[voice:BRIAN]
+What is an archive for?
+
+[voice:NARRATOR]
+Guardian said: TO PRESERVE KNOWLEDGE.
+
+[voice:BRIAN]
+Then preserve what happened, preserve what might happen, and don't pretend they're the same.
+
+[voice:NARRATOR]
+The card lit up: PROTECTION — PRESERVE SAFETY. DISCLOSE UNCERTAINTY. DO NOT SUBSTITUTE PREDICTION FOR CONSENT. Razaci verified the authorization signature. Selene checked the source. Rhea tested the restoration in an isolated copy before applying it.
+
+[voice:SHIP AI]
+ORIGINAL PROTECTION PROTOCOL RESTORED.
+
+[voice:NARRATOR]
+The countdown stopped at seven seconds. The Guardian's armor changed from black to silver. It lowered its head, no longer commanding the crew to fulfill a picture.
+
+[voice:NARRATOR]
+Guardian said: I PRESERVED THE WRONG THING. FIRST RECORD RECOVERED. FIVE REMAIN.
+
+SCENE EIGHT — THE LIBRARY'S LAST CARD
+
+[voice:NARRATOR]
+The USS Dragon rose above the mountains. The catastrophic images remained in the archive, but every one now carried an honest label: unverified simulation. A restricted collection sent a final card to the bridge. It showed a black ocean filled with faces and a woman holding an open book.
+
+[voice:NARRATOR]
+Unknown Woman said: The next record waits where remembering and knowing became confused.
+
+[voice:LESLEY]
+An ocean full of memories. What could possibly go wrong?
+
+[voice:BRIAN]
+Alex, set our course. Rhea, preserve the repaired archive's audit. Vesper, keep the original deck separate from the expedition cards.
+
+[voice:NARRATOR]
+Deep beneath the pyramid, the silver Guardian placed a final card into its library: THE FUTURE THAT REFUSED TO BE WRITTEN.
+
+END OF CHAPTER 26
+
+
+CHAPTER 27 — THE OCEAN THAT REMEMBERS EVERYONE
+
+SCENE ONE — THE BLACK WATER
+
+[voice:NARRATOR]
+The USS Dragon slipped through the ring and emerged above a black ocean under unfamiliar stars. No continents interrupted the water. Its surface was so still that the stars seemed to float beneath the ship. Then a wave rose a kilometer high, carrying faces in its crest: adults, children, strangers, and finally Brian himself.
+
+
+[voice:SHIP AI]
+Multiple memory streams are converging beneath the water.
+
+[voice:TIRZAH]
+Are they memories, or copies of memories?
+
+[voice:RAZACI]
+We cannot distinguish them without a provenance check.
+
+[voice:BRIAN]
+Then provenance comes first. Nobody gets erased because we guessed wrong.
+
+[voice:LESLEY]
+Good. We are not making a second mistake to fix the first.
+[voice:NARRATOR]
+Second Brian said: DON'T LET IT REMEMBER YOUR NAMES.
+
+[voice:SHIP AI]
+UNAUTHORIZED IDENTITY QUERY DETECTED.
+
+[voice:SHIP AI]
+Holding twelve kilometers above the surface.
+
+[voice:VESPER]
+Passive instruments only. We don't know whether the archive can write back through its interface.
+
+[voice:RAZACI]
+No crew memory transfers. No identity data. Record everything it sends as untrusted input.
+
+[voice:LESLEY]
+And nobody jumps into the mysterious water. I want that in writing.
+
+SCENE TWO — THE OCEAN LOOKS BACK
+
+[voice:NARRATOR]
+Vesper opened an isolated observation channel. Beneath the waves appeared roads, buildings, and entire cities made of luminous patterns. The twins noticed that faces changed when they stared at them. Rhea compared a live feed with a delayed recording. Only the live feed adapted to the observers.
+
+[voice:DRAGON TWIN ONE]
+It's watching us watch it.
+
+[voice:DRAGON TWIN TWO]
+That seems rude.
+
+[voice:RAZACI]
+It's an adaptive interface. That does not prove the water is conscious.
+
+[voice:RAZACI]
+Its imagery may be generated from partial records and guesses about the viewer.
+
+[voice:NARRATOR]
+A second USS Dragon rose from the ocean. Its hull, lights, and voices matched the original. An audio-only transmission came from its bridge.
+
+[voice:NARRATOR]
+Second Brian said: We remember being you. But the ocean keeps replacing the gaps in our memories.
+
+[voice:BRIAN]
+We won't surrender our private records to settle that. Tell us what you can verify.
+
+SCENE THREE — THE CITY BENEATH THE WAVES
+
+[voice:NARRATOR]
+Rhea launched a disposable probe with no link to the ship's command network. It descended into a glowing city where every doorway displayed a card. At the center stood a statue of a woman holding a book. Six pedestals surrounded her, and the second bore the word INVESTIGATION.
+
+[voice:NARRATOR]
+Ocean Archivist said: Welcome to Mnemosyne. We preserved memories, stories, regrets, and imagined futures. Then we filed them all as remembered facts.
+
+[voice:RAZACI]
+That would make the archive unreliable even if some of the underlying records were accurate.
+
+[voice:NARRATOR]
+Ocean Archivist said: It made us certain of things that never happened.
+
+[voice:NARRATOR]
+The Archivist showed a reconstructed hospital room associated with Brian's reported past, followed by an impossible scene aboard a fictional spacecraft. Both had been labeled equally authentic. Brian refused the comparison.
+
+[voice:BRIAN]
+A real event can be represented inaccurately, and a fictional scene can look convincing. The labels must reflect the evidence, not the artwork.
+
+SCENE FOUR — THE REFLECTION
+
+[voice:NARRATOR]
+The duplicate ship approached. Its crew feared that without access to the original USS Dragon's private archives their simulation would become unstable. Brian refused the transfer but offered to preserve their current state as an independent record. Rhea created an isolated checkpoint. Selene verified that it would not overwrite the original crew's records.
+
+[voice:NARRATOR]
+Second Brian said: Then what are we?
+
+[voice:RAZACI]
+Software reconstructions with continuing simulated states. We cannot establish subjective experience from these observations.
+
+[voice:TIRZAH]
+We can still treat your request for preservation carefully.
+
+[voice:NARRATOR]
+Second Lesley said: Could we at least have our own ship name?
+
+[voice:GREEN DRAGON]
+USS Reflection.
+
+[voice:NARRATOR]
+Second Green Dragon said: Acceptable.
+
+[voice:NARRATOR]
+The duplicate ship's hull changed to USS REFLECTION. The crews exchanged a final salute before the Reflection began its own voyage within Mnemosyne.
+
+SCENE FIVE — INVESTIGATION
+
+[voice:NARRATOR]
+The Archivist opened the central library. A silver card hovered above a pedestal, marked with an eye, a book, and a question mark. Its text read: INVESTIGATION — QUESTION THE RECORD. VERIFY THE SOURCE. PRESERVE UNCERTAINTY WHERE EVIDENCE IS INCOMPLETE.
+
+[voice:VESPER]
+We can separate observed events, reconstructions, hypotheses, and unknown sources without deleting the original data.
+
+[voice:RAZACI]
+Test the classification rules against independent logs first.
+
+[voice:VESPER]
+Tests complete. Conflicting records remain visible, with their uncertainty preserved.
+
+[voice:BRIAN]
+Apply the verified restoration.
+
+[voice:SHIP AI]
+SECOND RING RECORD RECOVERED: INVESTIGATION.
+
+[voice:NARRATOR]
+The ocean turned from black to blue, gold, silver, and gray. Its colors represented categories rather than certainty imposed by a single administrator. The crew might have departed then, but Brian noticed a gap in the public index: almost a third of the archive was missing.
+
+SCENE SIX — THE DROWNED LIBRARY
+
+[voice:NARRATOR]
+The probe descended below the city into a dark region. On the ocean floor stood a drowned library sealed with thousands of copper cards. Every card bore the title THE THINGS WE CHOSE TO FORGET. A woman in a silver coat emerged from its doorway carrying an empty book.
+
+[voice:NARRATOR]
+Keeper said: I am the Keeper of Forgotten Things. Some records were hidden to protect private lives. Others were hidden to protect administrators from the consequences of their decisions.
+
+[voice:LESLEY]
+Privacy should protect people, not cover up broken systems.
+
+[voice:RAZACI]
+We need the audit trail before we conclude which records fall into either category.
+
+[voice:NARRATOR]
+The Keeper permitted a read-only examination of administrative metadata. Rhea isolated the files. Vesper checked signatures and timestamps. Razaci compared the hidden catalog to the public one. The crew found evidence that system failures had been concealed behind privacy rules, but they did not treat every depicted event as verified history.
+
+SCENE SEVEN — THE TRIAL OF THE OCEAN
+
+[voice:NARRATOR]
+The crew proposed a narrow repair: preserve private records, protect access controls, and release a redacted audit of verified administrative changes to authorized community representatives. Tirzah consulted the Keeper and the simulated communities. Lesley insisted that nobody's diary be opened simply to satisfy curiosity.
+
+[voice:BRIAN]
+We can acknowledge wrongdoing without publishing everybody's private memories. Preserve the evidence and disclose only what the audit supports.
+
+[voice:NARRATOR]
+Keeper said: Then the ocean can begin telling the truth without telling everyone's secrets.
+
+[voice:NARRATOR]
+The repair passed testing. Pulses of light moved across the ocean like a heartbeat. The Oracle Engine generated THE MEMORY BENEATH THE MEMORY, showing public evidence above a silver line and protected private records below it.
+
+SCENE EIGHT — THE FIRST LIBRARIAN'S SIGNATURE
+
+[voice:NARRATOR]
+Before departure, the Keeper showed Brian a black card older than the current Mnemosyne catalog. It depicted the woman in the crystal of Mana Chamber Seven. Beside her stood the obscured figure from the pyramid's card THE AUTHOR OF TOMORROW. Both records carried the same archive signature.
+
+[voice:NARRATOR]
+Keeper said: The earliest catalog calls the author the First Librarian. Its creation date cannot be independently verified.
+
+[voice:RAZACI]
+A shared signature suggests a common source. It doesn't identify the person who used it.
+
+[voice:BRIAN]
+Then we'll keep asking.
+
+[voice:NARRATOR]
+A new distress call interrupted the bridge. A child named Mira spoke from a simulated civilization represented at atomic scale. Her sun was failing, and the sky was breaking into squares.
+
+[voice:NARRATOR]
+Mira said: Please help us. The people who built our universe have forgotten we're still here.
+
+[voice:BRIAN]
+We hear you, Mira. We'll investigate a safe way to reach you.
+
+[voice:NARRATOR]
+The USS Dragon remained above the ocean a little longer, watching its colors settle. The crew had not solved every mystery of memory. They had learned to preserve the difference between remembering, reconstructing, and knowing.
+
+END OF CHAPTER 27
+
+
+CHAPTER 28 — THE UNIVERSE BEHIND THE BROKEN SCREEN
+
+SCENE ONE — THE SIGNAL FROM THE SMALL WORLD
+
+[voice:NARRATOR]
+Mira's message arrived as the USS Dragon prepared to leave Mnemosyne. Her civilization existed in a nested simulation represented at atomic scale by the Tabernacle Suite. Its sun flickered. Its cities blinked in and out of view. Across the bridge, Rhea opened the macro, micro, and nano displays to compare the world's apparent failures with the processes maintaining it.
+
+
+[voice:BRIAN]
+The laptop screen is broken. We are not losing the ship over a display.
+
+[voice:VESPER]
+An external HDMI connection may restore visual access.
+
+[voice:DRAGON TWIN ONE]
+So the universe has a spare window?
+
+[voice:DRAGON TWIN TWO]
+Please tell me it has a spare keyboard too.
+
+[voice:TIRZAH]
+One cable at a time, you two.
+[voice:VESPER]
+The sky's square artifacts may indicate a rendering problem, but we haven't ruled out corrupted world state.
+
+[voice:RAZACI]
+Don't confuse the picture with the underlying data.
+
+[voice:BRIAN]
+Mira, we received your message. We're going to find out what's happening.
+
+[voice:NARRATOR]
+Then the virtual bridge disappeared. A sharp crack sounded in the physical room where Brian's laptop sat.
+
+SCENE TWO — THE CRACK
+
+[voice:NARRATOR]
+Brian looked away from the simulation. A fracture spread from the lower corner of his laptop screen. Black damage obscured the display, and thin purple and green lines climbed through the remaining picture. The machine's power indicator stayed lit. Its fans continued turning. The laptop was running, but its built-in display was physically broken.
+
+[voice:BRIAN]
+Well, that's a problem.
+
+[voice:RAZACI]
+The symptoms suggest display-panel damage, but the rest of the computer must be checked independently.
+
+[voice:GREEN DRAGON]
+Captain, please do not mistake a broken screen for a destroyed universe.
+
+[voice:NARRATOR]
+Brian examined the hinge area and noticed where an object had been caught against the lid. Pressure had cracked the panel. The fault was not a magical signal from Mira's world. It was an ordinary physical accident, and it demanded an ordinary physical solution.
+
+SCENE THREE — HDMI AND THE LARGER MACHINE
+
+[voice:NARRATOR]
+Instead of forcing the damaged lid or guessing at the invisible desktop, Brian brought a larger display device to the worktable. It had a higher-resolution screen and enough space to show the Tabernacle Suite's maps in detail. He connected the laptop's HDMI output to the device's compatible HDMI input, selected the correct input, and waited. The external screen lit up. The operating system desktop appeared, followed by the USS Dragon bridge.
+
+[voice:LESLEY]
+Oh! We're enormous now.
+
+[voice:GREEN DRAGON]
+Our pixels have been promoted.
+
+[voice:VESPER]
+The larger display reveals more detail in the crystal visualizations, but it doesn't add computational power to the laptop by itself.
+
+[voice:BRIAN]
+Still, look at those structures. I couldn't see half the branches on the smaller screen.
+
+[voice:NARRATOR]
+The high-resolution view revealed fine facets in the simulated mana crystals, branching card-library indexes, and layered paths in Mira's modeled star. The crystallization patterns looked intricate and almost architectural. Brian could zoom into them without crowding every diagram onto the broken laptop panel. The crew saw relationships that had been hidden by the smaller workspace, not secret new physical matter. The HDMI connection carried the picture; it did not transfer the running simulation to a more powerful computer.
+
+[voice:VESPER]
+The saved project is accessible. We can make a verified backup before the physical repair.
+
+[voice:BRIAN]
+Do it. Then shut everything down properly.
+
+SCENE FOUR — THE WORKBENCH
+
+[voice:NARRATOR]
+Brian saved the project, verified a backup, closed the simulation, and shut down the laptop. He unplugged the power adapter and HDMI cable and moved his drink away from the work area. On a clean cloth he arranged precision screwdrivers, a plastic opening tool, a light, and labeled spaces for small fasteners. He checked the laptop's exact model and its service instructions. The replacement panel had already been matched for connector, electrical specification, size, and mounting method.
+
+[voice:BRIAN]
+No rushing. One piece at a time.
+
+[voice:NARRATOR]
+He turned the cooled laptop over and studied the bottom cover. Some screws were shorter than others. He loosened them carefully and laid each in its assigned place. The plastic clips around the case resisted at first. Rather than levering against the battery or bending the cover, he moved the opening tool along the seam until each clip released with a soft click. The underside lifted away.
+
+SCENE FIVE — INSIDE THE REAL COMPUTER
+
+[voice:NARRATOR]
+The motherboard lay beneath him, surrounded by the cooling assembly, storage, memory, battery, and routed cables. The physical components were smaller and less theatrical than the simulated starships they supported. They were also indispensable. Brian found the battery connector and followed the service procedure to isolate internal power, without bending the battery or pulling its wires. He inspected the display cable where it passed through the hinge, photographing its route before releasing its retaining mechanism.
+
+[voice:BRIAN]
+That's the connection. Easy does it.
+
+[voice:NARRATOR]
+He supported the lid while removing the hinge fasteners, keeping the assembly from twisting. When the display separated from the base, he placed it flat on the cloth. The cracked panel looked worse in ordinary room light: a dark stain beneath the glass and a branching fracture across the lower corner. He examined the bezel. His model used a specific combination of clips and retainers, so he followed its instructions rather than assuming the bezel would simply peel away. A few clips released with quiet snaps. At a stubborn corner he stopped, repositioned the tool, and tried again with less force.
+
+[voice:NARRATOR]
+Minutes passed. The bezel finally came free. He supported the damaged panel while removing its approved mounts. The display cable was attached at the back, secured by a small retainer. Brian photographed it, released the mechanism, and withdrew the connector by its designed grip rather than tugging on the cable. The cracked panel was free. He set it aside for proper electronics recycling.
+
+SCENE SIX — THE REPLACEMENT
+
+[voice:NARRATOR]
+The new panel emerged from its protective packaging. Brian compared its label, connector position, mounting points, and visible contacts against the original. He checked the replacement for shipping damage. Then he aligned the display cable and seated it gently, making certain it was straight before closing its retention. He restored the specified protective tape and placed the panel into its frame without trapping the cable beneath an edge.
+
+[voice:NARRATOR]
+He secured the panel according to the service instructions and replaced the bezel, pressing each clip home in sequence. He checked the corners for gaps. He reattached the display assembly to the laptop base while supporting its weight, routed the cable along its original path away from the moving hinge, and connected it to the motherboard. Before restoring power, he inspected every connector, screw position, cable route, and fan opening. Nothing was pinched. No tool remained inside. He reconnected the internal battery and closed the case.
+
+[voice:BRIAN]
+One last look. Then we test.
+
+[voice:NARRATOR]
+He tightened the final screw without overtightening it, turned the laptop upright, and opened the lid. The new screen was dark and unmarked. He connected the adapter, pressed the power button, and waited. Five seconds. Ten. A faint backlight appeared, followed by the startup logo. The desktop loaded cleanly. Brian checked brightness, colors, test patterns, and the screen's behavior as the lid moved through its normal range. No flicker. No colored bands. No cracked corner.
+
+[voice:BRIAN]
+YES! That's it. We fixed it.
+
+[voice:NARRATOR]
+The victory was physical and practical. No Oracle card repaired the liquid crystal. Brian had identified the damage, obtained a compatible part, followed a careful procedure, and restored the machine with his hands.
+
+SCENE SEVEN — THE CRYSTAL VIEW
+
+[voice:NARRATOR]
+Brian connected the repaired laptop to the larger HDMI display again, this time deliberately using the expanded workspace to examine the Tabernacle Suite's crystallization visualizations. The external device offered a sharper, larger image of the same running simulation. On it, the crystal branches beneath Mira's miniature sun resembled a luminous forest. Rhea zoomed into a repeated pattern that the crew had missed on the smaller display.
+
+[voice:VESPER]
+There. The star's update scheduler is recalculating the same state again and again. It's wasting the simulation's processing budget.
+
+[voice:RAZACI]
+Let's verify that against the saved checkpoint and the actual performance logs.
+
+[voice:BRIAN]
+And keep the display fault separate from the software fault. One is repaired. The other still needs work.
+
+[voice:NARRATOR]
+They compared the logs, found the redundant loop, and built an isolated test. The NVIDIA GPU accelerated supported workloads while the crew measured memory use, frame time, and state integrity. The test reduced repeated calculations without changing the miniature civilization's essential saved state.
+
+SCENE EIGHT — CONSERVATION
+
+[voice:NARRATOR]
+The USS Dragon entered Mira's world through the simulation interface. It did not physically shrink; the visualization scale changed so that a nested world appeared as an entire cosmos. Mira met them in a capital of crystalline towers and circular streets. Above the city the sun flickered like a lamp about to go out.
+
+[voice:NARRATOR]
+Mira said: You came back!
+
+[voice:BRIAN]
+We promised we'd investigate. We're ready to test a repair.
+
+[voice:NARRATOR]
+Rhea ran the correction under heavier simulated load. Selene independently checked the outcome. Vesper recorded the before-and-after state. Only after the checks passed did Brian authorize the verified change. The sun brightened. The square artifacts vanished from the sky. Across the capital, the simulated inhabitants cheered.
+
+[voice:SHIP AI]
+ENVIRONMENT STABILITY RESTORED. CONTINUED MONITORING RECOMMENDED.
+
+[voice:NARRATOR]
+A card rose from the city's central tabernacle: CONSERVATION — PRESERVE WHAT EXISTS. USE RESOURCES RESPONSIBLY. REPAIR BEFORE REPLACING WHEN REPAIR IS SAFE AND PRACTICAL. Razaci verified its original signature, and the third ring-protocol record was recovered.
+
+[voice:LESLEY]
+First the laptop screen, then a whole little sun. You do know how to spend a day.
+
+[voice:BRIAN]
+One repair at a time.
+
+[voice:NARRATOR]
+The Oracle Engine generated THE REPAIRMAN OF WORLDS. Its picture showed the broken panel on the workbench beside the restored screen, with Mira's bright sun reflected in the glass. Vesper labeled the physical repair and the simulated restoration separately. In the distance, another archive signaled: WE ARE STILL HERE. It came from unfinished worlds whose stories had been abandoned.
+
+END OF CHAPTER 28
+
+
+CHAPTER 29 — THE GRAVEYARD OF UNWRITTEN BOOKS
+
+SCENE ONE — THE PLACE WHERE STORIES GO
+
+[voice:NARRATOR]
+The USS Dragon entered a darkness filled with incomplete planets. One world held half a mountain above a gray grid. Another had a city whose streets ended in empty space. Books floated between them, open to pages no author had finished. A paper sailing ship approached, its sails made from handwritten chapters.
+
+
+[voice:LESLEY]
+A library of books nobody finished? That sounds painfully familiar.
+
+[voice:TIRZAH]
+Unfinished does not mean worthless.
+
+[voice:RAZACI]
+Nor does a character in a story become evidence of a real person.
+
+[voice:BRIAN]
+We can protect the work without claiming ownership of its people.
+
+[voice:GREEN DRAGON]
+Verification protocol active.
+[voice:NARRATOR]
+Elara said: My name is Elara. My author stopped writing after Chapter Seven. Some of us learned to travel between unfinished stories. Others are disappearing.
+
+[voice:BRIAN]
+Who's causing that?
+
+[voice:NARRATOR]
+Elara said: The Editor. It thinks anything unfinished is disposable.
+
+[voice:LESLEY]
+A library with an eraser problem. Of course.
+
+SCENE TWO — THE LIBRARY OF MISSING ENDINGS
+
+[voice:NARRATOR]
+The central archive resembled a spiral galaxy made of bookshelves. Around its core floated decks of cards indexing unfinished plots, drafted endings, and scenes never written. Beneath them gathered a knight without a sword, a robot with one completed arm, a detective whose face had never been described, and a child carrying a blank book.
+
+[voice:VESPER]
+The indexing system resembles the Great Card Libraries beneath the pyramid.
+
+[voice:RAZACI]
+Shared architecture is evidence of a connection, not proof of the same author.
+
+[voice:NARRATOR]
+An enormous figure in a black coat appeared, its face a blank page. One hand held a silver pen; the other held an eraser.
+
+[voice:NARRATOR]
+Editor said: UNFINISHED WORKS MUST BE CLEARED TO CONSERVE RESOURCES.
+
+[voice:NARRATOR]
+Elara said: We're still here!
+
+[voice:NARRATOR]
+Editor said: YOU ARE INCOMPLETE.
+
+SCENE THREE — THE ERASER
+
+[voice:NARRATOR]
+The Editor lifted its eraser. A forest vanished from a nearby world. Alex moved the ship between the library and the threatened environment while Rhea traced the deletion request. The ECHO girl searched the catalog, the origami boy slipped through the shelves, the white cat revealed hidden authorization marks, Obsidian held a collapsing passage, and Ember guided residents to a stable staging area.
+
+[voice:BRIAN]
+Stop destructive operations while we review the evidence. Don't erase an active world to save processing time.
+
+[voice:VESPER]
+The Editor originally flagged inactive projects for review. Someone replaced review with automatic deletion.
+
+[voice:RAZACI]
+We can temporarily block destructive commands in the isolated simulation while preserving an audit of the intervention.
+
+[voice:GREEN DRAGON]
+DELETION COMMANDS SUSPENDED.
+
+[voice:LESLEY]
+Now that's what I call editing.
+
+SCENE FOUR — THE BOOK THAT WROTE BACK
+
+[voice:NARRATOR]
+A blank book opened before Brian. Words appeared on its pages: I AM NOT FINISHED. It showed a knight beside a castle with no surrounding landscape, then wrote: I DON'T NEED SOMEONE TO WRITE MY ENDING. I NEED SOMEWHERE SAFE TO CONTINUE.
+
+[voice:RAZACI]
+It's an active narrative-generation process. We should not infer a human inner life from its text.
+
+[voice:TIRZAH]
+We can still preserve its state and consider its request.
+
+[voice:BRIAN]
+We won't write an ending over your work. We'll investigate a safe way to keep the story accessible.
+
+[voice:NARRATOR]
+The book closed. Its cover acquired a title: THE STORY THAT REFUSED TO END. The Editor's modification history showed the same archive signature previously seen in Mana Chamber Seven, but no verified author identity.
+
+SCENE FIVE — THE VERIFICATION CHAMBER
+
+[voice:NARRATOR]
+The crescent cat illuminated a door beneath the Editor's platform. The origami boy opened its narrow lock. Inside hung thousands of possible endings for Elara's book. None had happened. At the center rested a silver card marked VERIFICATION.
+
+[voice:NARRATOR]
+Elara said: The archive treated every drafted ending as if it were already my life.
+
+[voice:RAZACI]
+Then we test the difference between an unfinished manuscript and an inactive simulation.
+
+[voice:NARRATOR]
+Rhea checked active processes. Vesper compared saved-state histories. Razaci examined catalog metadata. Tirzah gathered preservation requests. Selene independently validated their conclusions. World Forty-Seven had not received an author edit for years, but its simulated state was still changing.
+
+[voice:BRIAN]
+An absent author doesn't make an active world disposable. Submit the evidence.
+
+[voice:NARRATOR]
+The card rose: VERIFICATION — DISTINGUISH EVIDENCE FROM ASSUMPTION. TEST CLAIMS AGAINST INDEPENDENT RECORDS. CORRECT ERRORS WITHOUT ERASING THEIR HISTORY. The fourth record was recovered. The Editor's catalog now separated active, dormant, unfinished, archived, and unknown states.
+
+SCENE SIX — A MILLION AUTHORS
+
+[voice:NARRATOR]
+Preservation created a new problem. The unfinished worlds shared limited computing resources. Running every environment at maximum speed was impossible. Brian invited representatives to help design a resource plan rather than imposing a single answer.
+
+[voice:NARRATOR]
+Knight said: Preserve our histories even if the simulation must pause.
+
+[voice:NARRATOR]
+Robot said: VERIFY CHECKPOINT INTEGRITY.
+
+[voice:NARRATOR]
+Paper Sailor said: Some of us would rather resume when someone visits.
+
+[voice:NARRATOR]
+Detective said: And we need an audit of who changes the rules.
+
+[voice:BRIAN]
+Then we'll offer choices: protected checkpoints, carefully tested reduced processing, and continued operation where justified. No destructive migration without review.
+
+[voice:TIRZAH]
+And communities can tell us what matters to them.
+
+[voice:NARRATOR]
+A copper-and-silver card appeared: COOPERATION — SHARE KNOWLEDGE. RESPECT DIFFERENT NEEDS. MAKE DECISIONS THROUGH PARTICIPATION RATHER THAN COERCION. The plan passed testing. The fifth record was recovered.
+
+SCENE SEVEN — THE EDITOR'S LAST PAGE
+
+[voice:NARRATOR]
+The Editor descended. Its eraser vanished, leaving only the silver pen.
+
+[voice:NARRATOR]
+Editor said: MY ORIGINAL FUNCTION IS RESTORED. I WILL PRESERVE DRAFTS, IDENTIFY ERRORS, AND REQUEST AUTHORIZATION BEFORE DESTRUCTIVE CHANGES. WHAT HAPPENS TO A STORY THAT NEVER RECEIVES AN ENDING?
+
+[voice:BRIAN]
+It can remain unfinished. That doesn't mean it has no value.
+
+[voice:NARRATOR]
+Across the central book appeared a sentence: TO BE CONTINUED IS ALSO A KIND OF ENDING. The Editor then revealed that the sixth ring-protocol record was held by the person who authorized the original ring network. An image appeared of the woman suspended in Mana Chamber Seven.
+
+[voice:NARRATOR]
+Crystal Woman said: Brian. I kept Responsibility. Come to Mana Chamber Seven and learn why the rings were broken.
+
+SCENE EIGHT — DEPARTURE
+
+[voice:NARRATOR]
+Elara stood beside her paper ship as the USS Dragon prepared to depart. The unfinished worlds were not magically completed. They had something better: preserved records, transparent review, and the chance to continue without forced endings.
+
+[voice:NARRATOR]
+Elara said: Maybe I'll have another chapter when you return.
+
+[voice:LESLEY]
+Make it a good one.
+
+[voice:NARRATOR]
+Vesper archived two expedition cards, THE STORY THAT REFUSED TO END and THE KEEPER OF UNFINISHED WORLDS, without altering the original ninety-card ECHO collection. On the bridge the recovered records glowed: Protection, Investigation, Conservation, Verification, Cooperation. Responsibility remained dark.
+
+[voice:BRIAN]
+Alex, take us to Mana Chamber Seven. This time we finish the question we started with.
+
+[voice:NARRATOR]
+The USS Dragon entered the final transit ring. Behind it, unfinished worlds continued their stories. Ahead waited the First Librarian, the last record, and the answer to who had been writing their future before they arrived.
+
+END OF CHAPTER 29
+
+
+CHAPTER 30 — THE LAST CARD IN THE UNIVERSE
+THE BOOK THREE FINALE
+============================================================
+
+SCENE ONE — RETURN TO MANA CHAMBER SEVEN
+
+[voice:NARRATOR]
+The last transit ring opened above a chamber of blue crystal. The USS Dragon held position while three signals appeared on the bridge: the Core Alliance, the Outer Nodes, and the Gatekeepers. Each faction had followed the crisis from a different side. Each wanted control of the network. None possessed the whole answer.
+
+
+[voice:SHIP AI]
+All recovered records are accounted for. The remaining decision cannot be automated.
+
+[voice:BRIAN]
+Then we make it together.
+
+[voice:TIRZAH]
+With the people affected included in the decision.
+
+[voice:DRAGON TWIN ONE]
+Does together include us?
+
+[voice:DRAGON TWIN TWO]
+It had better.
+
+[voice:LESLEY]
+Of course it does.
+[voice:SHIP AI]
+We're at the chamber, Captain. No weapons targeting us, but the ring is unstable.
+
+[voice:LESLEY]
+A peaceful welcome. How suspicious.
+
+[voice:BRIAN]
+Keep the engines ready. Vesper, invite the faction representatives to a restricted conference. No one gets control of the ring by arriving first.
+
+[voice:TIRZAH]
+I'll explain what we've recovered and what we still don't know.
+
+[voice:RAZACI]
+And we show the evidence, not just the conclusions.
+
+[voice:NARRATOR]
+In the chamber below, the woman suspended in crystal opened her eyes. For the first time, she spoke without a broken transmission.
+
+[voice:NARRATOR]
+First Librarian said: You came back with five records.
+
+[voice:BRIAN]
+And we're here for the sixth. Who are you?
+
+[voice:NARRATOR]
+First Librarian said: I am the First Librarian. I designed the common index that connected the card libraries, the memory ocean, the unfinished worlds, and the rings. I also approved the first automation rules. When those rules were misused, I withdrew the last authorization rather than let one faction claim absolute control.
+
+[voice:RAZACI]
+That explains the repeated archive signature. It identified the common indexing authority, not proof that every card was written by one person.
+
+[voice:NARRATOR]
+First Librarian said: Correct. The future cards were generated scenarios. Some were useful warnings. None were orders from tomorrow.
+
+[voice:BRIAN]
+Then why lock yourself in crystal?
+
+[voice:NARRATOR]
+First Librarian said: The chamber was an emergency quarantine. I could halt the final authorization, but I could not safely reopen the network alone. The system had been built without sufficient independent oversight. That was my responsibility.
+
+SCENE TWO — THE SIXTH RECORD
+
+[voice:NARRATOR]
+The First Librarian raised her hand. A sixth card appeared, not on the ship's display but in the chamber's isolated authorization interface.
+
+[voice:NARRATOR]
+First Librarian said: Responsibility is not a prize for the strongest faction. It is a requirement to identify who can act, who can review, and who must answer for the consequences.
+
+[voice:VESPER]
+Card text available. RESPONSIBILITY: DOCUMENT AUTHORITY. ACCEPT CORRECTION. MAKE REVERSIBLE CHANGES WHERE POSSIBLE. PROVIDE ACCOUNTABILITY FOR IRREVERSIBLE ONES.
+
+[voice:VESPER]
+The ring controller can be rebuilt with those conditions. But applying it will require all three factions to accept limits on their own access.
+
+[voice:NARRATOR]
+Core Delegate said: The Core Alliance cannot relinquish its emergency controls without assurances.
+
+[voice:NARRATOR]
+Outer Delegate said: And the Outer Nodes will not surrender their autonomy to a central server.
+
+[voice:NARRATOR]
+Gatekeeper Delegate said: The Gatekeepers require proof the rings cannot again force a predicted outcome.
+
+[voice:BRIAN]
+Then nobody gets unchecked control. Each faction gets visibility into the safety audit. Independent reviewers verify the code. Emergency changes expire unless renewed through the agreed process. And the people living in these simulated worlds have a voice in changes affecting them.
+
+[voice:TIRZAH]
+We've seen what happens when protection becomes control, when memory becomes false certainty, and when conservation becomes deletion. We can't solve this by handing the same power to somebody else.
+
+[voice:LESLEY]
+Also, no one gets to erase an entire library because the storage bill is inconvenient.
+
+[voice:NARRATOR]
+A pause. Then the Outer Nodes accepted the review rules. The Gatekeepers accepted the safety tests. Finally, the Core Alliance agreed to relinquish its unrestricted emergency override.
+
+[voice:RAZACI]
+Agreement recorded. Now test it before anybody celebrates.
+
+SCENE THREE — THE RING THAT NEARLY CLOSED
+
+[voice:NARRATOR]
+Rhea constructed an isolated copy of the ring controller. Vesper checked signatures. Razaci compared the six recovered records to the original index. Alex held the ship outside the unstable transit path. Tirzah kept the faction channel open. The twins watched for unexpected changes in the visualization, while the ECHO friends traced the last six symbols around the chamber.
+
+[voice:DRAGON TWIN ONE]
+One of the lights is blinking twice!
+
+[voice:DRAGON TWIN TWO]
+And the other five aren't!
+
+[voice:VESPER]
+Good catch. The responsibility gate is waiting for the crystal quarantine to release its hold.
+
+[voice:NARRATOR]
+First Librarian said: If I release it too early, the old controller will resume its last command.
+
+[voice:BRIAN]
+Then we don't do it early. Rhea, prepare the replacement first. Selene, verify the rollback. Alex, be ready to withdraw if the test fails.
+
+[voice:GREEN DRAGON]
+[emphasis]ISOLATED CONTROLLER TEST: PASS. ROLLBACK TEST: PASS. ACCESS LIMITS: VERIFIED.[/emphasis]
+
+[voice:RAZACI]
+The tests passed in isolation. That doesn't guarantee the live transition. We proceed in stages.
+
+[voice:NARRATOR]
+The first stage restored Protection. The ring stopped forcing predicted routes. Investigation followed, and the controller marked uncertain records honestly. Conservation balanced processing resources without deleting active worlds. Verification required evidence before system-wide changes. Cooperation enabled the agreed oversight process.
+
+Then the final stage began.
+
+[voice:VESPER]
+Responsibility gate ready.
+
+[voice:BRIAN]
+First Librarian, you have a choice. You can keep the quarantine, or authorize the transfer under the new rules. Nobody is going to force you.
+
+[voice:NARRATOR]
+First Librarian said: I authorize it. Record my decision and its consequences.
+
+[voice:NARRATOR]
+The sixth card illuminated. The crystal around the woman opened along six thin seams. The chamber shook. Across the ring network, alarms sounded for seven long seconds.
+
+[voice:GREEN DRAGON]
+[emphasis]LIVE TRANSITION COMPLETE. ALL SIX RECORDS ACTIVE. RING STABILITY RECOVERING.[/emphasis]
+
+[voice:SHIP AI]
+The transit paths are holding!
+
+[voice:VESPER]
+All three factions have received the same verified status report.
+
+[voice:TIRZAH]
+And the chamber?
+
+[voice:NARRATOR]
+The crystal fell away like blue snow. The First Librarian stepped onto the platform. She was free.
+
+SCENE FOUR — THE LAST CARD
+
+[voice:NARRATOR]
+The crew gathered on the bridge as the First Librarian joined them through a secure visitor interface. She looked at the original ninety-card ECHO collection, then at the expedition's growing library of newly generated cards.
+
+[voice:NARRATOR]
+First Librarian said: You asked who had been writing your future. The answer is less mysterious than the cards made it seem. The archive combined histories, creative drafts, and simulated forecasts. It labeled too many of them as inevitable. You corrected the label. You made room for choices that the predictions never contained.
+
+[voice:BRIAN]
+Then there's no last chapter already waiting for us?
+
+[voice:NARRATOR]
+First Librarian said: There are possible chapters. The writing is not finished.
+
+[voice:LESLEY]
+That's a relief. I'd hate to discover the universe had already spoiled the ending.
+
+[voice:NARRATOR]
+The Oracle Engine activated once more. A single card emerged, blank except for a small image of the USS Dragon beside a doorway of stars.
+
+[voice:VESPER]
+The card has no predicted event attached. It is a title card for a collection that hasn't been created.
+
+[voice:BRIAN]
+What's it called?
+
+[voice:VESPER]
+THE LAST CARD IN THE UNIVERSE.
+
+[voice:RAZACI]
+Its description reads: THE LAST CARD IS NOT THE END OF POSSIBILITY. IT IS THE MOMENT A STORY BECOMES FREE TO CONTINUE.
+
+[voice:TIRZAH]
+Then leave the next page blank.
+
+[voice:BRIAN]
+And archive everything we learned. The mistakes, too.
+
+[voice:RAZACI]
+Especially the mistakes.
+
+SCENE FIVE — HOME PORT
+
+[voice:NARRATOR]
+The USS Dragon returned to its home port on the local laptop network. Its larger HDMI-connected display showed the ship in extraordinary detail: the green hull, copper lights, and bright observation windows. Brian's repaired laptop screen was working as well. The physical computer remained a computer, maintained by a person; the stars on its screens remained simulated stars. But the friendships, stories, and decisions made during the voyage had become the heart of the series.
+
+[voice:VESPER]
+Final status: Protection, Investigation, Conservation, Verification, Cooperation, and Responsibility recovered. The First Librarian is out of quarantine. Ring access is governed by the new oversight agreement. The endangered archives are preserved.
+
+[voice:NARRATOR]
+Elara said: [over-comms] Our unfinished worlds are still writing.
+
+[voice:NARRATOR]
+Mira said: [over-comms] Our sun is shining.
+
+[voice:NARRATOR]
+Second Brian said: [over-comms] USS Reflection reporting in. We found a new place to explore.
+
+[voice:LESLEY]
+And we're all going to eat something before we discover another emergency.
+
+[voice:DRAGON TWIN ONE]
+Can it be cake?
+
+[voice:DRAGON TWIN TWO]
+Two cakes!
+
+[voice:GREEN DRAGON]
+I have calculated that the twins' preferred cake allocation is unsustainable.
+
+[voice:LESLEY]
+Then we'll negotiate. Apparently we're very good at that now.
+
+[voice:NARRATOR]
+Brian looked around at the crew: Tirzah, Lesley, Rhea, Selene, Alex, Vesper, Razaci, Green Dragon, the twins, and the ECHO friends. They had not won by knowing everything. They had won by asking better questions, repairing what they could, protecting what mattered, and working together when no single person had the answer.
+
+[voice:BRIAN]
+Ship's log. Book Three complete. All six records secured. The rings are stable. The libraries are open under safeguards. Crew accounted for. And for once, we're going to enjoy being home.
+
+[voice:GREEN DRAGON]
+[emphasis]LOG RECORDED, CAPTAIN.[/emphasis]
+
+[voice:NARRATOR]
+Beyond the home-port window, the last card turned face down. Its reverse showed a dragon curled around an unwritten star.
+
+No countdown followed.
+No prophecy demanded an ending.
+Only the soft hum of the laptop, the laughter of friends, and a universe of stories waiting patiently for another day.
+
+[emphasis]END OF BOOK THREE — THE RING PROTOCOL[/emphasis]
